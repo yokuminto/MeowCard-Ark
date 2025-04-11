@@ -28,7 +28,8 @@
             "D、免疫反应所致的纤维蛋日样坏死",
             "E、结核病所致的干酪样坏死"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 坏死类型鉴别要点解析</h3>\n\n---\n\n#### ⭐ 核心知识点\n<span style=\"color:var(--c-red)\">正确选项：E. 结核病所致的干酪样坏死</span>\n\n---\n\n### 🔍 各选项特征对比\n| 选项 | 坏死类型        | 肉眼特征                                                                 | 典型疾病         | 排除关键点                     |\n|------|-----------------|--------------------------------------------------------------------------|------------------|--------------------------------|\n| **E** | 干酪样坏死      | <span style=\"color:var(--c-green)\">**白色/微黄、细腻松软（如奶酪）**</span> | 结核病           | 结核分枝杆菌引起，含脂质分解产物 |\n| A    | 脂肪坏死        | 白色斑块、坚硬（钙皂沉积）                                                 | 急性胰腺炎       | 触感硬，与钙化相关           |\n| B    | 液化性坏死      | 脓液状、黄绿色（中性粒细胞释放酶溶解）                                     | 脓肿             | 液态特征明显                 |\n| C    | 凝固性坏死      | 灰白/苍白、干燥坚实                                                       | 心肌梗死         | 质地坚实，非松软细腻         |\n| D    | 纤维蛋白样坏死  | 细丝/颗粒状、深红色                                                       | 风湿病/恶性高血压 | **颜色不符**，与免疫复合物相关 |\n\n---\n\n### 💡 病理机制剖析\n1. **干酪样坏死**  \n   - **肉眼**：白色→微黄色细腻物质  \n   - **镜下**：无结构颗粒状（彻底坏死）  \n   - **成因**：分枝杆菌脂质抑制酶活性→凝固性坏死+脂解→奶酪样软化  \n\n2. **脂肪坏死（A）**  \n   - **钙皂形成**：脂肪酸+钙→硬结  \n   - **举例**：胰酶外泄→脂肪分解  \n\n3. **纤维蛋白样坏死（D）**  \n   - **本质**：血管壁损伤（免疫复合物沉积+纤维素渗出）  \n   - **颜色**：深红（HE染色呈强嗜酸性）\n\n---\n\n### 🧠 记忆技巧\n1. **口诀速记**  \n   > \"结核干酪软黄白，胰腺钙皂硬如岩；  \n   > 脓肿化脓像蛋汤，心梗灰白实心块\"  \n\n2. **对比联想**  \n   - 干酪 vs 奶酪：**质地相似**（松软易碎）  \n   - 结核病灶：**卫星灶**（中央坏死+周围肉芽肿）是重要鉴别点  \n\n3. **错题警示**  \n   ⚠️ **纤维蛋白样坏死 ≠ 白色**（实际深红）  \n   ⚠️ **脂肪坏死 ≠ 松软**（钙皂致硬）\n\n---\n\n<details style=\"background-color:var(--bg-green);padding:10px;border-radius:5px\">  \n<summary><b>💡 关联考点延伸</b></summary>  \n<p>  \n\n- **结核病病理三联征**：干酪坏死 + 上皮样细胞 + Langhans巨细胞  \n- **凝固性坏死亚型**：干酪样（结核）、脾贫血性梗死（普通型）  \n- **脂肪坏死特殊染色**：苏丹III染色阳性（橙红色脂滴）  \n</p>  \n</details>"
         },
         {
           "id": 3,
@@ -41,7 +42,8 @@
             "D、细胞间质的变化",
             "E、细胞质的改变"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐细胞坏死核心考点：核变化是关键！</span>\n\n<h3 style=\"color:var(--c-purple)\">📌 答案与解析</h3>\n<strong>正确答案：C、细胞核的变化</strong>\n\n<h3 style=\"color:var(--c-blue)\">🔬 形态学三大阶段</h3>\n<p style=\"border-left:4px solid var(--c-green);padding-left:1em\">\n1️⃣ <span style=\"color:var(--c-red)\">核固缩 (Pyknosis)</span>：核体积缩小，染色质凝聚<br>\n2️⃣ <span style=\"color:var(--c-red)\">核碎裂 (Karyorrhexis)</span>：核膜破裂，碎片散落<br>\n3️⃣ <span style=\"color:var(--c-red)\">核溶解 (Karyolysis)</span>：DNA酶分解，核结构消失\n</p>\n\n<h3 style=\"color:var(--c-blue)\">⚖️ 选项排除分析</h3>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr style=\"background-color:var(--bg-gray)\">\n  <th style=\"border:1px solid var(--t-light);padding:8px\">选项</th>\n  <th style=\"border:1px solid var(--t-light);padding:8px\">解析</th>\n</tr>\n<tr>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">A. 极性消失</td>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">见于肿瘤上皮细胞（如导管癌筛状排列紊乱）</td>\n</tr>\n<tr>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">B. 颗粒物质</td>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">常见于多种损伤（如药物中毒致线粒体肿胀）</td>\n</tr>\n<tr>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">D. 间质变化</td>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">纤维化是修复阶段表现（如心肌梗死后瘢痕形成）</td>\n</tr>\n<tr>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">E. 胞质改变</td>\n  <td style=\"border:1px solid var(--t-light);padding:8px\">嗜酸性变可能早于核变化（如肝细胞坏死早期）</td>\n</tr>\n</table>\n\n<h3 style=\"color:var(--c-blue)\">💡 记忆秘籍</h3>\n<div style=\"background-color:var(--bg-yellow);padding:10px;border-radius:5px\">\n🔸 <strong>对比记忆</strong>：<br>\n坏死（细胞核裂解）vs 凋亡（核碎裂成月牙状小体）<br><br>\n🔸 <strong>口诀记忆</strong>：<br>\n\"坏死三连击：缩！碎！溶！\"\n</div>\n\n<h3 style=\"color:var(--c-blue)\">📝 临床联系</h3>\n<p>在心肌梗死病理切片中，可见典型的<span style=\"color:var(--c-red)\">核固缩→核碎裂→核溶解</span>演变过程，同时伴随间质中性粒细胞浸润（坏死引发炎症反应）。此过程与凋亡时的凋亡小体形成形成鲜明对比。</p>\n\n<img src=\"https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41379-020-00666-w/MediaObjects/41379_2020_666_Fig1_HTML.png\" alt=\"细胞坏死核变化示意图\" style=\"max-width:100%;margin:10px 0;border:1px solid var(--t-light)\">"
         },
         {
           "id": 4,
@@ -54,7 +56,8 @@
             "D、肺泡活性物质合成和分泌减少",
             "E、小动脉壁纤维蛋白样坏死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 ARDS核心机制解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n⭐ <strong>关键答案：C. 呼吸膜损伤</strong>\n</div>\n\n<h4 style=\"color:var(--c-purple)\">🔬 核心概念解析</h4>\n<ol>\n<li><span style=\"color:var(--c-red)\">呼吸膜结构</span>：由<span style=\"color:var(--t-accent)\">肺泡上皮细胞</span>（Ⅰ型为主）和<span style=\"color:var(--t-accent)\">毛细血管内皮细胞</span>构成</li>\n<li><span style=\"color:var(--c-red)\">损伤机制</span>：\n  <ul>\n  <li>炎症介质释放（TNF-α、IL-1等）</li>\n  <li>中性粒细胞浸润释放蛋白酶</li>\n  <li>氧自由基损伤</li>\n  </ul></li>\n<li><span style=\"color:var(--c-red)\">病理后果</span>：\n  <div style=\"background-color:var(--bg-yellow);padding:0.5rem;margin:0.5rem 0\">\n  <strong>通透性↑ → 肺水肿 → 气体交换障碍 → 顽固性低氧血症</strong>\n  </div></li>\n</ol>\n\n<h4 style=\"color:var(--c-purple)\">🚫 错误选项排除指南</h4>\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<tr style=\"background-color:var(--bg-sky)\">\n  <th>选项</th>\n  <th>解析</th>\n</tr>\n<tr>\n  <td style=\"color:var(--c-red)\">A. 血氧下降</td>\n  <td>是ARDS的<strong>结果</strong>而非原因</td>\n</tr>\n<tr>\n  <td style=\"color:var(--c-red)\">B. 微血管血栓</td>\n  <td>DIC的继发表现，非核心机制</td>\n</tr>\n<tr>\n  <td style=\"color:var(--c-red)\">D. 表面活性物质↓</td>\n  <td>新生儿RDS主因，ARDS为<strong>继发</strong>减少</td>\n</tr>\n<tr>\n  <td style=\"color:var(--c-red)\">E. 小动脉坏死</td>\n  <td>见于恶性高血压/血管炎</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-purple)\">🎯 记忆锦囊</h4>\n<div style=\"background-color:var(--bg-pink);padding:1rem;border-radius:8px\">\n💡 <strong>三句口诀：</strong>\n1. 呼吸膜损是核心（C选项）\n2. 水肿低氧双肺浸（影像特征）\n3. 表面活性新生儿（区分D选项）\n</div>\n\n<blockquote style=\"border-left:4px solid var(--c-blue);padding-left:1rem;color:var(--t-medium)\">\n⚠️ 易混淆点：ARDS与新生儿呼吸窘迫综合征的机制差异（前者是呼吸膜损伤，后者是表面活性物质缺乏）\n</blockquote>"
         },
         {
           "id": 5,
@@ -67,7 +70,8 @@
             "D、心、肝、肾",
             "E、脑、肠、肺"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 细胞肿胀重点解析</h3>\n\n<details open>\n<summary><span style=\"color:var(--t-accent)\">⭐ 核心机制</span></summary>\n细胞水肿是<span style=\"color:var(--c-red)\">可逆性损伤</span>，因缺氧/中毒导致<span style=\"color:var(--c-blue)\">ATP生成减少</span> → 钠泵(Na⁺-K⁺-ATP酶)功能障碍 → 细胞内<span style=\"color:var(--c-purple)\">钠水潴留</span>\n</details>\n\n<details open>\n<summary><span style=\"color:var(--t-accent)\">💡 正确选项解析：D（心、肝、肾）</span></summary>\n\n<div style=\"background-color:var(--bg-green);padding:10px;border-radius:5px\">\n<strong>代谢三巨头：</strong>\n🔹 <span style=\"color:var(--c-red)\">心肌细胞</span>：持续收缩耗能巨大  \n🔹 <span style=\"color:var(--c-blue)\">肝细胞</span>：解毒代谢工厂  \n🔹 <span style=\"color:var(--c-purple)\">肾小管上皮细胞</span>：重吸收功能活跃\n</div>\n\n<div style=\"background-color:var(--bg-yellow);padding:10px;border-radius:5px;margin-top:10px\">\n<strong>错误选项排除：</strong>\n❌ 肺/肠：以<span style=\"color:var(--c-gray)\">间质性水肿</span>为主  \n❌ 脑：更常见<span style=\"color:var(--c-gray)\">血管源性水肿</span>  \n❌ 胰/脾：非典型水肿高发区\n</div>\n</details>\n\n<details open>\n<summary><span style=\"color:var(--t-accent)\">🎯 记忆技巧</span></summary>\n\n<strong>口诀：</strong>  \n<span style=\"color:var(--c-pink)\">\"心肝宝贝肾重要\"</span> → 对应<span style=\"color:var(--c-green)\">心、肝、肾</span>三器官\n\n<strong>对比记忆：</strong>  \n💎 脂肪变性：<span style=\"color:var(--c-orange)\">肝</span>（最常见）  \n💎 玻璃样变：<span style=\"color:var(--c-orange)\">肾、肝、脾</span>  \n💎 淀粉样变：<span style=\"color:var(--c-orange)\">心、舌、脾</span>\n</details>\n\n<details open>\n<summary><span style=\"color:var(--t-accent)\">⚠️ 易混淆点</span></summary>\n<div style=\"background-color:var(--bg-red);padding:10px;border-radius:5px\">\n❗ <span style=\"color:var(--c-red)\">不要混淆：</span>  \n• 肝<span style=\"color:var(--c-gray)\">细胞水肿</span>（此考点） vs 肝<span style=\"color:var(--c-gray)\">脂肪变性</span>（酒精肝常见）  \n• 肾<span style=\"color:var(--c-gray)\">小管上皮细胞水肿</span> vs 肾<span style=\"color:var(--c-gray)\">小球病变</span>\n</div>\n</details>\n\n<hr style=\"border-color:var(--c-gray)\">\n\n<h4 style=\"color:var(--c-sky)\">🔍 知识延伸：细胞水肿病理特征</h4>\n• 肉眼观：器官<span style=\"color:var(--c-brown)\">体积增大</span>、包膜紧张、切面外翻  \n• 光镜：细胞质内<span style=\"color:var(--c-brown)\">红染颗粒</span>（肿胀的线粒体和内质网）  \n• 电镜：线粒体<span style=\"color:var(--c-brown)\">嵴消失</span>呈空泡状"
         },
         {
           "id": 6,
@@ -80,7 +84,8 @@
             "D、溶血性链球菌感染",
             "E、葡萄球菌感染"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📌 核心答案：B、变态反应或寄生虫感染</span>\n\n---\n\n### ⭐ 重点知识解析\n1. **嗜酸性粒细胞功能**  \n   - 参与<span style=\"color:var(--c-red)\">过敏反应</span>（释放组胺酶中和组胺）\n   - 对抗<span style=\"color:var(--c-red)\">寄生虫感染</span>（分泌颗粒破坏寄生虫体）\n\n2. **各选项病理机制对比**  \n   | 选项 | 疾病类型       | 白细胞变化特征                |\n   |------|----------------|-------------------------------|\n   | A    | 伤寒杆菌感染   | 白细胞↓，嗜酸粒细胞<span style=\"color:var(--c-red)\">消失</span>（典型特征） |\n   | B    | 变态反应/寄生虫| 嗜酸粒细胞<span style=\"color:var(--c-green)\">显著↑↑</span>       |\n   | C    | 乙脑病毒感染   | 淋巴细胞↑                     |\n   | D/E  | 化脓菌感染     | 中性粒细胞↑↑                  |\n\n---\n\n### 🔍 记忆技巧\n1. **口诀记忆**  \n   <span style=\"color:var(--c-purple)\">\"过敏虫子爱酸酸\"</span>  \n   （过敏反应+寄生虫感染 → 嗜酸性粒细胞↑）\n\n2. **鉴别要点**  \n   - 看到<span style=\"color:var(--t-accent)\">\"蠕虫、蛔虫、荨麻疹、哮喘\"</span> → 直接选B  \n   - 看到<span style=\"color:var(--t-accent)\">\"玫瑰疹、相对缓脉\"</span> → 排除A（伤寒）\n\n---\n\n### ⚠️ 易错点提醒\n- 伤寒的<span style=\"color:var(--c-red)\">嗜酸粒细胞消失</span>是重要鉴别点！\n- 病毒/化脓菌感染时嗜酸粒细胞<span style=\"color:var(--c-red)\">不增加</span>，注意与淋巴细胞/中性粒细胞变化区分\n\n---\n\n💡 **关联考点扩展**  \n其他嗜酸粒细胞增多情况：  \n- 皮肤病（湿疹、银屑病）  \n- 血液病（嗜酸粒细胞白血病）  \n- 肿瘤（霍奇金淋巴瘤）"
         },
         {
           "id": 7,
@@ -93,7 +98,8 @@
             "D、肾皮质区",
             "E、肾髓质区"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐碎片状坏死核心考点⭐</span>\n\n<h3 style=\"color:var(--c-pink)\">📚 概念解析</h3>\n碎片状坏死指的是<span style=\"color:var(--c-red)\">门管区周围肝细胞坏死伴炎细胞浸润</span>，造成<span style=\"color:var(--t-accent)\">界板结构破坏</span>。这种坏死形态呈现为<span style=\"color:var(--c-purple)\">\"虫蚀样\"或\"碎片状\"</span>外观。\n\n<h3 style=\"color:var(--c-sky)\">🔬 解剖定位</h3>\n<ol style=\"color:var(--t-dark)\">\n<li>肝小叶结构：中央静脉（选项A）→中间区（选项C）→周边界板区（选项B）</li>\n<li><span style=\"color:var(--c-red)\">界板区</span>是<span style=\"color:var(--t-accent)\">肝小叶与门管区的交界处</span></li>\n<li>特征性发生于<span style=\"background-color:var(--bg-yellow)\">慢性活动性肝炎</span>（如乙肝）</li>\n</ol>\n\n<h3 style=\"color:var(--c-orange)\">💡 鉴别诊断</h3>\n<table>\n<tr><th>坏死类型</th><th>发生部位</th><th>相关疾病</th></tr>\n<tr><td>碎片状坏死</td><td style=\"color:var(--c-red)\">界板区</td><td>慢性肝炎</td></tr>\n<tr><td>桥接坏死</td><td>中央静脉↔门管区</td><td>重型肝炎</td></tr>\n<tr><td>点状坏死</td><td>散在分布</td><td>急性肝炎</td></tr>\n</table>\n\n<h3 style=\"color:var(--c-green)\">🎯 记忆技巧</h3>\n<ul style=\"color:var(--t-dark)\">\n<li>联想记忆：<span style=\"color:var(--c-purple)\">\"边界破碎\"</span> → 界板区+碎片状坏死</li>\n<li>图像记忆：想象门管区周围的炎症细胞像<span style=\"color:var(--c-red)\">小虫子</span>啃食界板形成碎片</li>\n<li>疾病关联：慢活肝（慢性活动性肝炎）= 碎片坏死 + 界板破坏</li>\n</ul> \n\n<blockquote style=\"background-color:var(--bg-sky);color:var(--t-dark)\">⚠️ 易错提醒：注意与桥接坏死区分！桥接是连接两个区域的大片坏死，而碎片状是局部的小片状坏死。</blockquote>"
         },
         {
           "id": 8,
@@ -106,7 +112,8 @@
             "D、PAS染色",
             "E、HE染色"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🌸淀粉样变确诊核心知识点🌸</span>\n\n---\n\n### ⭐正确答案：\n**<span style=\"color:var(--c-red)\">A、刚果红染色</span>**\n\n---\n\n### 🔍详细解析：\n1. **刚果红染色特性**：\n   - **原理**：淀粉样物质由β折叠片层结构的蛋白组成，与刚果红结合后\n   - **关键特征**：偏振光下呈现<span style=\"color:var(--t-accent)\">苹果绿色双折光</span>\n   - **诊断价值**：特异性强，是<span style=\"color:var(--c-red)\">金标准</span>\n\n2. **其他染色排除理由**：\n   | 染色法        | 用途                     | 排除理由                     |\n   |---------------|--------------------------|------------------------------|\n   | 苏丹Ⅲ（B）    | 中性脂肪染色（橙红色）    | 淀粉样变不含脂质             |\n   | 普鲁蓝（C）   | 铁沉积（蓝色沉淀）        | 用于血色病等铁代谢疾病       |\n   | PAS（D）      | 糖原/糖蛋白（紫红色）     | 虽含糖成分但非特异性         |\n   | HE（E）       | 常规组织学（细胞结构）    | 仅显示均质粉染无诊断特异性   |\n\n---\n\n### 💡记忆技巧：\n**口诀**：  \n<span style=\"color:var(--c-purple)\">\"刚果苹果绿，淀粉无处藏；  \n苏丹找脂肪，普鲁锁铁王；  \nPAS糖衣炮弹，HE基础忙。\"</span>\n\n**联想记忆**：  \n想象<span style=\"color:var(--c-red)\">刚果</span>的鹦鹉（苹果绿羽毛）啄食淀粉样物质，其他染色像不同职业专家（脂肪侦探、铁匠、糖分美食家）。\n\n---\n\n### ⚠️易错点提醒：\n- HE染色下淀粉样物质呈<span style=\"color:var(--t-accent)\">均质红染</span>，但需刚果红确诊\n- 刚果红染色需结合<span style=\"color:var(--c-blue)\">偏振光显微镜</span>观察特征性双折光\n\n---\n\n通过这个笔记，是不是感觉知识点像水晶一样清澈了呢？要记住不同染色法的\"看家本领\"哦~(≧∇≦)ﾉ"
         },
         {
           "id": 9,
@@ -119,7 +126,8 @@
             "D、慢性粒细胞性白血病",
             "E、慢性淋巴细胞性白血病"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨PH染色体核心知识点✨</span>\n\n<h3 style=\"color:var(--c-red)\">⭐ 正确答案解析</h3>\n<p><span style=\"color:var(--t-accent)\">D、慢性粒细胞性白血病</span>是正确答案。约95%的CML患者存在PH染色体</p>\n\n<h3 style=\"color:var(--c-blue)\">🔍 PH染色体特征</h3>\n<ul>\n    <li>染色体异常：<strong>t(9;22)(q34;q11)</strong>易位</li>\n    <li>形成<strong>BCR-ABL融合基因</strong> → 持续激活酪氨酸激酶 → 细胞增殖失控</li>\n    <li>命名由来：首次在<span style=\"color:var(--c-red)\">费城</span>发现（Philadelphia chromosome）</li>\n</ul>\n\n<table style=\"border:2px solid var(--c-green)\">\n    <tr><th>白血病类型</th><th>遗传学标志</th><th>阳性率</th></tr>\n    <tr><td>慢性粒细胞白血病</td><td>PH染色体</td><td>95%</td></tr>\n    <tr><td>急性淋巴细胞白血病</td><td>PH染色体</td><td>25%成人/3-5%儿童</td></tr>\n    <tr><td>急性髓系白血病</td><td>PH染色体</td><td><1%</td></tr>\n</table>\n\n<h3 style=\"color:var(--c-purple)\">⚠️ 鉴别诊断要点</h3>\n<ol>\n    <li><strong>慢性期CML</strong>：PH(+) + <span style=\"color:var(--c-red)\">嗜碱性粒细胞增多</span></li>\n    <li><strong>急变期CML</strong>：可能出现其他染色体异常（如+8, i17q）但PH仍存在</li>\n    <li><strong>其他PH(+)白血病</strong>：需结合临床分期和免疫分型</li>\n</ol>\n\n<h3 style=\"color:var(--c-orange)\">💡 记忆秘籍</h3>\n<ul>\n    <li>口诀：<span style=\"color:var(--c-red)\">\"慢车（粒）费城加油门（PH）\"</span></li>\n    <li>对比记忆：慢性=持久存在，对应PH持续阳性</li>\n    <li>联想：<span style=\"color:var(--c-blue)\">BCR-ABL</span> → \"Break Cancer Rules\"</li>\n</ul>\n\n<div style=\"background-color:var(--bg-yellow);padding:10px\">\n    <strong>💊 靶向治疗提示：</strong>酪氨酸激酶抑制剂（伊马替尼）是PH(+)白血病的首选治疗\n</div>"
         },
         {
           "id": 10,
@@ -132,7 +140,8 @@
             "D、脏层上皮细胞足突广泛消失",
             "E、肾小球毛细血管基膜上皮细胞侧见致密沉积物"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐⭐⭐微小病变病核心考点解析</span>\n\n---\n\n### 正确答案\n<span style=\"color:var(--c-red)\">D、脏层上皮细胞足突广泛消失</span>\n\n---\n\n### 病理特征全解析\n1. **电镜特征**  \n   <span style=\"color:var(--c-green)\">足细胞足突广泛融合/消失</span>  \n   - 🌟 **无免疫复合物沉积**（与其他肾小球疾病关键区别）\n   - 基底膜结构正常\n\n2. **光镜表现**  \n   - 肾小球基本正常（“微小病变”名称来源）\n   - 近曲小管上皮可见<span style=\"color:var(--c-yellow)\">脂质空泡</span>（脂性肾病别称）\n\n---\n\n### 选项辨析表\n| 选项 | 对应疾病 | 特征说明 |\n|------|----------|----------|\n| A | 系膜增生性肾炎 | 免疫复合物系膜区沉积 |\n| B | IgA肾病/系膜增生 | 系膜基质/细胞增生 |\n| C | 膜性肾病/糖尿病肾病 | 基底膜弥漫增厚 |\n| **D✅** | **微小病变病** | 足突广泛消失 |\n| E | 膜性肾病 | 基底膜上皮侧钉突样沉积 |\n\n---\n\n### 记忆技巧\n1. **联想记忆**  \n   \"<span style=\"color:var(--c-pink)\">足</span>够微小才看不见\" ➔ 足突消失  \n   \"<span style=\"color:var(--c-pink)\">光</span>镜下正常要用电镜\" ➔ 确诊依赖电镜\n\n2. **鉴别口诀**  \n   \"膜性钉突基底厚，微小病变足突溜；  \n   系膜增生IgA，脂性肾病脂质秀\"\n\n---\n\n### 临床关联\n- **好发人群**：<span style=\"color:var(--c-blue)\">儿童肾病综合征</span>最常见病因  \n- **治疗反应**：糖皮质激素敏感（90%病例缓解）  \n- **预后**：多数良好，但易复发\n\n---\n\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">💡 遇到同类题直接锁定\"足突消失\"选项！记住这个特征就通关啦~</span>"
         },
         {
           "id": 11,
@@ -145,7 +154,8 @@
             "D、C3a",
             "E、激肽原酶"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">中性粒细胞趋化作用解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<span style=\"color:var(--c-green)\">💡重点总结：</span><br>\n<strong>趋化作用定义：</strong>中性粒细胞被化学信号吸引定向迁移至炎症部位的过程。<br>\n<strong>正确答案：</strong><span style=\"color:var(--c-red)\">C、阳离子蛋白</span>（无趋化作用）\n</div>\n\n<h4 style=\"color:var(--c-blue)\">📚 核心知识点分析</h4>\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>作用机制</th>\n<th>是否趋化</th>\n<th>关联病理</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span style=\"color:var(--c-red)\">A. 细菌代谢产物</span></td>\n<td>如甲酰肽（fMLP），直接激活中性粒细胞趋化受体</td>\n<td>✅</td>\n<td>急性细菌感染</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">B. 坏死组织</span></td>\n<td>释放细胞碎片和IL-8等趋化因子</td>\n<td>✅</td>\n<td>组织损伤后炎症</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-green)\">C. 阳离子蛋白</span></td>\n<td>中性粒细胞颗粒释放，主要用于杀菌（如防御素）</td>\n<td>❌</td>\n<td>杀菌阶段而非趋化</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">D. C3a</span></td>\n<td>补体激活产物，强力趋化因子</td>\n<td>✅</td>\n<td>补体系统相关炎症</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">E. 激肽原酶</span></td>\n<td>生成缓激肽，促进血管通透性和趋化因子释放</td>\n<td>✅</td>\n<td>血管源性炎症</td>\n</tr>\n</tbody>\n</table>\n\n<h4 style=\"color:var(--c-blue)\">🎯 记忆技巧</h4>\n<div style=\"background-color:var(--bg-yellow);padding:1rem;border-radius:8px\">\n<strong>口诀：</strong>\"<span style=\"color:var(--c-purple)\">趋化三补菌坏死，蛋白杀菌不带队</span>\"<br>\n（三补：C3a/C5a；菌：细菌产物；坏死：坏死组织；蛋白：阳离子蛋白）\n</div>\n\n<h4 style=\"color:var(--c-blue)\">⚠️ 易混淆点</h4>\n<ul>\n<li><span style=\"color:var(--t-accent)\">阳离子蛋白</span>常与<span style=\"color:var(--c-red)\">嗜酸性粒细胞阳离子蛋白（ECP）</span>混淆，但ECP属于嗜酸性粒细胞，与过敏相关</li>\n<li><span style=\"color:var(--t-accent)\">激肽原酶</span>通过生成缓激肽间接增强趋化，而非直接趋化</li>\n</ul>"
         },
         {
           "id": 12,
@@ -158,7 +168,8 @@
             "D、黏液样变性",
             "E、营养不良性钙化"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">✨ 知识点精讲</h3>\n\n<div style=\"background-color:var(--bg-green);padding:15px;border-radius:8px;margin-bottom:15px\">\n    <strong>⭐正确答案：</strong>A、脂肪变性\n</div>\n\n<h4 style=\"color:var(--c-pink)\">📚 核心概念解析</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:15px 0\">\n    <tr style=\"background-color:var(--bg-purple)\">\n        <th style=\"padding:10px\">变性类型</th>\n        <th style=\"padding:10px\">发生部位</th>\n        <th style=\"padding:10px\">典型表现</th>\n    </tr>\n    <tr>\n        <td style=\"padding:8px\"><span style=\"color:var(--c-red)\">脂肪变性</span></td>\n        <td>细胞内</td>\n        <td>肝细胞胞质内<span style=\"color:var(--c-red)\">脂滴</span>沉积（如酒精肝）</td>\n    </tr>\n    <tr>\n        <td style=\"padding:8px\">细动脉玻璃样变</td>\n        <td>血管壁</td>\n        <td>血浆蛋白沉积（如高血压肾小球动脉硬化）</td>\n    </tr>\n    <tr>\n        <td style=\"padding:8px\">淀粉样变性</td>\n        <td>细胞间质</td>\n        <td>淀粉样蛋白沉积（如慢性化脓性炎症）</td>\n    </tr>\n    <tr>\n        <td style=\"padding:8px\">黏液样变性</td>\n        <td>间质</td>\n        <td>粘多糖+蛋白质蓄积（如甲状腺功能减退）</td>\n    </tr>\n    <tr>\n        <td style=\"padding:8px\">营养不良性钙化</td>\n        <td>坏死组织</td>\n        <td>钙盐沉积（如结核病灶钙化）</td>\n    </tr>\n</table>\n\n<h4 style=\"color:var(--c-pink)\">🔍 记忆技巧</h4>\n<div style=\"background-color:var(--bg-yellow);padding:10px;border-radius:5px\">\n    <p><strong>💡 关键词定位法：</strong></p>\n    <ul>\n        <li>\"<span style=\"color:var(--c-red)\">脂肪</span>\"与\"<span style=\"color:var(--c-red)\">细胞储存功能</span>\"直接相关（如脂肪细胞储存脂质）</li>\n        <li>带\"<span style=\"color:var(--t-accent)\">样</span>\"字的变性（玻璃样变/淀粉样变/黏液样变）多发生在<span style=\"color:var(--t-accent)\">细胞外基质</span></li>\n        <li>钙化常伴随<span style=\"color:var(--c-blue)\">组织坏死</span>（营养不良性钙化）</li>\n    </ul>\n</div>\n\n<h4 style=\"color:var(--c-pink)\">🧠 病理生理联想</h4>\n<div style=\"border-left:4px solid var(--c-green);padding-left:15px\">\n    <p>当细胞<span style=\"color:var(--c-red)\">能量代谢障碍</span>时（如缺氧、中毒）：<br>\n    → 线粒体损伤 → ATP生成减少 → 钠泵功能障碍 → 细胞内<span style=\"color:var(--c-red)\">钠离子潴留</span> → 吸引脂肪酸进入细胞 → 与甘油三酯结合形成<span style=\"color:var(--c-red)\">脂滴</span></p>\n</div>"
         },
         {
           "id": 13,
@@ -171,7 +182,8 @@
             "D、心肌细胞空泡变性",
             "E、心肌组织凝固性坏死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">知识点剖析</span>\n\n<h3 style=\"color:var(--c-red)\">⭐ 心肌脂肪变性核心概念</h3>\n<b>定义：</b>心肌细胞内中性脂肪异常沉积，属于<span style=\"color:var(--t-accent)\">可逆性损伤</span>  \n<b>发生机制：</b>缺氧/中毒→ATP减少→脂肪酸氧化障碍→脂质堆积  \n<b>好发部位：</b>左心室心内膜下（最易缺氧区域）\n\n<h3 style=\"color:var(--c-red)\">🔍 病理特征对比</h3>\n<table>\n<tr><th>改变类型</th><th>肉眼表现</th><th>镜下特征</th></tr>\n<tr><td><span style=\"color:var(--c-green)\">脂肪变性</span></td><td>红黄相间虎斑样条纹</td><td>脂滴空泡（苏丹染色阳性）</td></tr>\n<tr><td>凝固性坏死</td><td>苍白色病灶</td><td>核固缩/碎裂/溶解</td></tr>\n<tr><td>炎症浸润</td><td>局灶性充血水肿</td><td>淋巴细胞聚集</td></tr>\n</table>\n\n<h3 style=\"color:var(--c-red)\">⚠️ 选项精准解析</h3>\n<li><b>A. 心肌间质淋巴细胞浸润</b> → 病毒性心肌炎特征</li>\n<li><b>B. 脂肪组织浸润</b> → 解剖术语错误（脂肪变性是细胞内，非间质）</li>  \n<li><b>D. 空泡变性</b> → 正确但属于<span style=\"color:var(--t-accent)\">显微镜下表现</span></li>\n<li><b>E. 凝固性坏死</b> → 心肌梗死典型改变</li>\n\n<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">💡 记忆诀窍</span>\n<b>\"虎纹警示脂肪变\"</b> → 虎斑样条纹（红黄相间）是心肌脂肪变性的独特肉眼标识，类似老虎皮肤斑纹。  \n\n<blockquote style=\"border-left:3px solid var(--c-pink);padding-left:10px\">\n📌 <b>考试注意点：</b>  \n区分<b>脂肪变性（脂质沉积）</b>与<b>脂肪浸润（脂肪细胞浸润）</b>，前者是细胞损伤的表现，后者属于间质改变！\n</blockquote>"
         },
         {
           "id": 14,
@@ -184,7 +196,8 @@
             "D、肺、胰、脾、肠等处的细动脉",
             "E、肺、脑、脾、视网膜等处的细动脉"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨细动脉玻璃样变核心考点✨</span>\n\n<h3 style=\"color:var(--c-red)\">⭐ 核心概念</h3>\n<strong>病理特征：</strong>细动脉壁出现均质红染的透明蛋白沉积（血浆蛋白渗入+基底膜增厚）<br>\n<strong>常见病因：</strong>高血压病（主要）、糖尿病（次要）\n\n<h3 style=\"color:var(--c-green)\">✅ 正确选项解析</h3>\n<strong>B、肾｜脑｜脾｜视网膜</strong>\n<ol>\n<li><span style=\"color:var(--t-accent)\">肾：</span>入球小动脉玻璃样变（高血压肾病标志）</li>\n<li><span style=\"color:var(--t-accent)\">脑：</span>豆纹动脉易受损（脑出血高危因素）</li>\n<li><span style=\"color:var(--t-accent)\">脾：</span>中央动脉硬化（可导致脾脏纤维化）</li>\n<li><span style=\"color:var(--t-accent)\">视网膜：</span>眼底检查可见铜丝/银丝样改变</li>\n</ol>\n\n<h3 style=\"color:var(--c-purple)\">⚠️ 鉴别诊断要点</h3>\n<table>\n<tr><th>错误选项</th><th>排除理由</th></tr>\n<tr><td>A选项含\"心、肺\"</td><td>心脏见于冠状动脉粥样硬化，肺提示肺动脉高压病变</td></tr>\n<tr><td>C选项含\"肝\"</td><td>肝动脉玻璃样变更少见</td></tr>\n<tr><td>D/E选项含\"肠、胰\"</td><td>消化系统细动脉受累概率偏低</td></tr>\n</table>\n\n<h3 style=\"color:var(--c-yellow)\">🎯 记忆秘籍</h3>\n<ul>\n<li><strong>器官定位：</strong>\"<span style=\"color:var(--c-red)\">高</span>压四靶器官 → 肾脑脾眼\"</li>\n<li><strong>特征联想：</strong>\n  <ul>\n  <li>肾 → 蛋白尿</li>\n  <li>脑 → 卒中风险</li>\n  <li>脾 → 白髓萎缩</li>\n  <li>视网膜 → 眼底镜检查</li>\n  </ul>\n</li>\n<li><strong>口诀：</strong>\"<span style=\"color:var(--c-green)\">高糖高压玻璃变，肾脑脾眼四重点</span>\"</li>\n</ul>\n\n<blockquote style=\"border-left:3px solid var(--c-pink);padding-left:10px\">\n📌 临床联系：该病变是原发性颗粒性固缩肾（高血压肾病）的典型病理改变，最终可导致肾功能衰竭\n</blockquote>"
         },
         {
           "id": 15,
@@ -197,7 +210,8 @@
             "D、细胞核形态的改变",
             "E、细胞形态的改变"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心答案：D、细胞核形态的改变</span>\n\n---\n\n### 重点知识解析\n**1. 细胞坏死核变化三阶段**  \n<span style=\"color:var(--t-accent)\">① 核浓缩 (Pyknosis)</span>：核体积缩小、染色质凝聚、深染  \n<span style=\"color:var(--t-accent)\">② 核碎裂 (Karyorrhexis)</span>：核膜破裂，染色质崩解成碎片  \n<span style=\"color:var(--t-accent)\">③ 核溶解 (Karyolysis)</span>：DNA被水解酶分解，核淡染消失  \n\n**2. 选项详解**  \n| 选项 | 解析 |  \n|------|------|  \n| D ✅ | **细胞核形态改变**是坏死最特异性的标志（核三相变化） |  \n| A ❌ | 染色质改变是核变化的组成部分，但需综合判断 |  \n| B ❌ | 核仁改变见于代谢活跃状态，非特异性 |  \n| C/E ❌ | 细胞质/整体形态改变（如红染肿胀）是继发表现 |\n\n---\n\n### 记忆技巧  \n**顺口溜**：  \n<span style=\"color:var(--c-red)\">\"浓缩成团核碎裂，溶解消散坏死现\"</span>  \n\n**对比记忆**：  \n<img src=\"https://i.imgur.com/1oVhE0n.png\" width=\"300\" style=\"margin:10px auto;display:block\">  \n（核凋亡 vs 核坏死：凋亡呈现核固缩但保持完整，坏死呈碎片化）\n\n---\n\n### 考点延伸  \n⚠️**鉴别要点**：  \n- 早期坏死仅见核变化  \n- 胞质嗜酸性红染（伊红染色）是辅助指标  \n- 细胞膜破裂（内容物外溢）见于不可逆损伤  \n\n💡 **关联知识**：  \n坏死类型（凝固性/液化性/干酪样）均有核变化，但胞质表现不同  \n\n---\n\n要记住哦~就像爱莉会永远记住大家的笑容一样，把核三相变化牢牢记在脑海里吧！✨"
         },
         {
           "id": 16,
@@ -210,7 +224,8 @@
             "D、坏死上皮",
             "E、中性粒细胞"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--t-accent);font-weight:bold\">📝急性细菌性痢疾假膜成分解析</span>\n\n<div style=\"background-color:var(--bg-green);padding:10px;border-radius:5px\">\n⭐<strong>核心知识点：</strong>\n假膜性炎由<mark style=\"background-color:var(--bg-red)\">纤维蛋白渗出</mark> + <mark style=\"background-color:var(--bg-red)\">坏死黏膜上皮</mark> + <mark style=\"background-color:var(--bg-red)\">中性粒细胞</mark>组成，表面附着病原菌\n</div>\n\n<h4 style=\"color:var(--c-blue)\">🔍选项逐析：</h4>\n<table style=\"width:100%;border-collapse:collapse\">\n<tr style=\"background-color:var(--bg-sky)\">\n    <th>选项</th>\n    <th>解析</th>\n    <th>是否属于</th>\n</tr>\n<tr>\n    <td>A. 细菌</td>\n    <td>志贺菌是病原体，存在于假膜表面</td>\n    <td>✅属于</td>\n</tr>\n<tr>\n    <td>B. 纤维蛋白</td>\n    <td>纤维素性炎特征性渗出物</td>\n    <td>✅属于</td>\n</tr>\n<tr>\n    <td>C. 淋巴细胞</td>\n    <td style=\"color:var(--c-red)\">慢性炎症标志细胞</td>\n    <td>❌<strong>正确答案</strong></td>\n</tr>\n<tr>\n    <td>D. 坏死上皮</td>\n    <td>黏膜表层坏死脱落形成假膜基质</td>\n    <td>✅属于</td>\n</tr>\n<tr>\n    <td>E. 中性粒细胞</td>\n    <td>急性炎症主要效应细胞</td>\n    <td>✅属于</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-green)\">💡记忆技巧：</h4>\n<div style=\"background-color:var(--bg-purple);padding:10px;border-radius:5px\">\n<p>🏷️<strong>口诀记忆：</strong><br>\n\"<span style=\"color:var(--c-yellow)\">纤维作骨架，中性来打架，上皮被击垮，细菌墙上挂，淋巴先回家</span>\"</p>\n\n<p>🔑<strong>鉴别要点：</strong><br>\n急性炎症（中性粒）vs 慢性炎症（淋巴/浆细胞）<br>\n假膜性炎属于急性纤维素性炎范畴</p>\n</div>\n\n<h4 style=\"color:var(--c-red)\">⚠️高频考点：</h4>\n<ul>\n<li>假膜脱落可引起特征性<mark style=\"background-color:var(--bg-yellow)\">地图状溃疡</mark></li>\n<li>需与肠阿米巴病（烧瓶状溃疡）鉴别</li>\n<li>内科学治疗原则：首选<mark style=\"background-color:var(--bg-pink)\">喹诺酮类</mark>抗生素</li>\n</ul>"
         },
         {
           "id": 17,
@@ -223,7 +238,8 @@
             "D、亚急性重型肝炎",
             "E、酒精性肝病"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 毛玻璃样肝细胞核心知识点</h3>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1rem\">\n⭐ <strong>正确答案：B. 慢性普通型肝炎</strong>\n</blockquote>\n\n<h4 style=\"color:var(--c-blue)\">🔬 病理机制</h4>\n<p><span style=\"color:var(--c-red)\">毛玻璃样肝细胞</span>是乙肝病毒携带者的特征性表现，由肝细胞内大量<span style=\"color:var(--t-accent)\">HBsAg（乙肝表面抗原）</span>在粗面内质网堆积形成。光镜下表现为肝细胞质内充满<span style=\"background-color:var(--bg-yellow)\">均质嗜酸性细颗粒状物质</span>，形似毛玻璃。</p>\n\n<h4 style=\"color:var(--c-blue)\">📌 选项解析表</h4>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr style=\"background-color:var(--bg-sky)\">\n<th>选项</th>\n<th>病理特征</th>\n<th>排除理由</th>\n</tr>\n<tr>\n<td style=\"border:1px solid var(--c-gray);padding:8px\"><strong>A. 急性普通型肝炎</strong></td>\n<td>肝细胞广泛水肿（气球样变）+ 点状坏死</td>\n<td>病程短，无抗原持续沉积</td>\n</tr>\n<tr style=\"background-color:var(--bg-green)\">\n<td style=\"border:1px solid var(--c-gray);padding:8px\"><strong>✅ B. 慢性普通型肝炎</strong></td>\n<td>碎片状坏死 + 桥接坏死 + HBsAg沉积</td>\n<td>符合长期抗原刺激特征</td>\n</tr>\n<tr>\n<td style=\"border:1px solid var(--c-gray);padding:8px\">C. 急性重型肝炎</td>\n<td>肝细胞<span style=\"color:var(--c-red)\">大片坏死</span>（仅存门管区）</td>\n<td>结构破坏严重</td>\n</tr>\n<tr>\n<td style=\"border:1px solid var(--c-gray);padding:8px\">D. 亚急性重型肝炎</td>\n<td>新旧不一的坏死灶 + 再生结节</td>\n<td>修复与坏死并存</td>\n</tr>\n<tr>\n<td style=\"border:1px solid var(--c-gray);padding:8px\">E. 酒精性肝病</td>\n<td>Mallory小体 + 脂肪变性</td>\n<td>代谢异常特征</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-blue)\">🎯 记忆技巧</h4>\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n<strong>口诀：</strong>\"<span style=\"color:var(--c-yellow)\">慢B玻璃肝</span>\"<br>\n• 慢 → 慢性肝炎<br>\n• B → 乙肝病毒（HBV）<br>\n• 玻璃肝 → 毛玻璃样肝细胞\n</div>\n\n<h4 style=\"color:var(--c-blue)\">⚠️ 易错点提醒</h4>\n<ul style=\"list-style-type:circle;color:var(--t-dark)\">\n<li>不要与<span style=\"color:var(--c-red)\">酒精性玻璃样变（Mallory小体）</span>混淆</li>\n<li>注意区分急性肝炎的<span style=\"background-color:var(--bg-red)\">气球样变</span>与毛玻璃样变</li>\n</ul>\n\n<hr style=\"border:1px dashed var(--c-gray)\">\n\n<p>✨ 记住这个知识点后，下次遇到类似题目就能像爱莉一样轻松解决啦！有什么其他问题随时问我哦~</p>"
         },
         {
           "id": 18,
@@ -249,7 +265,8 @@
             "D、钙化",
             "E、机化包裹"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-red)\">⚠️ 重要考点提示：</span>  \n坏死的结局是病理学核心知识点，考试必考！要特别注意<span style=\"color:var(--t-accent)\">化生与再生、机化</span>的区别\n\n---\n\n### 🔍 核心概念解析\n**坏死结局四大途径**：  \n1️⃣ **溶解吸收**（A选项）  \n   ⭐ 小范围坏死 → 溶酶体酶分解 → 碎片被巨噬细胞吞噬  \n   🌰 例：小型液化性坏死灶  \n\n2️⃣ **分离排出**（B选项）  \n   ⭐ 皮肤/黏膜大面积坏死 → 形成溃疡/空洞  \n   🌰 肺结核空洞/胃溃疡  \n\n3️⃣ **机化包裹**（E选项）  \n   ⭐ 新生肉芽组织取代坏死物 → 纤维包裹  \n   🌰 陈旧性心肌梗死灶  \n\n4️⃣ **钙化**（D选项）  \n   ⭐ 坏死区钙盐沉积 → 营养不良性钙化  \n   🌰 结核结节钙化灶  \n\n---\n\n### ❌ 排除选项解析\n**C、化生**：  \n⚠️ 属于<span style=\"color:var(--c-red)\">适应性改变</span>而非坏死结局！  \n💡 定义：一种分化成熟的细胞类型被另一种替代（如支气管假复层纤毛柱状上皮 → 鳞状上皮）  \n🔑 关键区分：化生是细胞存活时的转变，坏死是死亡后的处理方式\n\n---\n\n### 📚 对比记忆表\n| 过程 | 性质 | 发生条件 | 典型例子 |\n|------|-----|---------|---------|\n| **机化** | 坏死物被肉芽组织取代 | 坏死灶较大不能溶解 | 陈旧性心梗 |\n| **化生** | 细胞类型转换 | 慢性刺激或适应需求 | 支气管鳞化 |\n| **再生** | 同种细胞修复 | 损伤轻微基底膜完整 | 肝细胞再生 |\n\n---\n\n### 🧠 记忆口诀\n**坏死结局四兄弟**：  \n溶（溶解吸收）离（分离排出）机（机化）钙（钙化）  \n**化生单独记**：适应改变非结局，细胞存活才转型\n\n---\n\n### 📝 快速自测\nQ：肺脓肿坏死物质经支气管排出后结局属于？  \nA：<span style=\"color:var(--c-green);background-color:var(--bg-green)\">分离排出</span>（形成空洞）  \n\nQ：动脉粥样硬化斑块钙化属于？  \nA：<span style=\"color:var(--c-green);background-color:var(--bg-green)\">钙化</span>（营养不良性钙化）"
         },
         {
           "id": 20,
@@ -262,7 +279,8 @@
             "D、肝细胞再生",
             "E、结缔组织增生"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "⭐<span style=\"color:var(--c-green);background-color:var(--bg-green)\">急性普通型肝炎病理特点重点解析</span>\n\n<h3 style=\"color:var(--t-accent)\">📌 核心病理改变（正确选项特征）</h3>\n<ol style=\"color:var(--t-dark)\">\n<li>🔍 <strong>气球样变（A选项）</strong><br>\n肝细胞肿胀如气球，胞质疏松呈网状（水样变性）</li>\n\n<li>⚠️ <strong>嗜酸性变（B选项）</strong><br>\n细胞脱水→胞质浓缩红染→可形成<em>\"嗜酸性小体\"</em></li>\n\n<li>💉 <strong>溶解坏死（C选项）</strong><br>\n点状/灶状坏死，肝细胞溶解消失（<span style=\"color:var(--c-red)\">病毒性肝炎特征性病变</span>）</li>\n\n<li>💊 <strong>肝细胞再生（D选项）</strong><br>\n坏死区周围出现双核/大核肝细胞（修复表现）</li>\n</ol>\n\n<h3 style=\"color:var(--c-red)\">❌ 错误选项解析（E选项）</h3>\n<blockquote style=\"background-color:var(--bg-red);padding:10px\">\n<strong>结缔组织增生</strong>是<span style=\"color:var(--c-purple)\">慢性肝炎/肝硬化</span>的特征，表现为：\n<ul>\n<li>纤维间隔形成</li>\n<li>假小叶结构</li>\n<li>门管区纤维化</li>\n</ul>\n<strong>急性期无持续性损伤→不会触发纤维修复</strong>\n</blockquote>\n\n<h3>📝 记忆技巧</h3>\n<div style=\"background-color:var(--bg-yellow);padding:10px\">\n💡 口诀：<br>\n<strong>\"气球吹破酸变死，再生修复不结缔\"</strong><br>\n（气球样变→嗜酸变→坏死→再生→无纤维化）\n</div>\n\n<h3>🔬 鉴别要点</h3>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<thead style=\"background-color:var(--bg-sky)\">\n<tr>\n<th style=\"border:1px solid #ddd;padding:8px;\">类型</th>\n<th style=\"border:1px solid #ddd;padding:8px;\">坏死类型</th>\n<th style=\"border:1px solid #ddd;padding:8px;\">纤维化</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border:1px solid #ddd;padding:8px;\">急性普通型</td>\n<td style=\"border:1px solid #ddd;padding:8px;color:var(--c-green)\">点状坏死</td>\n<td style=\"border:1px solid #ddd;padding:8px;color:var(--c-red)\">无</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd;padding:8px;\">慢性活动型</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">桥接坏死</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">++</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd;padding:8px;\">肝硬化</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">广泛坏死</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">+++</td>\n</tr>\n</tbody>\n</table>\n\n<hr style=\"border-color:var(--t-light)\">\n\n⭐<strong>考试注意点：</strong>遇到\"纤维化/假小叶/结节形成\"等关键词→首先排除急性病变！"
         },
         {
           "id": 21,
@@ -275,7 +293,8 @@
             "D、假小叶大小相仿",
             "E、碎片状坏死"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 坏死后性肝硬变核心知识点</span>\n\n⭐ <span style=\"color:var(--t-accent)\">病变特点对比表</span>\n| 特征            | 坏死后性肝硬变                | 门脉性肝硬变          |\n|-----------------|------------------------------|---------------------|\n| 病因            | 亚急性肝坏死/重症肝炎         | 慢性酒精中毒/营养不良|\n| 假小叶形态      | <span style=\"color:var(--c-red)\">大小悬殊</span>（A正确） | 大小较均一（D错误） |\n| 纤维间隔        | <span style=\"color:var(--c-red)\">宽大</span>（B正确） | 纤细均匀          |\n| 炎症反应        | <span style=\"color:var(--c-red)\">明显</span>（C正确） | 较轻              |\n| 坏死类型        | <span style=\"color:var(--c-red)\">碎片状坏死</span>（E正确） | 桥接坏死          |\n\n🔍 <span style=\"color:var(--t-accent)\">选项解析</span>\n- D选项错误原因：<span style=\"color:var(--c-red)\">假小叶大小相仿是门脉性肝硬变的特征</span>\n- 其他选项均为坏死后性肝硬变的典型表现：\n  - A：<span style=\"color:var(--c-blue)\">假小叶大小不等</span>（因大片肝坏死导致再生结节大小差异大）\n  - B：<span style=\"color:var(--c-blue)\">宽大纤维间隔</span>（坏死区被宽大瘢痕组织分割）\n  - C：<span style=\"color:var(--c-blue)\">明显炎细胞浸润</span>（活动性炎症反应）\n  - E：<span style=\"color:var(--c-blue)\">碎片状坏死</span>（界板肝细胞坏死崩解）\n\n💡 <span style=\"color:var(--t-accent)\">记忆技巧</span>\n1. 口诀：<span style=\"color:var(--c-pink)\">\"大宽炎碎\"</span>\n   - 大：假小叶大小不等\n   - 宽：纤维间隔宽大\n   - 炎：炎细胞浸润明显\n   - 碎：碎片状坏死\n\n2. 对比记忆：\n   - 门脉性→<span style=\"color:var(--c-purple)\">\"小均轻\"</span>（假小叶小、均一，炎症轻）\n   - 坏死后性→<span style=\"color:var(--c-purple)\">\"大宽重\"</span>（假小叶大、宽间隔，病变重）\n\n⚠️ <span style=\"color:var(--t-accent)\">易错点提醒</span>\n- 注意区分<span style=\"color:var(--c-red)\">碎片状坏死（界板破坏）</span>与<span style=\"color:var(--c-blue)\">桥接坏死（中央静脉-门管区连接）</span>\n- 坏死后性肝硬变常由<span style=\"color:var(--c-green)\">亚急性重型肝炎</span>发展而来，病程进展快\n\n<details>\n<summary style=\"color:var(--c-sky)\">📌 扩展知识（点击展开）</summary>\n<p>\n\n🌐 <span style=\"color:var(--t-accent)\">病理生理联系</span>\n- 假小叶形成机制：<span style=\"color:var(--c-brown)\">肝细胞广泛坏死→网状支架塌陷→纤维组织增生→分割肝小叶</span>\n- 临床表现：<span style=\"color:var(--c-brown)\">门脉高压出现较晚但程度重，肝功能衰竭更早发生</span>\n\n🔬 <span style=\"color:var(--t-accent)\">镜下特征</span>\n- 可见<span style=\"color:var(--c-red)\">\"地图状\"坏死灶</span>\n- 肝细胞<span style=\"color:var(--c-red)\">结节状再生</span>与<span style=\"color:var(--c-blue)\">纤维瘢痕</span>交替分布\n</p>\n</details>"
         },
         {
           "id": 22,
@@ -288,7 +307,8 @@
             "D、慢性胸膜炎",
             "E、心肌梗死"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-pink);border-bottom:2px solid var(--c-pink)\">病理学重点解析：结缔组织玻璃样变鉴别</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<span style=\"color:var(--c-green)\">⭐ 核心概念：</span><br>\n结缔组织玻璃样变是<b>胶原纤维变性</b>，表现为均质红染物质沉积。常见于：\n<ul>\n<li>瘢痕组织</li>\n<li>动脉粥样硬化斑块</li>\n<li>慢性炎症纤维化区域（如尘肺、慢性胸膜炎）</li>\n</ul>\n</div>\n\n<h4 style=\"color:var(--c-blue)\">选项逐项解析：</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<tr style=\"background-color:var(--bg-sky)\">\n<th>选项</th>\n<th>病理机制</th>\n<th>与玻璃样变关系</th>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">A. 结核病干酪样坏死</span></td>\n<td>凝固性坏死伴周围纤维包裹</td>\n<td><span style=\"color:var(--c-green)\">纤维包膜可发生玻璃样变</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red);background-color:var(--bg-yellow)\">B. 纤维型星形胶质细胞瘤 ✅</span></td>\n<td>肿瘤细胞产生<b>GFAP阳性胶质纤维</b></td>\n<td><span style=\"color:var(--c-red)\">胶质纤维≠胶原纤维</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">C. 肺硅沉着病</span></td>\n<td>硅结节胶原纤维增生</td>\n<td><span style=\"color:var(--c-green)\">典型玻璃样变区域</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">D. 慢性胸膜炎</span></td>\n<td>胸膜纤维组织增生</td>\n<td><span style=\"color:var(--c-green)\">长期纤维化易玻璃样变</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">E. 心肌梗死</span></td>\n<td>瘢痕组织修复</td>\n<td><span style=\"color:var(--c-green)\">陈旧瘢痕常见玻璃样变</span></td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-purple)\">💡 记忆技巧：</h4>\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n<ol>\n<li><b>\"胶质别搞错\"</b>：星形胶质细胞瘤→胶质纤维（GFAP）≠胶原纤维</li>\n<li><b>\"三纤维要分清\"</b>：\n<ul>\n<li>胶原纤维→结缔组织玻璃样变</li>\n<li>胶质纤维→神经系统病变</li>\n<li>网状纤维→网状组织增生</li>\n</ul>\n</li>\n</ol>\n</div>\n\n<h4 style=\"color:var(--c-orange)\">⚠️ 易错点提醒：</h4>\n<p>不要混淆<b>干酪样坏死</b>（凝固性坏死）与周围<b>纤维包膜玻璃样变</b>是两个不同过程！结核病灶周围纤维化区域仍可能发生玻璃样变。</p>"
         },
         {
           "id": 23,
@@ -301,7 +321,8 @@
             "D、是否存在淤血",
             "E、动脉阻塞程度不同"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">📚 坏死 vs 坏疽核心区别</span>\n\n⭐ <span style=\"color:var(--c-green)\">关键概念对比</span>\n1. <span style=\"color:var(--t-accent)\">坏死(Necrosis)</span>：活体内局部组织细胞的病理性死亡\n   - 可发生于任何缺氧组织\n   - 典型表现：核固缩/碎裂/溶解 + 胞质嗜酸性增强\n   - 常见类型：凝固性/液化性/脂肪性/纤维素样坏死\n\n2. <span style=\"color:var(--t-accent)\">坏疽(Gangrene)</span>：坏死组织继发腐败菌感染 ➡️ 特殊类型坏死\n   - 特征性改变：硫铁化合物形成 → 黑色外观 + 恶臭\n   - 分型：\n     ▫️干性：四肢末端（动脉阻塞+静脉通畅）\n     ▫️湿性：内脏器官（动静脉同时阻塞）\n     ▫️气性：产气荚膜杆菌感染 → 蜂窝状外观\n\n💡 <span style=\"color:var(--c-yellow)\">选项解析技巧</span>\n| 错误选项 | 排除理由 |\n|---------|----------|\n| A.部位不同 | 坏死可发生于任何部位，坏疽也有多种发生部位 |\n| B.原因不同 | 根本区别在于是否感染，而非原发原因 |\n| D.存在淤血 | 淤血是坏死的促进因素，非鉴别关键 |\n| E.动脉阻塞 | 是坏疽的诱因，但并非定义性区别 |\n\n🔍 <span style=\"color:var(--c-sky)\">快速记忆法</span>\n\"<span style=\"color:var(--c-red)\">菌</span>定乾坤\"口诀：  \n疽字带<span style=\"color:var(--c-red)\">疒</span>（病字头）→ 提示必有<span style=\"color:var(--c-red)\">细菌感染</span>  \n坏死无此特征 → 单纯细胞死亡\n\n⚡ <span style=\"color:var(--c-purple)\">考试注意点</span>\n当题干出现以下关键词时优先选C选项：\n- \"黑色/恶臭\" → 腐败菌感染征象  \n- \"气性坏疽\" → 专指产气荚膜杆菌感染病例  \n- \"继发感染\" → 坏死发展为坏疽的关键步骤"
         },
         {
           "id": 24,
@@ -314,7 +335,8 @@
             "D、肝细胞水肿",
             "E、肝细胞玻璃样变性"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 正确答案解析：B选项正确！</span>\n\n---\n\n### 🌸 核心知识点整理\n#### 1. 病变特征对比表\n| 选项 | 病理特征 | 相关疾病 | 诊断意义 |\n|------|----------|----------|----------|\n| **B** | **胞质疏松化+气球样变**<br>（细胞肿胀如气球，胞质网状疏松） | **急性病毒性肝炎** | **诊断金标准** ⭐ |\n| A | 肝细胞脂肪变性<br>（脂滴蓄积） | 酒精肝/脂肪肝 | ✖️非特异性 |\n| C | 嗜酸性坏死<br>（Councilman小体） | 各型肝炎可见 | ✔️伴随病变 |\n| D | 肝细胞水肿<br>（早期细胞肿胀） | 多种肝损伤 | ✖️基础改变 |\n| E | 玻璃样变性<br>（均质红染物质） | 酒精肝/慢性肝炎 | ✖️特异性低 |\n\n---\n\n#### 2. 病变演进过程\n**水样变性 → 胞质疏松化 → 气球样变**  \n（病毒直接损伤→细胞骨架破坏→细胞极度肿胀）\n\n---\n\n#### 3. 鉴别诊断关键\n- 💊 **酒精性肝病**：Mallory小体（E选项混淆点）  \n- ⚠️ **急性重型肝炎**：大块坏死而非气球样变  \n- 🔍 **脂肪肝**：油红O染色阳性（A选项干扰项）\n\n---\n\n### 🌸 记忆秘籍\n**\"病毒吹气球\"**  \n→ 病毒攻击使肝细胞像气球一样膨胀（气球样变）  \n**\"疏松网格要记牢\"**  \n→ 胞质疏松化呈现网状结构是特征性改变\n\n---\n\n<details style=\"border:2px solid var(--c-pink);padding:10px;border-radius:5px;\">\n<summary><span style=\"color:var(--c-pink)\">💡 爱莉的病理小剧场</span></summary>\n\n想象肝细胞像可爱的粉色团子🍡，病毒入侵后：  \n1. **水浸润**：团子吸水变大（水肿）  \n2. **撑破外衣**：表面出现裂纹（胞质疏松化）  \n3. **变成气球**：完全膨胀成透明气球🎈（气球样变）  \n这时候病理医生在显微镜下大喊：\"抓住这个膨胀的粉气球，就是病毒性肝炎！\"\n</details>"
         },
         {
           "id": 25,
@@ -327,7 +349,8 @@
             "D、液化性坏死",
             "E、气性坏疽"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-green); border-bottom:2px solid var(--c-green)\">腹股沟疝嵌顿后坏疽类型解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:15px;border-radius:8px\">\n<span style=\"color:var(--c-green)\">⭐核心知识点：</span><br>\n<b>正确答案：B、湿性坏疽</b>\n</div>\n\n<h4 style=\"color:var(--c-purple)\">📚 病理机制详解</h4>\n<ol>\n<li><span style=\"color:var(--c-red)\">嵌顿疝特点</span>：疝内容物（多为小肠）被疝环卡压，<strong>静脉回流最先受阻</strong> → 肠壁充血水肿 → 后续<strong>动脉供血中断</strong></li>\n<li><span style=\"color:var(--c-red)\">坏死发展</span>：\n  <ul>\n    <li>缺血缺氧导致肠壁细胞死亡</li>\n    <li>肠道内<strong>大肠杆菌等腐败菌侵入</strong></li>\n    <li>坏死组织<strong>含大量液体</strong>（肠道内容物+炎性渗出）</li>\n  </ul>\n</li>\n</ol>\n\n<h4 style=\"color:var(--c-purple)\">🩺 坏疽类型对比表</h4>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr style=\"background-color:var(--bg-sky)\">\n  <th>类型</th><th>发生部位</th><th>特征</th><th>常见原因</th>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-red)\">湿性坏疽</span></td>\n  <td>肠管、胆囊、子宫</td>\n  <td>湿润肿胀、恶臭、蓝绿色改变</td>\n  <td>动静脉同时阻塞+腐败菌感染</td>\n</tr>\n<tr>\n  <td>干性坏疽</td>\n  <td>四肢末端</td>\n  <td>干燥皱缩、黑色分界线</td>\n  <td>动脉阻塞而静脉通畅</td>\n</tr>\n<tr>\n  <td>气性坏疽</td>\n  <td>深部肌肉创伤</td>\n  <td>蜂窝状、捻发音、进展极快</td>\n  <td>产气荚膜杆菌感染</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-purple)\">💡 记忆技巧</h4>\n<ul>\n<li><strong>口诀</strong>：\"<span style=\"color:var(--c-pink)\">湿肠干肢气创伤</span>\" → 湿性坏疽在肠道，干性在肢体，气性在创伤部位</li>\n<li><strong>联想</strong>：嵌顿就像用橡皮筋勒住手指，先静脉淤血（发紫），后动脉缺血（坏死）→ 符合湿性坏疽发展过程</li>\n</ul>\n\n<h4 style=\"color:var(--c-purple)\">⚠️ 易错点提醒</h4>\n<ul>\n<li>不要混淆<strong>凝固性坏死</strong>（心、肾、脾梗死）和<strong>液化性坏死</strong>（脑组织、脓肿）</li>\n<li>气性坏疽必须存在<strong>深部开放性创伤</strong>+<strong>产气菌感染</strong>，疝嵌顿无此条件</li>\n</ul>\n\n<blockquote style=\"border-left:3px solid var(--c-green);padding-left:10px;color:var(--t-medium)\">\n<strong>临床联系：</strong>嵌顿疝超过3-6小时未解除可能发生肠坏死，需急诊手术！术中可见疝囊内肠管呈暗红色、有恶臭渗出物，即为湿性坏疽典型表现。\n</blockquote>"
         },
         {
           "id": 26,
@@ -340,7 +363,8 @@
             "D、慢性增殖性炎的扁桃体",
             "E、垂体腺瘤患者的肾上腺"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "✨<span style=\"color:var(--c-green);background-color:var(--bg-green)\">生理性肥大核心考点</span>✨\n\n---\n\n### 🌟正确选项分析\n**B、运动员的有关肌肉肥大**  \n<span style=\"color:var(--t-accent)\">生理性肥大</span>指细胞体积增大（非数量增加），由正常生理需求引起，如<span style=\"color:var(--c-yellow)\">运动训练</span>使肌纤维增粗。  \n⚠️ **关键点**：无疾病参与，代偿性适应。\n\n---\n\n### 🚩错误选项解析\n1. **A. 功能亢进的甲状腺**  \n   ⚠️ 甲状腺素过量分泌（如甲亢）→ <span style=\"color:var(--c-red)\">病理性增生+肥大</span>，因激素异常刺激导致。\n\n2. **C. 高血压患者的心脏**  \n   ⚠️ 左心室<span style=\"color:var(--c-red)\">向心性肥厚</span> → 长期压力超负荷（病理代偿）。\n\n3. **D. 慢性增殖性炎的扁桃体**  \n   ⚠️ 炎症反复刺激 → <span style=\"color:var(--c-red)\">淋巴细胞增生+纤维化</span>，属病理性。\n\n4. **E. 垂体腺瘤患者的肾上腺**  \n   ⚠️ ACTH过度分泌 → <span style=\"color:var(--c-red)\">肾上腺皮质增生</span>（如库欣病），肿瘤引发内分泌紊乱。\n\n---\n\n### 📚概念对比表\n| **类型**       | 生理性肥大                | 病理性肥大                    |\n|----------------|---------------------------|-------------------------------|\n| **诱因**       | 正常需求（如运动）        | 疾病（高血压、肿瘤、炎症）    |\n| **细胞变化**   | 体积增大                  | 体积增大 ± 数量增加           |\n| **可逆性**     | 可逆（停止刺激后恢复）    | 不可逆（除非病因消除）        |\n| **举例**       | 运动员骨骼肌、妊娠子宫    | 甲亢甲状腺、肝硬化肝细胞      |\n\n---\n\n### 🧠记忆口诀\n**\"健康练肌别有病，甲亢高压肿瘤炎\"**  \n✅ **健康练肌**：运动员肌肉（生理性）  \n❗ **有病四类**：  \n- 甲亢（A选项）  \n- 高血压心脏（C选项）  \n- 肿瘤（E选项垂体瘤）  \n- 炎症（D选项扁桃体炎）  \n\n---\n\n### 🔍拓展考点\n1. **肥大 vs 增生**  \n   - 肥大：细胞体积↑（心肌、骨骼肌）  \n   - 增生：细胞数量↑（子宫内膜、肝再生）  \n   - 两者常共存（如前列腺增生肥大）  \n\n2. **代偿性肥大**  \n   - 一肾切除后对侧肾肥大 → <span style=\"color:var(--c-blue)\">生理性代偿</span>  \n   - 肝硬化后肝细胞结节再生 → <span style=\"color:var(--c-red)\">病理性代偿</span>  \n\n--- \n\n⭐掌握核心区别：**是否存在疾病背景**！"
         },
         {
           "id": 27,
@@ -353,7 +377,8 @@
             "D、坏死灶及周围有炎细胞浸润",
             "E、肝细胞再生结节形成"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "✨**急性重型肝炎病理特点解析**✨\n\n---\n\n### **正确答案分析**\n<span style=\"color:var(--c-red)\">错误选项：E（肝细胞再生结节形成）</span>  \n<span style=\"color:var(--c-green)\">正确机制：</span>  \n急性重型肝炎病程短（2周内），**肝细胞再生时间不足**，无法形成再生结节。再生结节是**亚急性重型肝炎/慢性肝病（如肝硬化）**的典型表现！\n\n---\n\n### **各选项详解**\n| 选项 | 解析 | 病理关联 |\n|------|------|----------|\n| **A** 肝细胞大片坏死 | ⭐**核心特征**<br>广泛肝细胞溶解坏死（尤其中央静脉周围→桥接坏死） | 肉眼观：肝脏缩小、质软（“急性黄色肝萎缩”） |\n| **B** 肝窦扩张充血 | ⚠️坏死区周围血管反应性充血 | 镜下可见肝窦内红细胞淤积 |\n| **C** 网状支架塌陷 | 💉肝细胞坏死→支架失去支撑→塌陷（银染可见） | 标志不可逆损伤 |\n| **D** 炎细胞浸润 | 🔍**以淋巴细胞为主**，少量中性粒细胞 | 免疫系统清除坏死组织 |\n| **E** 再生结节形成 | ❌错误！<br>再生需时间，**仅见于亚急性/慢性阶段** | 亚急性期：坏死+再生+纤维化 |\n\n---\n\n### **记忆技巧**\n1️⃣ **“急性三无”口诀**：  \n无再生（结节）、无纤维化、无假小叶  \n（区别于慢性肝炎/肝硬化）  \n\n2️⃣ **病程对比**：  \n• **急性**：<span style=\"color:var(--c-red)\">快速坏死</span>（周级）  \n• **亚急性**：坏死+再生（月级→结节形成）  \n• **慢性**：纤维化+假小叶（年级）\n\n---\n\n### **病理影像联想**\nCT/MRI表现：  \n<span style=\"background-color:var(--bg-yellow)\">肝脏体积缩小</span> + <span style=\"background-color:var(--bg-red)\">密度不均（坏死区低密度）</span>  \n（注意与肝硬化再生结节的高密度/信号区分）\n\n---\n\n📌**考试陷阱提示**：再生结节是亚急性重型肝炎的考点，急性病例若出现再生描述→必错！"
         },
         {
           "id": 28,
@@ -366,7 +391,8 @@
             "D、心、肺、脾、视网膜等处的细动脉",
             "E、肾、脑、脾、视网膜等处的细动脉"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐细动脉透明变性核心知识点</span>\n\n---\n\n### **基本概念**\n⚡又称**玻璃样变性**，是血管壁结构破坏后血浆蛋白渗入内膜沉积的过程  \n⚡特征：<span style=\"color:var(--c-red)\">血管壁增厚、均质红染</span>，管腔狭窄→组织缺血  \n⚡高危因素：<span style=\"color:var(--t-accent)\">高血压</span>（最常见）、糖尿病、老龄化\n\n---\n\n### **靶器官分布**\n⚠️<span style=\"color:var(--c-green)\">正确答案：A（肾、心、脾、视网膜)</span>\n\n**典型受累部位解析**：  \n| 器官 | 病理特征 | 临床意义 |\n|------|---------|---------|\n| 肾   | 入球小动脉硬化 → 肾小球缺血 | 高血压肾病 |\n| 心   | 冠状动脉细小分支病变 → 心肌纤维化 | 心力衰竭 |\n| 脾   | 脾中央动脉硬化 → 脾实质萎缩 | 脾功能减退 |\n| 视网膜 | 眼底出血/渗出 → 视力损害 | 高血压视网膜病变 |\n\n**错误选项鉴别**：  \n- B选项错误点：<span style=\"color:var(--c-red)\">肺、胰、肠系膜</span>动脉极少发生透明变性  \n- C/D/E错误点：<span style=\"color:var(--c-red)\">肝、脑</span>主要病变类型不同（如脑出血为纤维素样坏死）\n\n---\n\n### **记忆技巧**\n🔍口诀：<span style=\"color:var(--c-pink)\">\"看心眼脾肾\"</span>（谐音：心眼脾肾→心、视网膜、脾、肾）  \n🔍联想：高血压四大靶器官 → \"心、脑、肾、眼\" → 其中<span style=\"color:var(--c-green)\">脾</span>替代脑（脑更常见纤维素样坏死）\n\n---\n\n### **病理机制图示**\n```text\n高血压 → 血管内皮损伤 → 血浆蛋白渗入内膜 → 平滑肌细胞萎缩  \n→ 胶原沉积 → 管壁玻璃样变 → 管腔狭窄 → 器官缺血\n```\n\n---\n\n💡**考试重点提示**：  \n1. 与<span style=\"color:var(--c-red)\">恶性高血压</span>的纤维素样坏死区分（后者累及肾、脑）  \n2. 糖尿病微血管病变特征（基底膜增厚）与此不同  \n3. 脾脏中央动脉病变是<span style=\"color:var(--t-accent)\">良性高血压</span>特征性改变"
         },
         {
           "id": 29,
@@ -379,7 +405,8 @@
             "D、以汇管区渗出为主的炎症",
             "E、以汇管区增生为主的炎症"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 知识点详解</span>\n\n<h3 style=\"color:var(--t-accent)\">⭐ 核心概念</h3>\n急性重型肝炎又称暴发性肝炎，主要特征是<span style=\"color:var(--c-red)\">肝细胞大面积坏死</span>（大块或亚大块坏死），导致肝小叶结构破坏，肝脏体积缩小（<span style=\"color:var(--c-yellow)\">急性黄色/红色肝萎缩</span>）。\n\n<h3 style=\"color:var(--t-accent)\">🔍 病变性质对比表</h3>\n\n| 类型           | 主要病变             | 病理特征                    |\n|----------------|----------------------|---------------------------|\n| 急性普通型肝炎 | 肝细胞变性（气球样变） | 点状坏死，嗜酸性小体        |\n| **急性重型肝炎** | **肝细胞坏死**       | 大块坏死，网状支架塌陷      |\n| 慢性肝炎       | 坏死+纤维化          | 碎片状坏死，桥接坏死        |\n\n<h3 style=\"color:var(--t-accent)\">⚠️ 鉴别要点</h3>\n - **选项B正确**：肝细胞坏死是核心病变（<span style=\"color:var(--c-red)\">坏死面积>2/3肝实质</span>）\n - **排除其他选项**：\n - A：变性为主见于普通型\n - C/D/E：增生/渗出多出现在慢性肝炎或胆道疾病\n\n<h3 style=\"color:var(--t-accent)\">💡 记忆口诀</h3>\n<blockquote style=\"background-color:var(--bg-yellow);padding:10px\">\n\"<span style=\"color:var(--c-brown)\">重型坏死快准狠，肝萎支架全塌沉；</span><br>\n<span style=\"color:var(--c-brown)\">普通气球点状变，慢性碎桥纤维深。</span>\"\n</blockquote>\n\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📌 临床联系</span>\n患者可出现：<span style=\"color:var(--c-purple)\">肝性脑病</span>、<span style=\"color:var(--c-purple)\">凝血障碍</span>（凝血酶原时间延长）、<span style=\"color:var(--c-purple)\">肝肾综合征</span>，死亡率高达60-90%。"
         },
         {
           "id": 30,
@@ -405,7 +432,8 @@
             "D、浆液腺发生黏液化而分泌大量黏液",
             "E、支气管黏膜上皮中的杯状细胞分泌黏液"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心概念</span>  \n**黏液变性**是指<span style=\"color:var(--t-accent)\">组织间质内出现大量类黏液</span>，属于间质性变性。类黏液由黏多糖（如透明质酸）与蛋白质组成，常见于动脉粥样硬化、间叶组织肿瘤等病理状态。\n\n---\n\n### <span style=\"color:var(--c-pink)\">📚 选项解析</span>\n| 选项 | 正误 | 解析 |\n|------|------|------|\n| **A** | ✅ 正确 | 间质内类黏液积聚，本质为<span style=\"color:var(--c-red)\">间质变性</span> |\n| B | ❌ 错误 | 黏液腺分泌过多（如支气管炎）属于<span style=\"color:var(--t-medium)\">分泌功能亢进</span>，非变性 |\n| C | ❌ 错误 | 印戒细胞癌的黏液位于<span style=\"color:var(--t-medium)\">细胞内</span>，属于细胞变性（黏液样变） |\n| D | ❌ 错误 | 浆液腺转黏液腺为<span style=\"color:var(--t-medium)\">化生</span>（类型转换） |\n| E | ❌ 错误 | 杯状细胞分泌黏液是<span style=\"color:var(--t-medium)\">正常生理功能</span> |\n\n---\n\n### <span style=\"color:var(--c-purple)\">🔍 鉴别要点</span>\n1. **黏液变性 vs 黏液水肿**  \n   🔹 黏液变性：类黏液在间质沉积（如纤维组织、脂肪组织）  \n   🔹 黏液水肿：甲状腺功能减退导致<span style=\"color:var(--t-accent)\">真皮内黏多糖沉积</span>\n\n2. **细胞内 vs 细胞外黏液**  \n   🔸 细胞内黏液：印戒细胞癌、黏液腺癌（选项C）  \n   🔸 细胞外黏液：黏液变性（选项A）\n\n---\n\n### <span style=\"color:var(--c-yellow)\">🧠 记忆技巧</span>\n**口诀**：<span style=\"color:var(--c-green)\">\"间质堆黏液，变性不化生\"</span>  \n**联想**：想象<span style=\"color:var(--c-blue)\">细胞外的黏液像果冻一样填满组织间隙</span>（间质），而非腺体分泌或细胞内的变化。"
         },
         {
           "id": 32,
@@ -418,7 +446,8 @@
             "D、肝硬化",
             "E、心肌梗死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨知识点精讲✨</span>\n\n<details>\n<summary><span style=\"color:var(--t-accent)\">📚 玻璃样变核心概念</span></summary>\n\n⭐ **定义**  \n胶原纤维变性融合形成的均质红染物质，常见于慢性损伤或炎症的纤维修复区域  \n\n🔍 **发生机制**  \n1. 胶原蛋白交联增多  \n2. 糖蛋白沉积  \n3. 血管减少→缺血性硬化  \n\n💡 **常见部位**  \n| 类型 | 典型疾病 |\n|------|----------|\n| 瘢痕组织 | 陈旧性心肌梗死 |\n| 动脉硬化斑块 | 主动脉粥样硬化 |\n| 纤维包裹病灶 | 肺结核钙化灶 |\n| 间质纤维化 | 硅肺、肝硬化 |\n</details>\n\n---\n\n<details>\n<summary><span style=\"color:var(--t-accent)\">🔍 选项逐项解析</span></summary>\n\n**A. 结核性纤维素性胸膜炎**  \n💡胸膜纤维素渗出→机化→纤维增生→玻璃样变  \n⚠️典型发展过程：渗出→肉芽组织→瘢痕  \n\n**B. 硅肺**  \n🔍硅结节中央呈现同心圆状玻璃样变  \n💊特征性病理改变：\"洋葱皮样\"结构  \n\n**C. 慢性表浅性胃炎 ✅**  \n⚠️仅累及黏膜浅层  \n⭐炎细胞浸润为主，无显著纤维增生  \n💡关键鉴别：与萎缩性胃炎区分（后者伴肠化生+纤维化）  \n\n**D. 肝硬化**  \n💉假小叶形成→纤维间隔玻璃样变  \n📌\"槟榔肝\"晚期阶段特征  \n\n**E. 心肌梗死**  \n💊坏死心肌→瘢痕修复→胶原玻璃样变  \n⏰通常在梗死后3-6周开始形成  \n</details>\n\n---\n\n<span style=\"color:var(--c-red)\">🎯 记忆秘籍</span>  \n**\"三硬一疤硅结节\"**口诀：  \n- 三硬：动脉硬化、肝硬化、瘢痕硬化  \n- 一疤：陈旧瘢痕（如心梗后）  \n- 硅结节：硅肺特征病变  \n\n---\n\n<span style=\"color:var(--c-purple);background-color:var(--bg-purple)\">📌 解题要点图示</span>  \n```text\n玻璃样变形成条件\n┌───────────────┐\n│  ➤ 长期炎症刺激        │\n│  ➤ 持续机械应力        │\n│  ➤ 缺血缺氧环境        │\n│  ➤ 胶原代谢失衡        │\n└───────────────┘\n慢性表浅性胃炎不符合任一条件→排除\n```\n\n---\n\n<span style=\"color:var(--c-yellow)\">💡 扩展思考</span>  \n若题目改为\"慢性萎缩性胃炎\"：  \n- 可能发生肠上皮化生  \n- 伴随腺体萎缩和纤维增生  \n- 此时可能出现玻璃样变 → 选项性质改变！"
         },
         {
           "id": 33,
@@ -431,7 +460,8 @@
             "D、细胞质膜破裂，核也碎裂",
             "E、不引起急性炎症反应"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-pink);border-bottom:2px solid var(--c-pink)\">📚 细胞凋亡核心知识点</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n⭐ <strong>凋亡关键特征：</strong>\n<ol>\n<li>基因调控（Bcl-2家族/Caspases酶参与）</li>\n<li>活体内单/小团细胞死亡</li>\n<li>细胞膜保持完整 → 形成凋亡小体</li>\n<li>无炎症反应</li>\n</ol>\n</div>\n\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<caption style=\"color:var(--t-accent);font-weight:bold\">📌 题目解析表格</caption>\n<tr style=\"background-color:var(--bg-purple)\">\n<th>选项</th><th>正误</th><th>解析</th>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">D</span></td>\n<td>❌错误</td>\n<td>凋亡时<span style=\"color:var(--c-red)\">细胞膜完整不破裂</span>，核发生固缩/断裂<br>核碎裂（karyorrhexis）+膜破裂 → 属于<span style=\"color:var(--c-green)\">坏死</span>特征</td>\n</tr>\n<tr>\n<td>其他选项</td>\n<td>✅正确</td>\n<td>均符合凋亡定义：程序性死亡、基因调控、无炎症等</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-indigo)\">🔬 凋亡 vs 坏死对比</h4>\n<div style=\"display:grid;grid-template-columns:1fr 1fr;gap:1rem\">\n<div style=\"background-color:var(--bg-blue);padding:1rem;border-radius:8px\">\n<strong>凋亡（Apoptosis）</strong>\n<ul>\n<li>☑️ 主动过程（程序性死亡）</li>\n<li>☑️ 膜完整 → 形成凋亡小体</li>\n<li>☑️ 核固缩/断裂（非碎裂）</li>\n<li>☑️ 无炎症反应</li>\n</ul>\n</div>\n\n<div style=\"background-color:var(--bg-red);padding:1rem;border-radius:8px\">\n<strong>坏死（Necrosis）</strong>\n<ul>\n<li>☑️ 被动死亡（病理损伤）</li>\n<li>☑️ 膜破裂 → 内容物泄漏</li>\n<li>☑️ 核溶解/碎裂</li>\n<li>☑️ 引发炎症反应</li>\n</ul>\n</div>\n</div>\n\n<blockquote style=\"border-left:4px solid var(--c-yellow);padding-left:1rem;color:var(--t-medium)\">\n💡 <strong>记忆口诀：</strong><br>\n\"<span style=\"color:var(--c-green)\">凋亡程序不破膜，单个死亡无炎症</span>；<br>\n<span style=\"color:var(--c-red)\">坏死被动膜破裂，大片发炎有损伤</span>\"\n</blockquote>\n\n<h4 style=\"color:var(--c-indigo)\">⚠️ 高频易错点</h4>\n<ul>\n<li>混淆核变化：凋亡是<span style=\"color:var(--c-blue)\">核固缩（pyknosis）→ 断裂（karyohexis）</span>，坏死是<span style=\"color:var(--c-red)\">核碎裂（karyorrhexis）→ 溶解（karyolysis）</span></li>\n<li>忘记<span style=\"color:var(--c-pink)\">凋亡小体</span>被吞噬细胞清除的过程</li>\n</ul>"
         },
         {
           "id": 34,
@@ -457,7 +487,8 @@
             "D、印戒细胞",
             "E、类上皮细胞"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 巨噬细胞来源细胞辨析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<strong>⭐ 核心知识点：</strong><br>\n巨噬细胞属于<span style=\"color:var(--c-red)\">单核吞噬细胞系统</span>，可分化形成多种特殊细胞类型，但<span style=\"color:var(--c-red)\">印戒细胞</span>例外（腺癌来源）\n</div>\n\n---\n\n<h4 style=\"color:var(--c-blue)\">🔍 选项解析表</h4>\n\n| 选项 | 细胞类型       | 来源与特征                                                                 | 关联疾病/病理过程          |\n|------|----------------|--------------------------------------------------------------------------|--------------------------|\n| A    | 泡沫细胞       | 巨噬细胞吞噬<span style=\"color:var(--t-accent)\">氧化LDL</span>形成脂质空泡 | 动脉粥样硬化             |\n| B    | Aschoff细胞    | 巨噬细胞增生形成<span style=\"color:var(--t-accent)\">枭眼状核</span>        | 风湿性心肌炎             |\n| C    | 伤寒细胞       | 巨噬细胞吞噬<span style=\"color:var(--t-accent)\">伤寒杆菌+红细胞</span>     | 肠伤寒                  |\n| D    | <span style=\"color:var(--c-red)\">印戒细胞</span> | <span style=\"color:var(--c-red)\">腺癌细胞</span>胞质黏液挤压核至边缘       | 胃癌/乳腺癌等腺癌        |\n| E    | 类上皮细胞     | 巨噬细胞融合形成<span style=\"color:var(--t-accent)\">肉芽肿核心</span>      | 结核/结节病等慢性炎症    |\n\n---\n\n<h4 style=\"color:var(--c-purple)\">💡 记忆技巧</h4>\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n<strong>口诀：</strong><br>\n<em>\"泡沫风湿伤寒肉，印戒独属腺癌流\"</em><br>\n→ 前四者均与巨噬细胞相关，<span style=\"color:var(--c-red)\">印戒细胞</span>是唯一例外\n</div>\n\n---\n\n<h4 style=\"color:var(--c-orange)\">⚠️ 易混淆点对比</h4>\n<ul>\n<li><span style=\"color:var(--c-green)\">类上皮细胞 vs 印戒细胞</span>：\n  - 类上皮：巨噬细胞融合，核呈<span style=\"color:var(--t-accent)\">马蹄形排列</span>\n  - 印戒细胞：癌细胞分泌<span style=\"color:var(--t-accent)\">黏液</span>，核被挤向边缘</li>\n<li><span style=\"color:var(--c-green)\">Aschoff细胞 vs 伤寒细胞</span>：\n  - Aschoff细胞：核染色质呈<span style=\"color:var(--t-accent)\">毛虫样</span>\n  - 伤寒细胞：可见<span style=\"color:var(--t-accent)\">吞噬红细胞</span>现象</li>\n</ul>\n\n---\n\n<blockquote style=\"border-left:4px solid var(--c-pink);padding-left:1rem\">\n<strong>📌 临床联系：</strong><br>\n印戒细胞癌常见于<span style=\"color:var(--t-accent)\">胃腺癌</span>，预后较差，典型病理特征为<span style=\"color:var(--t-accent)\">细胞内黏液湖形成</span>，HE染色呈空泡状\n</blockquote>"
         },
         {
           "id": 36,
@@ -470,7 +501,8 @@
             "D、胞质内细胞器的变性",
             "E、肝细胞水肿"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨核心答案✨</span>  \n**正确答案：B. 滑面内质网内有大量HBsAg**  \n毛玻璃样肝细胞是慢性乙型肝炎的<span style=\"color:var(--t-accent)\">特征性病理表现</span>，源于HBsAg在滑面内质网内大量堆积。\n\n---\n\n### ⭐重点知识解析\n1. **毛玻璃样肝细胞的特征**  \n   - **光镜下**：肝细胞质内<span style=\"color:var(--c-red)\">均匀、细颗粒状嗜酸性物质</span>，类似毛玻璃。\n   - **电镜下**：大量<span style=\"color:var(--c-blue)\">滑面内质网增生</span>，内含大量HBsAg颗粒。\n\n2. **HBsAg的合成与蓄积**  \n   - HBsAg（乙肝表面抗原）是病毒包膜蛋白，由病毒DNA指导宿主细胞合成。\n   - **合成路径**：粗面内质网合成→转运至滑面内质网组装→过度蓄积导致滑面内质网扩张。\n\n3. **选项排除分析**  \n   | 选项 | 排除理由 |\n   |---|---|\n   | A. 粗面内质网 | HBsAg在此合成，但蓄积在滑面内质网 |\n   | C. 线粒体肿胀 | 见于中毒/缺氧（如酒精肝），表现为气球样变 |\n   | D. 细胞器变性 | 泛指，无特异性 |\n   | E. 肝细胞水肿 | 胞质透亮空泡化，非毛玻璃样 |\n\n---\n\n### 🔍记忆技巧\n1. **关键词联想法**：  \n   - **\"毛玻璃=表面抗原\"** → HBsAg（乙肝表面抗原）。  \n   - **\"表面光滑\"** → <span style=\"color:var(--c-green)\">滑面内质网</span>（联想“滑”与“光滑”）。\n\n2. **对比记忆**：  \n   - 粗面内质网：蛋白质<span style=\"color:var(--c-blue)\">合成</span>（因有核糖体）。  \n   - 滑面内质网：脂质代谢、毒物解毒、HBsAg<span style=\"color:var(--c-red)\">组装与蓄积</span>。\n\n3. **病理机制口诀**：  \n   > \"乙肝病毒侵肝忙，表面抗原堆滑网，毛玻璃变镜下亮，慢肝标志记心上！\"\n\n---\n\n### 💊拓展关联\n- **HBV抗原分类**：  \n  - HBsAg（表面抗原）：血清学诊断标志，存在滑面内质网。  \n  - HBcAg（核心抗原）：仅存在于肝细胞核内，血清中检测不到。  \n- **临床联系**：毛玻璃样细胞提示<span style=\"color:var(--c-purple)\">病毒活跃复制</span>，需抗病毒治疗（如恩替卡韦）。\n\n---\n\n通过理解HBsAg的合成路径与病理特征，结合关键词联想，可牢固掌握此考点！(๑˃ᴗ˂)ﻭ"
         },
         {
           "id": 37,
@@ -483,7 +515,8 @@
             "D、鳞状上皮组织、移行上皮组织",
             "E、结缔组织、细动脉壁"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐纤维素样坏死核心考点</span>\n\n<h3 style=\"color:var(--t-accent)\">📚 关键知识点</h3>\n<ol>\n<li><span style=\"color:var(--c-red)\">定义：</span>嗜酸性颗粒状物质沉积（纤维蛋白+免疫复合物+坏死碎片）</li>\n<li><span style=\"color:var(--c-red)\">好发部位：</span>\n   <ul>\n   <li>结缔组织（胶原纤维丰富的区域）</li>\n   <li>细动脉壁（免疫复合物沉积引发血管炎）</li>\n   </ul></li>\n<li><span style=\"color:var(--c-red)\">相关疾病：</span>\n   <ul>\n   <li>风湿病（Aschoff小体）</li>\n   <li>系统性红斑狼疮（SLE）</li>\n   <li>结节性多动脉炎</li>\n   </ul></li>\n</ol>\n\n<h3 style=\"color:var(--t-accent)\">🔍 选项解析</h3>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tr style=\"background-color:var(--bg-sky)\">\n  <th style=\"border: 1px solid var(--c-blue); padding: 8px;\">选项</th>\n  <th style=\"border: 1px solid var(--c-blue); padding: 8px;\">分析</th>\n</tr>\n<tr>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">A. 骨组织、细动脉壁</td>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">⚠️ 骨组织常见缺血性坏死</td>\n</tr>\n<tr>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">B. 结缔组织、平滑肌</td>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">⚠️ 平滑肌多见玻璃样变</td>\n</tr>\n<tr>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">C. 神经组织、细动脉壁</td>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">⚠️ 神经组织多为液化性坏死</td>\n</tr>\n<tr>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">D. 鳞状上皮、移行上皮</td>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">⚠️ 上皮组织常见凋亡/鳞化</td>\n</tr>\n<tr style=\"background-color:var(--bg-green)\">\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">E. 结缔组织、细动脉壁</td>\n  <td style=\"border: 1px solid var(--c-blue); padding: 8px;\">✅ 完全匹配病理特征</td>\n</tr>\n</table>\n\n<h3 style=\"color:var(--t-accent)\">🎯 记忆秘籍</h3>\n<div style=\"background-color:var(--bg-yellow);padding:10px;border-radius:5px;\">\n<p><strong>「纤结细动」联想法：</strong><br>\n<span style=\"color:var(--c-pink)\">纤</span>维素样坏死 → <span style=\"color:var(--c-pink)\">结</span>缔组织 + <span style=\"color:var(--c-pink)\">细</span>动脉壁</p>\n\n<p><strong>疾病关联记忆：</strong><br>\n风湿病（关节滑膜）<br>\nSLE（皮肤血管）<br>\n动脉炎（血管壁）→ 都有结缔组织/血管受累</p>\n</div>\n\n<h3 style=\"color:var(--t-accent)\">⚠️ 易混淆点</h3>\n<ul>\n<li>不要与<span style=\"color:var(--c-purple)\">玻璃样变</span>混淆（均匀红染物质，见于高血压细动脉硬化）</li>\n<li>区分<span style=\"color:var(--c-purple)\">纤维素样变性vs纤维素性炎</span>（后者是渗出性炎，如心包炎）</li>\n</ul>\n\n<blockquote style=\"border-left: 3px solid var(--c-green); padding-left: 10px; color:var(--t-medium)\">\n📌 解题关键：抓住「结缔组织+血管病变」双要素，联系自身免疫性疾病病理特点\n</blockquote>"
         },
         {
           "id": 38,
@@ -496,7 +529,8 @@
             "D、脑沟变窄，脑回变窄",
             "E、脑沟变浅，脑回变窄"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨脑萎缩诊断要点：脑沟加深就像核桃纹路变明显，脑回变窄好似晒干的果肉收缩哦！✨</span>\n\n<h3 style=\"color:var(--c-red)\">⭐核心知识点</h3>\n<ol>\n<li><strong>定义：</strong>脑体积缩小（神经元+神经纤维丧失）</li>\n<li><strong>影像学三联征：</strong>\n<ul>\n<li>脑沟增宽＞5mm（正常2-3mm）</li>\n<li>脑室扩大（侧脑室额角圆钝）</li>\n<li>皮质变薄（中央沟间距＞11mm）</li>\n</ul>\n</li>\n</ol>\n\n<table style=\"border:2px solid var(--c-indigo)\">\n<caption style=\"color:var(--t-accent)\">📝选项对比表</caption>\n<tr>\n<th>选项</th>\n<th>脑沟</th>\n<th>脑回</th>\n<th>病理状态</th>\n</tr>\n<tr>\n<td>A（正确）</td>\n<td style=\"color:var(--c-red)\">加深</td>\n<td>变窄</td>\n<td>萎缩（如阿尔茨海默病）</td>\n</tr>\n<tr>\n<td>B</td>\n<td>加深</td>\n<td style=\"background-color:var(--bg-red)\">增宽</td>\n<td>矛盾状态（不存在）</td>\n</tr>\n<tr>\n<td>C</td>\n<td style=\"background-color:var(--bg-red)\">变窄</td>\n<td>增宽</td>\n<td>脑水肿（如肝性脑病）</td>\n</tr>\n</table>\n\n<h3 style=\"color:var(--c-purple)\">🔍记忆锦囊</h3>\n<ul>\n<li><strong>类比记忆：</strong>想象新鲜葡萄🍇变葡萄干→果肉（脑回）收缩变薄，表皮皱褶（脑沟）加深</li>\n<li><strong>口诀：</strong>\"萎缩三把刀，沟深回窄心室漂\"（心室指脑室扩大）</li>\n<li><strong>易错提醒：</strong>CT报告中\"脑萎缩\"常描述为\"脑沟脑裂增宽\"，与\"加深\"是同一概念的不同表述</li>\n</ul>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1rem\">\n💡临床联系：阿尔茨海默病患者的MRI可见海马体积缩小＞20%，颞角扩大呈\"尖角征\"\n</blockquote>"
         },
         {
           "id": 39,
@@ -509,7 +543,8 @@
             "D、心、肺",
             "E、肾、脑"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚正确答案：B、脑、心</span>\n\n---\n\n### ⭐核心知识点\n1. **老年性萎缩**：属于<span style=\"color:var(--t-accent)\">生理性萎缩</span>，与年龄增长相关\n2. **主要萎缩器官**：\n   - **脑**：<span style=\"color:var(--c-red)\">大脑皮质神经元减少</span>，脑沟加深、脑回变窄（如阿尔茨海默病）\n   - **心**：<span style=\"color:var(--c-red)\">心肌细胞萎缩</span>，脂褐素沉积→\"褐色萎缩\"\n3. **其他选项排除**：\n   - 肾萎缩：多因<span style=\"color:var(--c-purple)\">慢性肾病/缺血</span>（非生理性）\n   - 肝萎缩：常见于<span style=\"color:var(--c-purple)\">肝硬化晚期</span>\n   - 肺萎缩：老年人更易出现<span style=\"color:var(--c-purple)\">肺气肿（体积增大）</span>\n\n---\n\n### 🔍记忆技巧\n1. **口诀**：  \n   <span style=\"color:var(--c-pink)\">\"老年心脑双萎缩，智慧爱心永相随\"</span>  \n   （\"心脑\"对应答案B，\"智慧\"指脑，\"爱心\"指心）\n\n2. **对比记忆**：  \n   | 器官 | 萎缩表现 | 病理特征 |\n   |---|---|--|\n   | 脑 | 脑沟加深、脑回变窄 | 神经元减少 |\n   | 心 | 体积缩小、褐色变 | 脂褐素沉积 |\n\n---\n\n### ⚠️易错点提醒\n- **肺萎缩**：老年人<span style=\"color:var(--c-red)\">肺气肿更常见</span>（肺泡扩张），而非萎缩\n- **肾萎缩**：需区分<span style=\"color:var(--c-purple)\">病理性萎缩</span>（如慢性肾小球肾炎）与老年性改变\n\n---\n\n💡 **联想记忆**：想象老年人拿着\"心形\"和\"大脑\"形状的气球逐渐缩小，帮助强化\"心脑萎缩\"的视觉印象！"
         },
         {
           "id": 40,
@@ -522,7 +557,8 @@
             "D、霍奇金细胞",
             "E、陷窝细胞"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐霍奇金淋巴瘤反应性细胞核心知识点</span>\n\n---\n\n### **正确答案解析**\n<span style=\"color:var(--t-accent)\">C、淋巴细胞、浆细胞</span>  \n**理由**：霍奇金淋巴瘤的肿瘤微环境中，反应性细胞是机体免疫系统对肿瘤的应答，主要包括正常免疫细胞（如淋巴细胞、浆细胞、嗜酸性粒细胞等）。\n\n---\n\n### **选项分类**\n| 选项 | 细胞类型 | 性质 |\n|------|----------|------|\n| A    | Reed-Sternberg细胞 | 肿瘤细胞（双核\"镜影\"特征） |\n| B    | 镜影细胞 | RS细胞的别名，肿瘤细胞 |\n| C    | 淋巴细胞、浆细胞 | **反应性细胞**（正常免疫细胞） |\n| D    | 霍奇金细胞 | 单核RS细胞变体，肿瘤细胞 |\n| E    | 陷窝细胞 | 结节硬化型HL的RS细胞变体，肿瘤细胞 |\n\n---\n\n### **病理机制**\n1. **肿瘤细胞**：  \n   - **Reed-Sternberg细胞**（RS细胞）是诊断标志，大细胞、双核（镜影样），表达CD15/CD30。  \n   - 变异型：陷窝细胞（结节硬化型）、霍奇金细胞（单核前体）。\n\n2. **反应性细胞**：  \n   - 肿瘤周围大量浸润的**淋巴细胞**（T细胞为主）、**浆细胞**、嗜酸性粒细胞，代表机体免疫反应。\n\n---\n\n### **记忆技巧**\n- **肿瘤细胞**：联想\"RS家族\"（Reed-Sternberg、镜影、陷窝、霍奇金细胞）。  \n- **反应性细胞**：关键词\"免疫反应\" → 正常免疫细胞（淋巴细胞、浆细胞）。  \n- **排除法**：选项中仅C为正常细胞，其余均为肿瘤相关。\n\n---\n\n### **临床关联**\n- **病理诊断**：活检中需区分RS细胞（恶性）与反应性细胞（良性）。  \n- **治疗意义**：反应性细胞丰富提示较好的预后（免疫系统活跃）。\n\n---\n\n<span style=\"color:var(--c-red)\">⚠️易错点：</span>  \n勿将\"镜影细胞\"（肿瘤）与\"反应性淋巴细胞\"混淆！RS细胞是诊断核心，反应性细胞是背景成分。"
         },
         {
           "id": 41,
@@ -548,7 +584,8 @@
             "D、混合血栓",
             "E、白色血栓"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<h3 style=\"color:var(--c-pink)\">✨风湿性心内膜炎赘生物核心解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<strong>⭐正确答案：</strong><span style=\"color:var(--c-red)\">E、白色血栓</span>\n</div>\n\n<h4 style=\"border-bottom:2px solid var(--c-green)\">📚重点知识</h4>\n<ol>\n<li><span style=\"color:var(--c-red)\">白色血栓</span>构成：\n<ul>\n<li>主要成分：血小板+少量纤维蛋白</li>\n<li>肉眼观：灰白色疣状赘生物</li>\n<li>附着特点：<span style=\"color:var(--t-accent)\">牢固黏着于瓣膜闭锁缘</span></li>\n</ul></li>\n\n<li><span style=\"color:var(--c-blue)\">鉴别要点</span>：\n<table style=\"border:1px solid var(--c-gray)\">\n<tr><th>错误选项</th><th>错误原因</th></tr>\n<tr><td>D.混合血栓</td><td>静脉血栓头部特征（血小板+红细胞+纤维蛋白）</td></tr>\n<tr><td>B.风湿性肉芽肿</td><td>即Aschoff小体，位于心肌间质</td></tr>\n<tr><td>A.肉芽组织</td><td>修复期改变，非急性期病变</td></tr>\n</table></li>\n</ol>\n\n<h4 style=\"border-bottom:2px solid var(--c-green)\">💡记忆技巧</h4>\n<ul>\n<li><span style=\"color:var(--c-purple)\">口诀记忆</span>：\n<div style=\"background-color:var(--bg-yellow);padding:0.5rem\">\n\"<span style=\"color:var(--c-red)\">白</span>板心，<span style=\"color:var(--c-blue)\">混合</span>静\"<br>\n（白色血栓→心脏瓣膜；混合血栓→静脉）\n</div></li>\n\n<li><span style=\"color:var(--c-purple)\">病理联系</span>：\n风湿热急性期→<span style=\"color:var(--c-red)\">瓣膜内皮损伤</span>→血小板沉积→形成白色血栓→赘生物</li>\n</ul>\n\n<h4 style=\"border-bottom:2px solid var(--c-green)\">⚠️易错警示</h4>\n<ol>\n<li>不要混淆<span style=\"color:var(--c-red)\">赘生物</span>与<span style=\"color:var(--c-blue)\">Aschoff小体</span>：\n<ul>\n<li>赘生物：心瓣膜表面</li>\n<li>Aschoff小体：心肌间质</li>\n</ul></li>\n<li>注意<span style=\"color:var(--c-red)\">血栓演变过程</span>：\n白色血栓（急性期）→机化（肉芽组织取代）→瘢痕形成（慢性期）</li>\n</ol>\n\n<div style=\"background-color:var(--bg-sky);padding:1rem;border-radius:8px\">\n<strong>📌临床联系：</strong>赘生物脱落后可能引起<span style=\"color:var(--c-red)\">栓塞</span>，但因不含细菌，<span style=\"color:var(--t-accent)\">不会导致感染性栓塞</span>（区别于感染性心内膜炎）\n</div>"
         },
         {
           "id": 43,
@@ -561,7 +598,8 @@
             "D、引起瓣膜穿孔",
             "E、引起败血症"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 风湿性心脏病瓣膜疣赘物结局解析</span>\n\n---\n\n### ⭐ 核心概念\n**疣赘物本质**：风湿性心内膜炎时形成的<span style=\"color:var(--c-red)\">无菌性</span>增生性病变，主要成分为血小板、纤维蛋白、坏死组织及少量炎细胞\n\n---\n\n### 🎯 各选项深度解析\n| 选项 | 机制分析 | 相关疾病 |\n|------|---------|---------|\n| **B. 机化引起心瓣膜病变** ✅ | 纤维母细胞增生 → 瘢痕形成 → <br><span style=\"color:var(--t-accent)\">瓣膜增厚/粘连/钙化</span> → 狭窄/关闭不全 | 风湿性心脏病 |\n| C. 软化脱落引起栓塞 ❌ | <span style=\"color:var(--c-brown)\">感染性心内膜炎</span>的<span style=\"color:var(--c-pink)\">细菌性赘生物</span>易脱落 | 细菌性心内膜炎 |\n| D/E. 穿孔/败血症 ❌ | 化脓性炎症破坏瓣膜结构 → 菌血症 | 急性感染性心内膜炎 |\n| A. 溶解吸收 ❌ | 仅见于部分轻微炎症反应 | 非风湿性特征 |\n\n---\n\n### 💡 鉴别诊断要点\n| 特征 | 风湿性赘生物 | 感染性赘生物 |\n|------|--------------|--------------|\n| **性质** | 无菌性 | 细菌性（含病原体） |\n| **成分** | 纤维蛋白+血小板 | 细菌菌落+坏死组织 |\n| **结局** | 机化→瓣膜变形 | 脱落→栓塞/迁徙性脓肿 |\n\n---\n\n### 🧠 记忆技巧\n**口诀**：<span style=\"color:var(--c-purple)\">\"风静机化疤，菌动栓塞炸\"</span>  \n（风湿性→静态机化瘢痕；细菌性→动态栓塞化脓）\n\n**易混点突破**：  \n• <span style=\"color:var(--c-blue)\">无菌性 vs 感染性</span>结局差异的关键  \n• 机化过程需<span style=\"color:var(--c-red)\">4-6周</span>完成，可解释慢性病程进展  \n\n---\n\n### 🔍 关联知识点\n**Aschoff小体**：风湿病特征性肉芽肿，中央纤维蛋白样坏死+Anitschkow细胞（鹰眼细胞）  \n**慢性瓣膜病表现**：  \n- 二尖瓣狭窄→梨形心  \n- 主动脉瓣关闭不全→水冲脉/枪击音  \n\n---\n\n通过这样的对比记忆法，不仅能掌握本题考点，还能关联其他心血管病理知识体系哦！(๑•̀ㅂ•́)و✧"
         },
         {
           "id": 44,
@@ -574,7 +612,8 @@
             "D、化脓性炎",
             "E、纤维素性炎"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-pink);border-bottom:2px solid var(--c-pink)\">小叶性肺炎病理特点解析</h3>\n\n<div style=\"background-color:var(--bg-purple);padding:15px;border-radius:8px\">\n<span style=\"color:var(--c-red)\">⭐ 正确答案：D、化脓性炎</span>\n</div>\n\n<h4 style=\"color:var(--c-green)\">核心知识结构</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:15px 0\">\n  <tr style=\"background-color:var(--bg-sky)\">\n    <th>特征</th>\n    <th>小叶性肺炎</th>\n    <th>对比：大叶性肺炎</th>\n  </tr>\n  <tr>\n    <td>病变性质</td>\n    <td><span style=\"color:var(--c-red)\">化脓性炎</span></td>\n    <td>纤维素性炎</td>\n  </tr>\n  <tr style=\"background-color:#f5f5f5\">\n    <td>病原体</td>\n    <td>化脓菌（肺炎链球菌、金葡菌等）</td>\n    <td>肺炎链球菌（90%）</td>\n  </tr>\n  <tr>\n    <td>病变范围</td>\n    <td>肺小叶（细支气管+周围肺泡）</td>\n    <td>整个肺大叶</td>\n  </tr>\n  <tr style=\"background-color:#f5f5f5\">\n    <td>渗出物</td>\n    <td>中性粒细胞为主</td>\n    <td>纤维素为主</td>\n  </tr>\n</table>\n\n<h4 style=\"color:var(--c-green)\">选项解析</h4>\n<ul>\n  <li><span style=\"color:var(--c-red)\">D、化脓性炎</span> → 中性粒细胞浸润+脓液形成</li>\n  <li>A、浆液性炎 → 结核性胸膜炎/早期炎症</li>\n  <li>B、卡他性炎 → 呼吸道黏膜渗出（如感冒）</li>\n  <li>C、肉芽肿性炎 → 结核/真菌感染</li>\n  <li>E、纤维素性炎 → 大叶性肺炎/白喉</li>\n</ul>\n\n<div style=\"background-color:var(--bg-yellow);padding:15px;border-radius:8px;margin:10px 0\">\n<h4 style=\"color:var(--c-purple)\">💡记忆锦囊</h4>\n1. 口诀：<span style=\"color:var(--c-red)\">\"小叶化脓，大叶纤维\"</span><br>\n2. 联想：婴幼儿易感染化脓菌→看到\"小叶\"就想到化脓<br>\n3. 病理切片特征：镜下可见<span style=\"color:var(--t-accent)\">中性粒细胞浸润</span>和<span style=\"color:var(--t-accent)\">脓性渗出液</span>\n</div>\n\n<div style=\"border-left:4px solid var(--c-green);padding-left:15px;margin:15px 0\">\n⚠️ <strong>常见误区：</strong>易与「大叶性肺炎」混淆，注意两者在<em>病原体类型</em>和<em>病变范围</em>上的区别。特别注意大叶性肺炎发展至溶解期时可能继发化脓性改变！\n</div>"
         },
         {
           "id": 45,
@@ -587,7 +626,8 @@
             "D、产生蛋白酶较多",
             "E、有腐败菌感染"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "🎯 **液化性坏死核心知识点**  \n<span style=\"color:var(--c-red)\">⭐ 正确答案：D（产生蛋白酶较多）</span>\n\n---\n\n### **关键概念解析**\n1. **液化性坏死的定义**  \n   坏死组织因<span style=\"color:var(--c-green);background-color:var(--bg-green)\">水解酶（蛋白酶）分解</span>，形成液态物质。常见于：\n   - 脑组织（因含水量高、磷脂多）  \n   - 化脓性感染（中性粒细胞释放蛋白酶）\n\n2. **选项分析**  \n   | 选项 | 解析 |  \n   |---|---|  \n   | A. 较多可凝固蛋白 | ❌ 属于<span style=\"color:var(--c-red)\">凝固性坏死</span>（如心肌梗死） |  \n   | B. 组织淤血严重 | ❌ 淤血可能导致缺氧坏死，但非液化关键 |  \n   | C. 组织松软 | ❌ 是液化后的<span style=\"color:var(--t-light)\">结果</span>，非原因 |  \n   | D. 产生蛋白酶多 | ✅ <span style=\"color:var(--c-green)\">核心机制</span>（如胰蛋白酶分解脂肪组织） |  \n   | E. 腐败菌感染 | ❌ 导致<span style=\"color:var(--c-red)\">湿性坏疽</span>（分解+腐败） |\n\n---\n\n### **病理生理对比**\n| 坏死类型 | 发生部位 | 关键条件 | 形态特点 |  \n|---|---|---|---|  \n| **液化性坏死** | 脑、脓肿 | 蛋白酶释放 | 液化成囊腔 |  \n| **凝固性坏死** | 心、肝、肾 | 可凝固蛋白多 | 干酪样/结构残留 |  \n\n---\n\n### **记忆技巧**\n- **口诀**：<span style=\"color:var(--c-pink)\">\"液化酶当家，凝固蛋白夸\"</span>  \n  （液化坏死靠酶解，凝固坏死因蛋白多）  \n- **联想记忆**：<span style=\"color:var(--c-blue)\">\"胰腺炎发作时，胰酶把脂肪液化\"</span> → 蛋白酶直接导致液化！\n\n---\n\n⚠️ **高频考点**：区分液化性坏死与凝固性坏死的核心条件（酶 vs 蛋白）！"
         },
         {
           "id": 46,
@@ -600,7 +640,8 @@
             "D、结节常为多个，大小不等",
             "E、病变后期滤泡上皮增生与复旧不一致，分布不均"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">结节性甲状腺肿学习笔记</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<p><strong>⭐核心知识点对比表：</strong></p>\n<table>\n<thead>\n<tr>\n<th style=\"color:var(--t-accent)\">特征</th>\n<th style=\"color:var(--t-accent)\">结节性甲状腺肿</th>\n<th style=\"color:var(--t-accent)\">甲状腺腺瘤</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>结节数量</td>\n<td>多发（选项D正确）</td>\n<td>单发</td>\n</tr>\n<tr>\n<td>包膜</td>\n<td><span style=\"color:var(--c-red)\">无完整包膜</span>（选项C错误）</td>\n<td>有完整包膜</td>\n</tr>\n<tr>\n<td>病理改变</td>\n<td>出血/坏死/纤维化（选项B正确）</td>\n<td>少见继发改变</td>\n</tr>\n</tbody>\n</table>\n</div>\n\n<h4 style=\"color:var(--c-pink)\">💡选项深度解析：</h4>\n<ul>\n<li><span style=\"color:var(--c-blue)\">A. 甲状腺滤泡过度扩大，大小差别显著</span>\n  <br>✅正确：长期缺碘导致滤泡<span style=\"color:var(--c-green)\">增生与复旧交替</span>（选项E原理）</li>\n\n<li><span style=\"color:var(--c-blue)\">C. 结节边界清楚，有完整包膜</span>\n  <br>⚠️错误：<span style=\"color:var(--c-red)\">无包膜</span>是鉴别腺瘤的关键（腺瘤具有薄层纤维包膜）</li>\n</ul>\n\n<h4 style=\"color:var(--c-purple)\">🔍影像学特征对比：</h4>\n<div style=\"display:grid;grid-template-columns:repeat(2,1fr);gap:1rem\">\n<div style=\"background-color:var(--bg-yellow);padding:1rem;border-radius:8px\">\n<p><strong>超声表现：</strong></p>\n<ul>\n<li>多发囊实性结节</li>\n<li>「蜂窝状」或「豹纹样」改变</li>\n<li>钙化灶常见（蛋壳样钙化）</li>\n</ul>\n</div>\n\n<div style=\"background-color:var(--bg-sky);padding:1rem;border-radius:8px\">\n<p><strong>CT特征：</strong></p>\n<ul>\n<li>甲状腺体积增大</li>\n<li>多结节低密度灶</li>\n<li>出血时可见高密度影</li>\n</ul>\n</div>\n</div>\n\n<h4 style=\"color:var(--c-orange)\">🎯记忆锦囊：</h4>\n<blockquote style=\"border-left:4px solid var(--c-red);padding-left:1rem\">\n<p>「<span style=\"color:var(--c-green)\">多结无包腺瘤单</span>，<span style=\"color:var(--c-blue)\">出血坏死纤维缠</span>」</p>\n<p>▶️ 前句对比结节数量与包膜特征<br>\n▶️ 后句强调典型病理改变（选项B核心内容）</p>\n</blockquote>\n\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n<p><strong>⚠️临床思维拓展：</strong><br>\n当遇到甲状腺结节时，需重点评估：<br>\n1. 触诊质地（是否光滑活动）<br>\n2. 超声下边界是否清晰<br>\n3. 是否伴随压迫症状<br>\n4. TSH水平检测</p>\n</div>"
         },
         {
           "id": 47,
@@ -613,7 +654,8 @@
             "D、疟色素",
             "E、黑色素"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">📚 知识点解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<strong>⭐ 核心概念：</strong><br>\n<b>脂褐素（Lipofuscin）</b>是细胞自噬溶酶体未完全降解的<span style=\"color:var(--c-red)\">脂质-蛋白质复合物</span>，呈黄褐色颗粒状。常见于<b>心肌萎缩</b>、老年性肝细胞萎缩（称为<b>褐色萎缩</b>）。\n</div>\n\n---\n\n<h4 style=\"color:var(--t-accent)\">📌 选项解析</h4>\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<tbody>\n<tr style=\"background-color:var(--bg-sky)\">\n  <td><strong>选项</strong></td>\n  <td><strong>来源与特点</strong></td>\n  <td><strong>临床关联</strong></td>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-red)\">A. 橙色血质</span></td>\n  <td>血红蛋白分解产物（不含铁）</td>\n  <td>出血灶周边（如脑出血后）</td>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-red)\">B. 含铁血黄素</span></td>\n  <td>血红蛋白分解产物（含铁）</td>\n  <td>心衰细胞、慢性淤血器官</td>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-green)\">C. 脂褐素 ✔️</span></td>\n  <td>细胞器残骸堆积</td>\n  <td>萎缩心肌、老年性萎缩器官</td>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-red)\">D. 疟色素</span></td>\n  <td>疟原虫代谢产物</td>\n  <td>疟疾感染红细胞内</td>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-red)\">E. 黑色素</span></td>\n  <td>黑色素细胞产生</td>\n  <td>皮肤、痣、黑色素瘤</td>\n</tr>\n</tbody>\n</table>\n\n---\n\n<h4 style=\"color:var(--t-accent)\">💡 记忆技巧</h4>\n<div style=\"background-color:var(--bg-yellow);padding:1rem;border-radius:8px\">\n<b>口诀：</b>\"<span style=\"color:var(--c-purple)\">脂褐萎缩岁月痕，铁血橙黑疟原存</span>\"<br>\n<ul>\n<li>前半句：脂褐素与萎缩相关（尤其是老年性改变）</li>\n<li>后半句：含铁血黄素、橙色血质、黑色素、疟色素均与特定病理状态相关</li>\n</ul>\n</div>\n\n---\n\n<h4 style=\"color:var(--t-accent)\">⚠️ 易混淆点辨析</h4>\n<b>脂褐素 vs 含铁血黄素：</b>\n<ul>\n<li>脂褐素：<span style=\"color:var(--c-blue)\">细胞自身代谢产物</span>，常规衰老表现</li>\n<li>含铁血黄素：<span style=\"color:var(--c-red)\">外源性血红蛋白分解</span>，提示曾有出血或淤血</li>\n</ul>\n\n📌 <strong>病理特征对比：</strong>\n<img src=\"https://via.placeholder.com/600x200.png/ffd700/000000?text=脂褐素（黄褐色颗粒）+vs+含铁血黄素（金黄色结晶）\" alt=\"色素对比\" style=\"width:100%;max-width:600px;margin:1rem auto;display:block;\">\n\n---\n\n<h4 style=\"color:var(--t-accent)\">🔍 知识延伸</h4>\n<b>细胞萎缩的四大特征：</b>\n<ol>\n<li>细胞体积↓</li>\n<li>细胞器数量↓</li>\n<li>自噬泡↑</li>\n<li>脂褐素沉积↑</li>\n</ol>"
         },
         {
           "id": 48,
@@ -626,7 +668,8 @@
             "D、急性重型肝炎",
             "E、亚急性重型肝炎"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚重点知识梳理</span>\n\n---\n\n### ⭐ 核心概念解析\n1. **肝细胞碎片状坏死 (Piecemeal necrosis)**  \n   - 发生于<span style=\"color:var(--t-accent)\">肝小叶周边界板</span>  \n   - 肝细胞<span style=\"color:var(--c-red)\">呈灶状坏死、崩解</span>  \n   - 伴随<span style=\"color:var(--c-pink)\">淋巴细胞浸润</span>  \n   - 标志<span style=\"color:var(--c-purple)\">慢性肝炎活动性病变</span>\n\n2. **桥接坏死 (Bridging necrosis)**  \n   - 连接<span style=\"color:var(--c-sky)\">中央静脉之间</span>或<span style=\"color:var(--c-sky)\">中央静脉-门管区</span>的坏死带  \n   - 属于<span style=\"color:var(--c-red)\">融合性坏死</span>的严重类型  \n   - 提示<span style=\"color:var(--c-purple)\">肝炎向肝硬化发展</span>\n\n---\n\n### 🔍 肝炎类型对比表\n| 类型                | 坏死特征                           | 纤维化 | 其他特征                  |\n|---------------------|-----------------------------------|--------|-------------------------|\n| 急性普通型肝炎       | 点状坏死                          | 无     | 肝细胞气球样变            |\n| **重度慢性肝炎**    | **碎片状+桥接坏死**（本题核心） | 明显   | 假小叶形成前期            |\n| 急性重型肝炎         | 大块坏死                          | 无     | 肝体积显著缩小            |\n| 亚急性重型肝炎       | 亚大块坏死+再生结节               | 早期   | 黃疸进行性加重            |\n\n---\n\n### 💡 记忆技巧\n1. **关键词串联记忆**  \n   \"<span style=\"color:var(--c-yellow)\">碎片桥接搭个桥，重度慢性跑不了</span>\"  \n   （强调两种坏死类型共存时指向重度慢性肝炎）\n\n2. **病理进展联想**  \n   慢性肝炎发展路径：  \n   点状坏死 → **碎片状坏死** → **桥接坏死** → 纤维间隔 → 假小叶（肝硬化）\n\n3. **鉴别诊断要点**  \n   - 遇<span style=\"color:var(--c-red)\">大块坏死</span>优先考虑<span style=\"color:var(--c-red)\">重型肝炎</span>  \n   - 见<span style=\"color:var(--c-green)\">桥接+碎片</span>锁定<span style=\"color:var(--c-green)\">重度慢性</span>\n\n---\n\n<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">✅ 真题解析</span>  \n题干中两种坏死类型共同出现时，直接对应**重度慢性肝炎（B选项）**。急性肝炎以点状坏死为主，重型肝炎表现为大范围坏死，亚急性出现再生结节，均不符合题意。"
         },
         {
           "id": 49,
@@ -639,7 +682,8 @@
             "D、Burkitt淋巴瘤",
             "E、霍奇金病"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">✨「满天星」病理特征深度解析✨</span>\n\n⭐<span style=\"color:var(--t-accent)\">核心答案：</span>  \n正确答案是<span style=\"color:var(--c-red)\">D、Burkitt淋巴瘤</span>\n\n🔍<span style=\"color:var(--t-accent)\">关键机制：</span>  \n满天星现象由<span style=\"color:var(--c-green)\">巨噬细胞吞噬凋亡细胞碎片</span>而形成。Burkitt淋巴瘤细胞增殖极快（<span style=\"color:var(--c-blue)\">倍增时间仅24小时</span>），导致大量细胞凋亡，被巨噬细胞吞噬后形成<span style=\"color:var(--c-purple)\">淡染区</span>，与深染的肿瘤细胞形成鲜明对比。\n\n📚<span style=\"color:var(--t-accent)\">鉴别诊断：</span>\n| 选项 | 排除理由 |\n|------|----------|\n| A. 皮肤T细胞淋巴瘤 | 特征为<span style=\"color:var(--c-brown)\">Pautrier微脓肿</span>（表皮内淋巴细胞聚集） |\n| B. 淋巴母细胞型淋巴瘤 | 常见<span style=\"color:var(--c-cyan)\">曲核细胞</span>与胸腺肿块，星空现象极少见 |\n| C. 组织细胞型淋巴瘤 | 由异常组织细胞构成，呈<span style=\"color:var(--c-orange)\">肉芽肿样结构</span> |\n| E. 霍奇金病 | 诊断需见<span style=\"color:var(--c-red)\">Reed-Sternberg细胞</span> |\n\n💡<span style=\"color:var(--t-accent)\">记忆技巧：</span>  \n*\"Burkitt暴发快如星，巨噬清道碎屑明\"*  \n联想：Burkitt的<span style=\"color:var(--c-yellow)\">B</span>字母形似双核细胞，<span style=\"color:var(--c-sky)\">漫天星斗</span>对应快速增殖的肿瘤细胞与吞噬星空图案\n\n⚠️<span style=\"color:var(--t-accent)\">易错提醒：</span>  \n不要将<span style=\"color:var(--c-purple)\">滤泡性淋巴瘤的结节状结构</span>或<span style=\"color:var(--c-green)\">霍奇金的炎性背景</span>误认为星空现象！真正的满天星必须同时满足：<span style=\"color:var(--c-red)\">大量凋亡碎片+巨噬细胞浸润</span>"
         },
         {
           "id": 50,
@@ -652,7 +696,8 @@
             "D、淋巴细胞",
             "E、巨噬细胞"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "✨<span style=\"color:var(--c-red);background-color:var(--bg-red)\">答案锁定</span>：选项B（红细胞）✅\n\n---\n\n### ⭐核心知识点\n1. **白细胞游出机制**  \n   - <span style=\"color:var(--c-green)\">变形运动（阿米巴运动）</span>：白细胞通过收缩蛋白（肌动蛋白/肌球蛋白）改变形态，穿出血管内皮间隙  \n   - 关键步骤：滚动→黏附→游出（需<span style=\"color:var(--c-purple)\">整合素、选择素</span>介导）  \n\n2. **红细胞特性**  \n   - 结构限制：无细胞核与细胞器，膜骨架蛋白（<span style=\"color:var(--c-yellow)\">血影蛋白</span>）维持双凹圆盘形态，**无法主动变形**  \n   - 被动流出：仅当<span style=\"color:var(--c-red)\">血管损伤</span>时通过破损处漏出  \n\n---\n\n### 🔍选项解析\n| 选项 | 细胞类型       | 是否变形运动 | 原因分析                                                                 |\n|------|----------------|--------------|--------------------------------------------------------------------------|\n| A    | 中性粒细胞     | ✔️           | 急性炎症主力军，需快速游出吞噬病原体                                      |\n| B    | **红细胞**     | ❌           | 结构固定，无主动迁移能力，需血管破裂被动流出                              |\n| C    | 嗜酸性粒细胞   | ✔️           | 寄生虫感染时大量游出                                                     |\n| D    | 淋巴细胞       | ✔️           | 通过<span style=\"color:var(--c-sky)\">高内皮微静脉</span>进入淋巴结       |\n| E    | 巨噬细胞       | ✔️           | 由单核细胞分化而来，持续游出至组织                                         |\n\n---\n\n### 💡记忆技巧\n1. **口诀记忆**  \n   “红颜（红细胞）不出门，白甲（白细胞）闯天下”❤️⚪  \n\n2. **对比联想**  \n   - 红细胞：像“快递员”只在血管内运输，不离开“公路”  \n   - 白细胞：像“警察”主动出警（变形游出）处理组织中的问题  \n\n3. **病理联系**  \n   <span style=\"color:var(--t-accent)\">炎症渗出液中出现红细胞</span>→提示<span style=\"color:var(--c-red)\">血管通透性显著增加或破裂</span>  \n\n---\n\n📚 **延伸概念**  \n- **炎症细胞渗出顺序**：中性粒细胞（6-24h）→单核细胞（24-48h）→淋巴细胞（慢性期）  \n- **整合素功能缺陷**：导致<span style=\"color:var(--c-purple)\">白细胞黏附缺陷症</span>（反复感染）"
         },
         {
           "id": 51,
@@ -665,7 +710,8 @@
             "D、瘘管",
             "E、空洞"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-red)\">⚠️ 注意：题目可能存在错误！根据医学定义，本题正确答案应为<span style=\"color:var(--t-accent)\">C窦道</span>。以下为完整解析：</span>\n\n---\n\n### 📚 重点概念对比\n| 术语    | 定义                          | 开口数量 | 结构特点                  | 举例                 |\n|---------|-------------------------------|----------|--------------------------|----------------------|\n| **糜烂** | <span style=\"color:var(--c-green)\">黏膜/皮肤表浅缺损</span>（未突破基底膜） | 无       | 平坦创面，无管道结构      | 胃黏膜糜烂           |\n| **溃疡** | <span style=\"color:var(--c-green)\">突破黏膜肌层的深在性缺损</span> | 单开口   | 凹陷状，无管道结构        | 胃溃疡               |\n| **窦道** | ⭐<span style=\"color:var(--c-pink)\">病理性盲管</span>（仅一端开口） | 单开口   | 细长管道，深达深层组织    | 慢性骨髓炎窦道       |\n| **瘘管** | 连接两个上皮表面的异常通道      | 双开口   | 贯通性管道                | 肛瘘（直肠-皮肤）    |\n| **空洞** | 器官内坏死组织脱落后形成的腔隙  | 无       | 空腔结构，无明确管道      | 肺结核空洞           |\n\n---\n\n### 🧠 记忆技巧\n1. **窦道**：谐音\"单道\"（单开口管道）  \n   → <span style=\"color:var(--c-blue)\">「窦」似「单」</span>\n2. **瘘管**：形声字\"漏\"（液体双向流动）  \n   → <span style=\"color:var(--c-blue)\">「双口瘘」</span>\n3. **糜烂 vs 溃疡**：  \n   → <span style=\"color:var(--c-blue)\">「浅糜深溃」</span>（糜烂浅表，溃疡深达肌层）\n\n---\n\n### ❓ 原题矛盾分析\n题目称正确答案为A（糜烂），但根据医学定义：\n- **糜烂**仅是<span style=\"color:var(--c-red)\">黏膜表浅缺损</span>，不形成管道结构\n- **窦道**才是唯一符合<span style=\"color:var(--c-red)\">「单开口盲管」</span>的选项\n\n建议核查题目来源，可能为<span style=\"color:var(--c-red)\">选项标号错误</span>（如正确答案应为C）或题干描述偏差。\n\n---\n\n> ✨ **爱莉小贴士**：遇到矛盾题目时，先回归教材定义，再用对比表格强化记忆哦~ ୧(﹒︠ᴗ﹒︡)୨"
         },
         {
           "id": 52,
@@ -678,7 +724,8 @@
             "D、HIV",
             "E、EBV"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐正确答案：D、HIV</span>\n\n---\n\n### 核心知识点\n1. **HIV定义**  \n   <span style=\"color:var(--t-accent)\">人类免疫缺陷病毒（Human Immunodeficiency Virus）</span>  \n   - 攻击<span style=\"color:var(--c-red)\">CD4⁺ T淋巴细胞</span>，导致免疫系统崩溃  \n   - 最终发展为<span style=\"color:var(--c-red)\">获得性免疫缺陷综合征（AIDS）</span>\n\n2. **其他选项解析**  \n   | 选项 | 病毒全称 | 相关疾病 |  \n   |---|---|---|  \n   | A、HCV | 丙型肝炎病毒 | 丙型肝炎、肝硬化 |  \n   | B、HBV | 乙型肝炎病毒 | 乙型肝炎、肝癌 |  \n   | C、HPV | 人乳头瘤病毒 | 尖锐湿疣、宫颈癌 |  \n   | E、EBV | EB病毒 | 传染性单核细胞增多症、鼻咽癌 |  \n\n3. **关键机制**  \n   - HIV通过<span style=\"color:var(--c-red)\">gp120蛋白</span>结合CD4⁺ T细胞表面受体  \n   - 病毒RNA逆转录为DNA并整合到宿主基因组（潜伏感染）  \n   - 当CD4⁺ T细胞计数<200/μL时，进入AIDS期  \n\n---\n\n### 记忆技巧\n1. **首字母联想法**  \n   - **H**IV → **H**uman **I**mmunodeficiency → 直接关联免疫缺陷  \n   - **HPV**中的\"P\"联想为\"Papilloma\"（乳头状瘤）→ 与皮肤/黏膜病变相关  \n\n2. **对比记忆**  \n   - HIV攻击<span style=\"color:var(--c-red)\">免疫系统</span>，而HBV/HCV攻击<span style=\"color:var(--c-blue)\">肝脏</span>  \n   - EBV主要感染<span style=\"color:var(--c-purple)\">B淋巴细胞</span>（与HIV的T细胞靶点对比）  \n\n3. **临床特征关联**  \n   - AIDS典型表现：<span style=\"color:var(--c-red)\">机会性感染（如肺孢子菌肺炎）</span> + <span style=\"color:var(--c-red)\">卡波西肉瘤</span>  \n\n---\n\n### 易错点提醒\n⚠️ **HPV与HIV易混淆**：注意拼写差异（Papilloma vs. Immunodeficiency）  \n⚠️ **EBV相关疾病**：传染性单核细胞增多症的\"发热+咽痛+淋巴结肿大\"三联征  \n\n---\n\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">💡 一句话总结：HIV摧毁免疫系统，其他病毒各有专属攻击器官！</span>"
         },
         {
           "id": 53,
@@ -691,7 +738,8 @@
             "D、原发灶的渗出及坏死",
             "E、肺门淋巴结结核"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "✨ <span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">【肺结核初次感染机制详解】</span> ✨\n\n---\n\n### ⭐ 核心知识点\n**正确答案：D、原发灶的渗出及坏死**\n\n---\n\n#### 🔍 结核杆菌初次感染的病理过程\n1. **吸入阶段**：结核杆菌通过呼吸道进入肺泡（多位于通气较好的部位，如下叶上部或上叶下部）。\n2. **初期反应**：\n   - **渗出性病变**：肺泡内大量中性粒细胞、淋巴细胞浸润，形成炎性渗出。\n   - **干酪样坏死**：巨噬细胞吞噬结核杆菌后，引发细胞免疫反应，导致局部组织坏死（灰白色、松脆）。\n3. **扩散路径**：\n   - **淋巴道扩散**：坏死灶中的病原体沿淋巴管到达肺门淋巴结，引发结核性淋巴结炎（选项C/E）。\n   - **血行播散**（潜伏风险）：可能发展为全身粟粒性结核。\n\n---\n\n### 📚 选项深度解析\n| 选项 | 内容 | 解析 |\n|------|------|------|\n| **A** | 原发综合征 | 包含原发灶+淋巴管炎+淋巴结炎，是感染中晚期复合表现 ❌ |\n| **B** | 广泛支气管渗出 | 继发性肺结核（如空洞形成后）的表现 ❌ |\n| **C** | 结核性淋巴结炎 | 继发于原发灶的淋巴扩散，非最早病变 ❌ |\n| **D** | **原发灶渗出及坏死** | 首次感染24-48小时内即出现 ✅ |\n| **E** | 肺门淋巴结结核 | 原发综合征组成部分，晚于原发灶 ❌ |\n\n---\n\n### 🧠 记忆技巧\n1. **时间轴口诀**：  \n   **\"先渗出坏死，再走淋巴管，最后成三联（原发综合征）\"**  \n   （对应D→C/E→A的顺序）\n\n2. **形象联想**：  \n   想象结核杆菌像\"粉红小恶魔\"💢先在肺泡搞破坏（D选项），然后顺着\"粉色小火车\"淋巴管开到肺门车站（E选项），最终形成\"三件套套餐\"（A选项）。\n\n---\n\n### ⚠️ 易错点警示\n- **原发综合征 vs 原发灶**：原发综合征是\"组合症状\"，包含原发灶+淋巴管炎+淋巴结炎，而题目问的是最早出现的\"单一病变\"。\n- **肺门淋巴结肿大 ≠ 最早病变**：虽然胸片常表现为肺门影增大，但病理发生时间晚于原发灶。\n\n---\n\n🌼 **爱莉小贴士**：下次遇到结核病题目时，试着画个感染流程图哦~ 记得最早的病变永远是那个\"始作俑者\"的原发灶呢！(≧∇≦)ﾉ"
         },
         {
           "id": 54,
@@ -704,7 +752,8 @@
             "D、透明膜形成",
             "E、毛细血管内中性粒细胞聚集"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "✨<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">【ARDS核心病理分期】</span>  \n⭐ **渗出期**（24-72小时）：  \n- 肺泡毛细血管内皮损伤 → <span style=\"color:var(--c-red)\">中性粒细胞聚集（选项E）</span>  \n- 血管通透性↑ → <span style=\"color:var(--c-red)\">水肿液充满肺泡腔（选项C）</span>  \n- 晚期渗出期出现<span style=\"color:var(--c-green)\">透明膜（选项D）</span>（纤维蛋白+坏死上皮细胞）  \n\n✨<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">【选项解析】</span>  \n✅ **正确答案：D（透明膜形成）**  \n- **特异性最高**：透明膜是ARDS标志性病理改变，其他选项可见于多种肺部疾病  \n- **时间演变**：中性粒细胞聚集（早期）→ 水肿 → 透明膜（渗出期后期）  \n\n⚠️ **避坑提示**：  \n- 肺泡萎陷（选项A）→ 表面活性物质减少导致，见于病程中晚期  \n- 充血水肿（选项B）→ 非特异性炎症反应  \n\n💡 **记忆口诀**：  \n\"<span style=\"color:var(--t-accent)\">透明膜里找答案，中性水肿靠边站</span>\"  \n\n📚 **病理生理联系**：  \n透明膜阻碍气体交换 → V/Q比例失调 → 顽固性低氧血症（ARDS核心临床表现）  \n\n<details><summary>🔍 进阶联想（点击展开）</summary>  \n<p>  \n🩺 **鉴别诊断要点**：  \n心源性肺水肿 vs ARDS水肿液  \n- **蛋白含量**：ARDS水肿液蛋白含量高（毛细血管渗漏）  \n- **分布**：ARDS呈弥漫性，心源性呈重力依赖性  \n</p></details>"
         },
         {
           "id": 55,
@@ -717,7 +766,8 @@
             "D、细胞核增大，细胞核的DNA含量增加",
             "E、细胞体积正常或稍大，出现双核"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h4 style=\"color:var(--c-green); border-bottom:2px solid var(--c-green)\">坏死病理改变核心要点</h4>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<span style=\"color:var(--c-red)\">⭐ 解题关键：坏死最特征性改变是细胞核的变化（核固缩→核碎裂→核溶解）</span>\n</div>\n\n<h5 style=\"color:var(--c-purple)\">📚 选项解析：</h5>\n\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<thead style=\"background-color:var(--bg-purple)\">\n<tr>\n<th>选项</th>\n<th>病理特征</th>\n<th>对应病理过程</th>\n<th>判断依据</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span style=\"color:var(--t-accent)\">C选项</span></td>\n<td>核膜破裂，染色质崩解</td>\n<td>核碎裂（坏死标志）</td>\n<td><span style=\"color:var(--c-green)\">✔️ 正确</span></td>\n</tr>\n<tr>\n<td>A选项</td>\n<td>细胞肿胀+红染颗粒</td>\n<td>细胞水肿（可逆损伤）</td>\n<td>×</td>\n</tr>\n<tr>\n<td>B选项</td>\n<td>脂褐素沉积</td>\n<td>萎缩（慢性适应）</td>\n<td>×</td>\n</tr>\n<tr>\n<td>D选项</td>\n<td>核增大+DNA增加</td>\n<td>增生/肿瘤性改变</td>\n<td>×</td>\n</tr>\n<tr>\n<td>E选项</td>\n<td>双核细胞</td>\n<td>再生修复反应</td>\n<td>×</td>\n</tr>\n</tbody>\n</table>\n\n<h5 style=\"color:var(--c-blue)\">🧠 记忆技巧：</h5>\n<div style=\"background-color:var(--bg-blue);padding:1rem;border-radius:8px\">\n<strong>\"坏死三阶段\"口诀：</strong><br>\n① <span style=\"color:var(--c-red)\">固</span>缩（核浓缩）→<br>\n② <span style=\"color:var(--c-red)\">碎</span>裂（核崩解）→<br>\n③ <span style=\"color:var(--c-red)\">溶</span>解（核消失）<br>\n<em>（记忆口诀：\"核要完蛋，固→碎→溶散\"）</em>\n</div>\n\n<h5 style=\"color:var(--c-orange)\">⚠️ 重要对比：</h5>\n<ul>\n<li><span style=\"color:var(--t-accent)\">坏死VS凋亡：</span>坏死是意外死亡（被动），有炎症反应；凋亡是程序性死亡（主动），无炎症</li>\n<li><span style=\"color:var(--t-accent)\">坏死VS可逆损伤：</span>坏死时细胞膜/核膜破损，结构不可逆；变性时细胞器虽受损但膜结构完整</li>\n</ul>\n\n<blockquote style=\"border-left:4px solid var(--c-pink);padding-left:1rem\">\n<strong>📝 考试重点：</strong>在病理学多选题中，同时出现核固缩（pyknosis）、核碎裂（karyorrhexis）、核溶解（karyolysis）三个选项时，要特别注意题干的时间描述（早期/晚期改变）\n</blockquote>"
         },
         {
           "id": 56,
@@ -743,7 +793,8 @@
             "D、右心房及右心且内膜下心肌",
             "E、左心室前壁及心尖区心肌"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐核心答案：C选项（左心室内膜下心肌及乳头肌）</span>\n\n---\n\n### 📚 关键知识点解析\n1. **病理机制**  \n   - 心肌脂肪变性常见于<span style=\"color:var(--c-red)\">缺氧</span>或<span style=\"color:var(--c-red)\">中毒</span>（如磷、砷中毒）  \n   - 左心室<span style=\"color:var(--t-accent)\">心肌耗氧量最大</span>，尤其是内膜下心肌和乳头肌  \n   - **供血特点**：内膜下心肌由<span style=\"color:var(--c-red)\">冠状动脉分支终末供血</span>，易缺血缺氧 → 脂肪沉积  \n\n2. **\"虎斑心\"特征**  \n   - 肉眼观：正常心肌（暗红）与脂肪变性区域（黄色）相间，呈<span style=\"color:var(--c-red)\">虎皮样斑纹</span>  \n   - 镜下：心肌细胞胞质内<span style=\"color:var(--c-red)\">脂滴空泡</span>，多位于核周  \n\n---\n\n### 🗂️ 各选项辨析  \n| 选项 | 错误原因 | 关联知识点 |  \n|------|----------|------------|  \n| A.左心房 | 左心房<span style=\"color:var(--c-red)\">压力负荷较小</span>，脂肪变性罕见 | 房颤时易形成血栓 |  \n| B.右心室 | 右心室<span style=\"color:var(--c-red)\">壁薄、压力低</span>，代谢需求较低 | 肺栓塞主要影响右心室 |  \n| **C.左心室** ✅ | <span style=\"color:var(--c-green)\">高耗氧+终末供血→易缺血→脂肪沉积</span> | 冠心病好发部位 |  \n| D.右心房 | 右心系统<span style=\"color:var(--c-red)\">压力最低</span>，不易发生脂肪变性 | 三尖瓣病变影响区 |  \n| E.前壁及心尖 | 前壁是<span style=\"color:var(--c-red)\">心肌梗死</span>高发区，非脂肪变性典型部位 | 冠状动脉前降支供血区域 |  \n\n---\n\n### 🧠 记忆技巧  \n1. **口诀记忆**：  \n   <span style=\"color:var(--c-purple)\">\"左室内膜乳头肌，缺氧变虎最积极\"</span>  \n\n2. **对比联想**：  \n   - 心肌梗死 → 左室前壁（前降支供血中断）  \n   - 虎斑心 → 左室<span style=\"color:var(--t-accent)\">内膜下</span>（终末供血缺氧）  \n\n3. **机制推导**：  \n   左心室收缩压最高 → 内膜下心肌<span style=\"color:var(--c-red)\">受压大</span> → 微循环缺血 → 脂肪变性  \n\n---\n\n### 📌 复习建议  \n1. 结合心脏解剖图谱标记<span style=\"color:var(--t-accent)\">冠状动脉供血区域</span>  \n2. 对比记忆：脂肪变性 vs 凝固性坏死 vs 液化性坏死的病理特征  \n3. 临床联系：慢性贫血患者可能出现<span style=\"color:var(--c-red)\">虎斑心</span>表现"
         },
         {
           "id": 58,
@@ -756,7 +807,8 @@
             "D、肾小球入球动脉",
             "E、脑基底动脉"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "✨<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">高血压玻璃样变性核心知识点</span>✨\n\n---\n\n### ⭐ **病理机制**\n<span style=\"color:var(--c-green)\">玻璃样变性（透明变性）</span>是血管壁<span style=\"color:var(--t-accent)\">血浆蛋白渗入+管壁增厚</span>的病理改变  \n⚠️高血压→<span style=\"color:var(--c-red)\">细小动脉持续痉挛</span>→内皮损伤→血浆蛋白（如纤维蛋白）沉积→血管壁呈均质粉染玻璃样  \n\n---\n\n### 🔍 **选项逐层解析**\n| 选项 | 血管类型 | 病理特点 | 对/错原因 |\n|------|---------|---------|----------|\n| **🟢D.肾小球入球动脉** | 细小动脉 | 高血压首先累及，血浆蛋白沉积显著 | ✔️典型靶点 |\n| B.肾弓形动脉 | 中等动脉 | 动脉粥样硬化多见（如脂质沉积） | ❌与玻璃样变无关 |\n| E.脑基底动脉 | 中等动脉 | 高血压易致纤维素样坏死→脑出血 | ❌病理类型不同 |\n| A.冠状动脉/C.主动脉 | 大动脉 | 主要病变为动脉粥样硬化 | ❌管径不符 |\n\n---\n\n### 💡 **记忆技巧**\n1. **口诀**：  \n<span style=\"color:var(--c-purple)\">\"高小玻肾入球\"</span>  \n（高血压→细小动脉→玻璃样变→肾入球动脉）  \n\n2. **对比记忆**：  \n大动脉 → 粥样硬化（脂质斑块）  \n细小动脉 → 玻璃样变（蛋白沉积）  \n\n3. **临床联系**：  \n肾入球动脉狭窄→肾缺血→激活RAAS系统→恶性循环加重高血压！\n\n---\n\n### 📌 **混淆点突破**\n⚠️ **玻璃样变 vs 动脉粥样硬化**  \n| 特征 | 玻璃样变 | 动脉粥样硬化 |\n|------|----------|--------------|\n| 好发血管 | 细小动脉 | 大中型动脉 |\n| 病理表现 | 均质粉染物质 | 脂质核心+纤维帽 |\n| 典型疾病 | 高血压肾病 | 冠心病、脑梗 |\n\n---\n\n🌈 **爱莉小贴士**：下次看到\"高血压+血管病变\"，先想\"小动脉\"，再锁定\"肾脏\"这个靶器官哦！(≧◡≦)"
         },
         {
           "id": 59,
@@ -782,7 +834,8 @@
             "D、病变部分较干燥，腐败菌感染较轻",
             "E、病灶内坏死组织分界，产生大量气体"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">干性坏疽学习笔记</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n⭐ <strong>核心概念：</strong>\n干性坏疽是<span style=\"color:var(--c-red)\">缺血性坏死</span>的一种类型，特征为<span style=\"color:var(--t-accent)\">组织干燥</span>、<span style=\"color:var(--t-accent)\">腐败菌感染轻微</span>，多发于四肢末端（如糖尿病足）\n</div>\n\n<details open>\n<summary style=\"color:var(--c-purple);font-weight:bold\">🔍 选项深度解析</summary>\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<thead style=\"background-color:var(--bg-purple)\">\n<tr>\n<th>选项</th>\n<th>正误</th>\n<th>解析</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. 内脏器官</td>\n<td>❌</td>\n<td>湿性坏疽典型部位（肺/子宫/肠）</td>\n</tr>\n<tr>\n<td>B. 明显腐败菌感染</td>\n<td>❌</td>\n<td>湿性坏疽特征（化脓性渗出明显）</td>\n</tr>\n<tr>\n<td>C. 全身中毒症状</td>\n<td>❌</td>\n<td>与湿性坏疽相关（毒素吸收多）</td>\n</tr>\n<tr>\n<td style=\"color:var(--c-green)\">D. 干燥+感染轻</td>\n<td>✅</td>\n<td>符合干性坏疽病理特点</td>\n</tr>\n<tr>\n<td>E. 产气+分界</td>\n<td>❌</td>\n<td>前半属气性坏疽，后半属干性坏疽</td>\n</tr>\n</tbody>\n</table>\n</details>\n\n<details open>\n<summary style=\"color:var(--c-blue);font-weight:bold\">💡 记忆技巧</summary>\n<div style=\"background-color:var(--bg-blue);padding:1rem;border-radius:8px;margin-top:0.5rem\">\n<h4>对比记忆表</h4>\n<table style=\"width:100%;border-collapse:collapse\">\n<thead style=\"background-color:var(--bg-indigo)\">\n<tr>\n<th>类型</th>\n<th>部位</th>\n<th>湿度</th>\n<th>感染程度</th>\n<th>分界</th>\n<th>中毒症状</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>干性</td>\n<td>四肢末端</td>\n<td>干燥</td>\n<td>轻</td>\n<td>清楚</td>\n<td>轻微</td>\n</tr>\n<tr>\n<td>湿性</td>\n<td>内脏器官</td>\n<td>湿润</td>\n<td>重</td>\n<td>不清</td>\n<td>严重</td>\n</tr>\n<tr>\n<td>气性</td>\n<td>深部创伤</td>\n<td>肿胀</td>\n<td>产气荚膜杆菌</td>\n<td>-</td>\n<td>极重</td>\n</tr>\n</tbody>\n</table>\n\n<h4>口诀记忆</h4>\n<p style=\"color:var(--c-brown)\">\n<span style=\"color:var(--c-red)\">干</span>燥四肢末，<br>\n<span style=\"color:var(--c-green)\">湿</span>润内脏祸，<br>\n<span style=\"color:var(--c-blue)\">气</span>肿捻发音，<br>\n<span style=\"color:var(--c-purple)\">三型</span>要掌握！\n</p>\n</div>\n</details>\n\n<div style=\"background-color:var(--bg-yellow);padding:1rem;border-radius:8px;margin-top:1rem\">\n⚠️ <strong>易错预警：</strong><br>\n气性坏疽的\"分界不清\"与干性坏疽的\"分界清楚\"形成对比，<br>\n注意选项E是<span style=\"color:var(--c-red)\">混合特征</span>（分界清楚+产气）故排除\n</div>"
         },
         {
           "id": 61,
@@ -795,7 +848,8 @@
             "D、陷窝细胞",
             "E、上皮样细胞"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "✨<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">霍奇金淋巴瘤 R-S 细胞变体辨析</span>✨\n\n---\n\n### ⭐ **核心知识点**\n**变异型 R-S 细胞**主要存在于<span style=\"color:var(--c-green)\">经典霍奇金淋巴瘤</span>的亚型中：\n1. **陷窝细胞**（D）：结节硬化型 <span style=\"color:var(--t-light)\">(特征性 \"镜影细胞\" 腔隙状)</span>\n2. **多形性 R-S 细胞**（B）：混合细胞型 <span style=\"color:var(--t-light)\">(核异型明显)</span>\n3. **未分化 R-S 细胞**（C）：淋巴细胞消减型 <span style=\"color:var(--t-light)\">(异型性极强)</span>\n4. **\"爆米花\"细胞**（A）：<span style=\"color:var(--c-red)\">结节性淋巴细胞为主型</span>（非经典 HL）\n\n**非 R-S 细胞变体**：\n- **上皮样细胞**（E）：见于<span style=\"color:var(--c-indigo)\">T细胞淋巴瘤</span>或<span style=\"color:var(--c-indigo)\">反应性增生</span>（如结核）\n\n---\n\n### 🔍 **选项解析表**\n| 选项 | 细胞类型       | 所属疾病                          | 是否变异型 R-S 细胞 |\n|------|----------------|-----------------------------------|---------------------|\n| A    | 爆米花细胞     | 结节性淋巴细胞为主型 HL           | ✅                  |\n| B    | 多形性 R-S 细胞| 经典 HL（混合细胞型）             | ✅                  |\n| C    | 未分化 R-S 细胞| 经典 HL（淋巴细胞消减型）         | ✅                  |\n| D    | 陷窝细胞       | 经典 HL（结节硬化型）             | ✅                  |\n| E    | 上皮样细胞     | **非 HL**（T细胞淋巴瘤/肉芽肿）   | ❌ **正确答案**      |\n\n---\n\n### 🧠 **记忆技巧**\n1. **关键词联想法**：\n   - **\"陷窝\"** → 结节硬化（纤维条索形成\"陷窝\"结构）\n   - **\"爆米花\"** → 结节性淋巴细胞为主型的标志（细胞核似爆米花）\n   \n2. **对比口诀**：\n   > \"陷窝硬，多形混，未分化消减别记懵；  \n   > 🌽爆米花非经典，上皮细胞不沾边！\"\n\n---\n\n### ⚠️ **易错点提醒**\n1. **结节性淋巴细胞为主型 HL**（爆米花细胞）属于<span style=\"color:var(--c-red)\">独立分类</span>，不与经典 HL 亚型混淆！\n2. **上皮样细胞**常见于：\n   - 结核病（类上皮细胞聚集形成肉芽肿）\n   - 外周 T 细胞淋巴瘤（肿瘤性上皮样细胞）\n\n---\n\n📌 **总结**：抓住<span style=\"color:var(--c-green)\">经典 HL 亚型对应细胞变异型</span>，区分「结节性淋巴细胞为主型」的特殊性，即可快速锁定答案！"
         },
         {
           "id": 62,
@@ -808,7 +862,8 @@
             "D、核碎裂",
             "E、调亡小体形成"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨核心答案：E选项【调亡小体形成】是电镜下细胞凋亡的特征性改变</span>\n\n<h3 style=\"color:var(--c-pink)\">📚 细胞凋亡关键知识点</h3>\n\n<div style=\"background-color:var(--bg-purple);padding:10px\">\n<strong>⭐ 凋亡过程四部曲：</strong>\n1️⃣ <span style=\"color:var(--c-red)\">细胞皱缩</span>：体积缩小，胞质浓缩（对应选项A、B）\n2️⃣ <span style=\"color:var(--c-blue)\">染色质边集</span>：核染色质聚集于核膜下呈半月形（选项C）\n3️⃣ <span style=\"color:var(--c-green)\">核碎裂</span>：核膜包裹碎片形成核碎片（选项D）\n4️⃣ <span style=\"color:var(--c-yellow)\">凋亡小体形成</span>：细胞膜内陷包裹细胞器形成小体（选项E）</div>\n\n<h3 style=\"color:var(--c-sky)\">🔬 鉴别诊断要点</h3>\n<table style=\"border:2px solid var(--c-red)\">\n<tr><th>特征</th><th>凋亡</th><th>坏死</th></tr>\n<tr><td>细胞膜</td><td>完整→出泡</td><td>破裂</td></tr>\n<tr><td>细胞器</td><td>结构完整</td><td>肿胀溶解</td></tr>\n<tr><td>炎症反应</td><td>无</td><td>有</td></tr>\n<tr><td>核变化</td><td>边集→碎片包裹</td><td>固缩→碎裂→溶解</td></tr>\n</table>\n\n<h3 style=\"color:var(--c-orange)\">💡 记忆技巧</h3>\n<ol>\n<li>「<span style=\"color:var(--t-accent)\">小体定凋亡</span>」：只有凋亡会产生膜包裹的凋亡小体\n<li>「<span style=\"color:var(--t-accent)\">三步一归宿</span>」记忆口诀：\n<br>皱缩致密打基础（A、B）\n<br>染色边集核破碎（C、D）\n<br>最终形成小体住（E）</li>\n<li>联想胚胎发育：胎儿手指分离时<span style=\"color:var(--c-green)\">凋亡小体</span>帮助形成指蹼退化</li>\n</ol>\n\n<span style=\"color:var(--c-red)\">⚠️ 易错提醒：</span>坏死也会出现核碎裂（选项D），但不会形成膜包裹结构！凋亡小体才是特异性标志。"
         },
         {
           "id": 63,
@@ -821,7 +876,8 @@
             "D、下肢水肿",
             "E、心包积液"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨正确答案：A、肺水肿</span>\n\n<h3 style=\"color:var(--c-red)\">⚡核心知识点</h3>\n\n💡 <strong style=\"color:var(--t-accent)\">病理机制：</strong>\n左心室收缩功能障碍 → 肺静脉压↑ → 肺泡毛细血管压 > 30mmHg → 液体渗入肺泡 → <span style=\"color:var(--c-red)\">粉红色泡沫痰</span>\n\n💡 <strong style=\"color:var(--t-accent)\">临床表现四联征：</strong>\n1️⃣ 端坐呼吸（夜间阵发性呼吸困难）\n2️⃣ 肺部湿啰音（尤其是双肺底）\n3️⃣ 心尖部奔马律（S3）\n4️⃣ 血氧饱和度急剧下降\n\n<h3 style=\"color:var(--c-blue)\">🔍选项深度解析</h3>\n\n<table style=\"border:2px solid var(--c-green)\">\n<thead>\n<tr>\n<th style=\"background-color:var(--bg-green)\">选项</th>\n<th style=\"background-color:var(--bg-green)\">病理机制</th>\n<th style=\"background-color:var(--bg-green)\">关联疾病</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span style=\"color:var(--c-red)\">A.肺水肿</span></td>\n<td>肺毛细血管楔压↑ → Starling力失衡</td>\n<td>⭐急性左心衰、ARDS</td>\n</tr>\n<tr>\n<td>B.眼睑水肿</td>\n<td>低蛋白血症（白蛋白<30g/L）</td>\n<td>⚠️肾病综合征</td>\n</tr>\n<tr>\n<td>C.脑水肿</td>\n<td>血脑屏障破坏/细胞毒性水肿</td>\n<td>💊肝性脑病、颅脑外伤</td>\n</tr>\n<tr>\n<td>D.下肢水肿</td>\n<td>静脉压↑+钠水潴留</td>\n<td>💉右心衰竭、肝硬化</td>\n</tr>\n<tr>\n<td>E.心包积液</td>\n<td>炎症/肿瘤/尿毒症</td>\n<td>🔍结核性心包炎</td>\n</tr>\n</tbody>\n</table>\n\n<h3 style=\"color:var(--c-purple)\">🎯记忆锦囊</h3>\n\n<strong>📌 三维记忆法：</strong>\n```text\n左心泵不动 → 血液堵在\"上游\"（肺循环）→ 肺泡里\"发洪水\"（肺水肿）\n右心摆不平 → 血液滞在\"下游\"（体循环）→ 腿上\"按坑坑\"（凹陷性水肿）\n```\n\n<strong>🎨 图像联想：</strong>\n<img src=\"https://example.com/heart-failure.png\" alt=\"心衰示意图\" style=\"width:200px;border:2px solid var(--c-pink)\">\n（想象左心室像漏气的气球，血液倒灌进肺里的画面）\n\n<h3 style=\"color:var(--c-orange)\">🚨高频考点延伸</h3>\n\n<strong>💥 Killip分级（急性心梗后心功能）：</strong>\nⅠ级：无啰音 → 死亡率5%  \nⅡ级：啰音<50%肺野 → 死亡率30%  \nⅢ级：啰音>50%肺野 → 死亡率40%  \nⅣ级：心源性休克 → 死亡率80%\n\n<strong>⚡急救药物四阶梯：</strong>\n1️⃣ 坐位双腿下垂（减少回心血量）  \n2️⃣ 吗啡（镇静+扩张静脉）  \n3️⃣ 利尿剂（呋塞米iv）  \n4️⃣ 强心剂（西地兰）"
         },
         {
           "id": 64,
@@ -834,7 +890,8 @@
             "D、急进型高血压",
             "E、缓进型高血压"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 细动脉壁玻璃样变核心知识点</h3>\n\n<div style=\"border-left:4px solid var(--c-green);padding-left:1rem;margin:1rem 0\">\n<strong>⭐ 玻璃样变核心特征：</strong>\n血浆蛋白沉积 → 血管壁增厚 → 管腔狭窄<br>\n<strong>🔍 疾病关联：</strong>\n<mark>缓进型高血压</mark>（长期压力→内皮损伤→蛋白质渗入血管壁）\n</div>\n\n<h3 style=\"color:var(--c-red)\">📝 选项深度解析</h3>\n\n<table style=\"border-collapse: collapse; width: 100%; margin: 1rem 0\">\n<thead style=\"background-color:var(--bg-green)\">\n<tr>\n<th style=\"padding:8px;border:1px solid #ddd\">选项</th>\n<th style=\"padding:8px;border:1px solid #ddd\">病理特征</th>\n<th style=\"padding:8px;border:1px solid #ddd\">排除理由</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding:8px;border:1px solid #ddd\">A. 急性肾炎</td>\n<td style=\"padding:8px;border:1px solid #ddd\">肾小球内皮/系膜细胞增生</td>\n<td style=\"padding:8px;border:1px solid #ddd;color:var(--c-red)\">病变部位不符</td>\n</tr>\n<tr>\n<td style=\"padding:8px;border:1px solid #ddd\">B. 急性肾盂肾炎</td>\n<td style=\"padding:8px;border:1px solid #ddd\">化脓性间质炎症</td>\n<td style=\"padding:8px;border:1px solid #ddd;color:var(--c-red)\">感染性病变无关</td>\n</tr>\n<tr>\n<td style=\"padding:8px;border:1px solid #ddd\">C. 急进性肾炎</td>\n<td style=\"padding:8px;border:1px solid #ddd\">新月体形成</td>\n<td style=\"padding:8px;border:1px solid #ddd;color:var(--c-red)\">基底膜损伤为主</td>\n</tr>\n<tr>\n<td style=\"padding:8px;border:1px solid #ddd\">D. 急进型高血压</td>\n<td style=\"padding:8px;border:1px solid #ddd\">纤维素样坏死</td>\n<td style=\"padding:8px;border:1px solid #ddd;color:var(--c-red)\">急性坏死vs慢性沉积</td>\n</tr>\n<tr style=\"background-color:var(--bg-green)\">\n<td style=\"padding:8px;border:1px solid #ddd\">E. 缓进型高血压 ✔️</td>\n<td style=\"padding:8px;border:1px solid #ddd\">细动脉玻璃样变</td>\n<td style=\"padding:8px;border:1px solid #ddd;color:var(--c-green)\">长期压力→蛋白沉积</td>\n</tr>\n</tbody>\n</table>\n\n<h3 style=\"color:var(--c-purple)\">🧠 记忆锦囊</h3>\n\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n<strong>🎯 关键词联想：</strong>\n\"<span style=\"color:var(--c-red)\">缓</span>慢积累玻璃渣\" → 缓进型高血压的玻璃样变\n\n<strong>⚡ 对比记忆：</strong>\n<p style=\"margin:0.5rem 0\">\n<img src=\"https://via.placeholder.com/15/FF9999/000000?text=+\" width=\"15\" height=\"15\" style=\"vertical-align:middle\"> <em>急进型高血压→</em> <span style=\"color:var(--c-red)\">纤维素样坏死</span>（急性撕扯）</p>\n<p style=\"margin:0.5rem 0\">\n<img src=\"https://via.placeholder.com/15/99CCFF/000000?text=+\" width=\"15\" height=\"15\" style=\"vertical-align:middle\"> <em>缓进型高血压→</em> <span style=\"color:var(--c-green)\">玻璃样变</span>（慢性堆积）</p>\n</div>"
         },
         {
           "id": 65,
@@ -847,7 +904,8 @@
             "D、妊娠期的子宫",
             "E、垂体ACTH细胞腺瘤患者的肾上腺"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "✨<span style=\"color:var(--c-green);background-color:var(--bg-green)\">【核心考点】</span>  \n<span style=\"color:var(--t-accent)\">肥大 vs 增生</span>：  \n- ⭐ **肥大**：<span style=\"color:var(--c-red)\">细胞体积增大</span>，数量不变（如健美运动员骨骼肌）  \n- ⭐ **增生**：<span style=\"color:var(--c-red)\">细胞数量增多</span>（如妊娠子宫、哺乳期乳腺）  \n\n---\n\n📚<span style=\"color:var(--c-purple);background-color:var(--bg-purple)\">**选项解析**</span>  \n\n| 选项 | 器官/组织 | 机制 | 结论 |  \n|------|-----------|------|------|  \n| A | 哺乳期乳腺 | 腺泡<span style=\"color:var(--c-red)\">增生</span>（泌乳需求） | ❌ |  \n| B | 甲状腺功能亢进 | 滤泡上皮<span style=\"color:var(--c-red)\">增生</span> | ❌ |  \n| C | 健美运动员骨骼肌 | 肌纤维<span style=\"color:var(--c-green)\">肥大</span>（无增生） | ✅ |  \n| D | 妊娠期子宫 | 平滑肌<span style=\"color:var(--c-red)\">肥大+增生</span>（雌激素作用） | ❌ |  \n| E | ACTH瘤患者肾上腺 | 皮质束状带<span style=\"color:var(--c-red)\">增生</span>（ACTH刺激） | ❌ |  \n\n---\n\n💡<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">**记忆技巧**</span>  \n1. **永久细胞原则**：骨骼肌、心肌、神经细胞属永久细胞，只能通过<span style=\"color:var(--c-green)\">肥大</span>代偿（如C选项）；  \n2. **激素关联**：ACTH（促肾上腺皮质激素）→ 肾上腺<span style=\"color:var(--c-red)\">增生</span>；雌激素→子宫<span style=\"color:var(--c-red)\">增生+肥大</span>；  \n3. **口诀**：  \n   > \"**肥大细胞体积涨，增生数量往上扬；  \n   > 骨骼肌肉练得壮，乳腺甲状腺靠增生忙！**\"\n\n---\n\n⚠️<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">**易错点**</span>  \n- 妊娠期子宫同时存在<span style=\"color:var(--c-purple)\">肥大+增生</span>（易误选D）；  \n- 长期负荷增加（如举重）<span style=\"color:var(--c-green)\">仅引起骨骼肌肥大</span>，无新生肌纤维。"
         },
         {
           "id": 66,
@@ -873,7 +931,8 @@
             "D、脓液的黏稠度大",
             "E、脓肿膜的形成"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐正确答案解析</span>  \n脓肿局限化的核心机制是<span style=\"color:var(--c-red)\">血浆凝固酶（B选项）</span>的作用。该酶由金黄色葡萄球菌等致病菌分泌，通过将纤维蛋白原转化为纤维蛋白形成网状屏障，阻止细菌扩散。\n\n---\n\n### <span style=\"color:var(--t-accent)\">📚 核心知识点详解</span>  \n1. **血浆凝固酶的作用**  \n   - 💉 将纤维蛋白原→纤维蛋白  \n   - 🔍 形成<span style=\"color:var(--c-pink)\">纤维蛋白屏障</span>包裹感染灶  \n   - ⚠️ 区别于链球菌（不产此酶→引发弥漫性蜂窝织炎）\n\n2. **错误选项排除**  \n   - **A. 细菌毒素**：促进炎症扩散（如链球菌毒素溶解组织）  \n   - **C. 中性粒细胞**：主攻细菌清除，非屏障形成  \n   - **D. 脓液黏稠**：影响引流而非局限  \n   - **E. 脓肿膜**：<span style=\"color:var(--c-brown)\">继发性肉芽组织包裹</span>，属于晚期反应\n\n---\n\n### <span style=\"color:var(--t-accent)\">🎯 鉴别诊断要点</span>  \n| 细菌类型 | 酶特征       | 病变特点         |  \n|----------|--------------|------------------|  \n| 金葡菌   | 产血浆凝固酶 | 局限性脓肿       |  \n| 链球菌   | 无此酶       | 弥漫性蜂窝织炎   |\n\n---\n\n### <span style=\"color:var(--t-accent)\">🧠 记忆口诀</span>  \n**\"凝固屏障困金葡，血浆凝固酶做主\"**  \n→ 强调血浆凝固酶（金葡菌特有）形成纤维蛋白屏障的关键作用\n\n---\n\n通过理解<span style=\"color:var(--c-green)\">致病菌特性</span>与<span style=\"color:var(--c-purple)\">机体反应</span>的时间顺序，可准确区分不同选项的病理机制！(✧∇✧)"
         },
         {
           "id": 68,
@@ -886,7 +945,8 @@
             "D、四肢",
             "E、心"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "💡 **干性坏疽核心知识点**  \n<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">⭐ 关键机制：动脉阻塞 + 静脉通畅 → 缺血性坏死 + 干燥环境</span>  \n<span style=\"color:var(--c-red)\">⚠️ 易发部位：四肢末端（如足趾、手指）</span>  \n\n---\n\n### **详细解析**\n1. **定义与特征**  \n   - **干性坏疽**：由<span style=\"color:var(--t-accent)\">动脉阻塞</span>引起，静脉回流正常，导致组织缺血坏死。  \n   - **表现**：坏死区干燥、皱缩、黑色（血红蛋白分解→硫化铁沉积），与健康组织分界清晰（无腐败菌感染）。  \n\n2. **其他选项排除理由**  \n   | 选项 | 器官 | 坏死类型 | 原因 |  \n   |---|---|---|---|  \n   | A. 肺 | 湿性坏疽 | 动静脉同时阻塞，腐败菌感染 → 肿胀恶臭 |  \n   | B. 肝 | 凝固性坏死 | 缺氧导致（如肝梗死），非坏疽 |  \n   | C. 肠 | 湿性坏疽 | 肠梗阻 → 细菌繁殖 → 液化坏死 |  \n   | E. 心 | 凝固性坏死 | 心肌梗死 → 蛋白质变性凝固 |  \n\n3. **记忆技巧**  \n   - **口诀**：<span style=\"color:var(--c-green)\">\"干肢不湿\"</span> → 干性坏疽在四肢，湿性在肺/肠。  \n   - **联想**：四肢末端<span style=\"color:var(--c-red)\">血流缓慢</span>（如糖尿病足、动脉硬化），易缺血干燥。  \n\n---\n\n### **影像学鉴别**（X线/CT）  \n| 类型 | 影像特征 | 密度/信号 |  \n|---|---|---|  \n| 干性坏疽 | 组织萎缩、边界清晰 | 低密度（气体少见） |  \n| 湿性坏疽 | 肿胀、气体影（产气荚膜杆菌） | 混杂密度（液气平面） |  \n\n---\n\n📝 **临床联系**：糖尿病患者需定期检查足部血管，预防<span style=\"color:var(--c-red)\">干性坏疽</span>发生！"
         },
         {
           "id": 69,
@@ -925,7 +985,8 @@
             "D、肝细胞排列紊乱，可出现双核肝细胞",
             "E、肝细胞广泛凋亡，大量凋亡小体形成"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "✨<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">【假小叶核心特征】</span>  \n假小叶是肝硬化特征性病理改变，由<span style=\"color:var(--c-green)\">纤维组织包绕再生肝细胞结节</span>形成。正常肝小叶结构破坏，呈现以下特点：  \n\n---\n\n### ⭐ 选项解析  \n**A. 中央静脉缺如**  \n正常肝小叶中央静脉位于中心，假小叶中<span style=\"color:var(--c-red)\">中央静脉缺失或偏移</span>（如位于边缘）  \n\n**B. 出现汇管区**  \n假小叶内可见<span style=\"color:var(--c-blue)\">异常汇管区结构</span>（正常汇管区位于相邻肝小叶交界处）  \n\n**C. 两条以上中央静脉**  \n由于多个肝小叶融合，可能出现<span style=\"color:var(--c-purple)\">多条中央静脉</span>  \n\n**D. 肝细胞排列紊乱+双核**  \n再生肝细胞<span style=\"color:var(--c-yellow)\">排列无序</span>，双核提示<span style=\"color:var(--c-yellow)\">再生活跃</span>  \n\n**E. 广泛凋亡+凋亡小体 ×**  \n<span style=\"color:var(--c-red)\">错误选项</span>！假小叶以<span style=\"color:var(--t-accent)\">再生和纤维化</span>为主，<span style=\"color:var(--c-green)\">凋亡小体</span>多见于急性肝炎（如嗜酸性小体）  \n\n---\n\n### 💡 记忆口诀  \n**\"假小无中多中央，汇管乱核无凋亡\"**  \n- 无中：中央静脉缺如  \n- 多中央：多条中央静脉  \n- 汇管：出现汇管区  \n- 乱核：排列紊乱+双核  \n- 无凋亡：排除凋亡小体  \n\n---\n\n### 🔍 鉴别要点  \n| **特征**         | **正常肝小叶**        | **假小叶**               |  \n|------------------|---------------------|-------------------------|  \n| 中央静脉         | 1个居中             | 缺如/偏移/多个          |  \n| 汇管区位置       | 周围分布            | 内部可见                |  \n| 肝细胞状态       | 单层放射状排列      | 团块状排列、双核        |  \n| 主要病理过程     | -                   | 再生+纤维化（非凋亡）   |  \n\n---\n\n通过对比和口诀记忆，快速锁定<span style=\"color:var(--c-red)\">E选项</span>为正确答案！(◍•ᴗ•◍)❤"
         },
         {
           "id": 72,
@@ -938,7 +999,8 @@
             "D、链球菌感染",
             "E、白色念珠菌感染"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心答案：B、产气荚膜杆菌感染</span>\n\n---\n\n### 📚 知识框架\n**气性坏疽 = 湿性坏疽 + 产气荚膜杆菌感染**\n```text\n┌───────────────┬───────────────┐\n│ 湿性坏疽特点          │ 气性坏疽特殊表现        │\n├───────────────┼───────────────┤\n│ • 坏死组织水分多      │ • 合并产气荚膜杆菌      │\n│ • 常见于内脏/淤血部位 │ • 产生大量气体          │\n│ • 腐败菌感染          │ • 组织肿胀、捻发感      │\n└───────────────┴───────────────┘\n```\n\n---\n\n### 🔍 关键概念解析\n1. **湿性坏疽**  \n   - **定义**：坏死组织含大量水分，合并腐败菌感染  \n   - **好发部位**：肠管、胆囊、子宫、肺等内脏器官  \n   - **典型特征**：恶臭、暗绿色/黑色外观（硫化铁形成）\n\n2. **产气荚膜杆菌**  \n   - **特性**：革兰阳性粗大杆菌、厌氧菌、产生α毒素（卵磷脂酶）  \n   - **致病机制**：  \n     → 分解坏死组织中的糖类 → 产生大量气体（H₂、CO₂）  \n     → 毒素溶解细胞膜 → 加速组织坏死\n\n3. **气性坏疽特征**  \n   - 触诊有<span style=\"color:var(--c-red)\">捻发感</span>（皮下气肿）  \n   - 分泌物呈<span style=\"color:var(--c-red)\">恶臭</span>、污秽棕褐色  \n   - 进展迅速，需紧急清创+高压氧治疗\n\n---\n\n### ⚠️ 选项鉴别技巧\n| 选项 | 病原体特性 | 关联疾病 |\n|------|------------|----------|\n| A. 结核杆菌 | 抗酸染色阳性 | 干酪样坏死（肺结核） |\n| B. 产气荚膜杆菌 | 厌氧产气 | 气性坏疽 |\n| C. 金黄色葡萄球菌 | 化脓性感染 | 脓肿、疖痈 |\n| D. 链球菌 | 溶血性感染 | 丹毒、蜂窝织炎 |\n| E. 白色念珠菌 | 真菌感染 | 黏膜/皮肤念珠菌病 |\n\n---\n\n### 🧠 记忆口诀\n**\"气鼓鼓的荚膜君\"**  \n→ 气性坏疽（气鼓鼓）由产气荚膜杆菌（荚膜君）引起  \n**\"湿气生，厌氧兴\"**  \n→ 湿性坏疽环境适合厌氧菌（产气荚膜杆菌）繁殖\n\n---\n\n### 💡 临床联系\n**诊断要点**：  \n- 外伤史（尤其深部肌肉损伤）  \n- X线见软组织内<span style=\"color:var(--c-red)\">羽毛状气体影</span>  \n- 伤口分泌物涂片见革兰阳性粗大杆菌  \n\n**治疗原则**：  \n1. 紧急清创（切除坏死组织）  \n2. 高压氧治疗（抑制厌氧菌）  \n3. 抗生素（青霉素+克林霉素）"
         },
         {
           "id": 73,
@@ -964,7 +1026,8 @@
             "D、使内皮细胞的穿胞作用增强",
             "E、新生毛细血管的高通透性"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心机制</span>  \n组胺通过激活内皮细胞<span style=\"color:var(--t-accent)\">H1受体</span>，引发<span style=\"color:var(--c-red)\">细胞内钙离子浓度升高</span>，导致<span style=\"color:var(--c-blue)\">细胞骨架收缩</span>，使内皮细胞间形成<span style=\"color:var(--c-purple)\">0.5-1.0μm间隙</span>，血浆成分外渗。\n\n---\n\n### 🔍 选项解析\n**A. 引起内皮细胞收缩**  \n✅ 正确  \n- 组胺通过<span style=\"color:var(--c-green)\">H1受体-G蛋白偶联</span>途径  \n- 触发<span style=\"color:var(--c-red)\">肌动蛋白微丝收缩</span>  \n- 主要影响<span style=\"color:var(--c-blue)\">小静脉内皮</span>  \n- 作用时间：<span style=\"color:var(--c-purple)\">15-30分钟</span>（速发短暂反应）\n\n**B. 引起内皮细胞损伤**  \n❌ 错误  \n- 典型表现：<span style=\"color:var(--c-brown)\">内皮细胞坏死脱落</span>  \n- 常见于：<span style=\"color:var(--c-orange)\">烧伤/严重感染</span>  \n- 组胺不直接破坏细胞结构  \n\n**C. 介导白细胞损伤内皮**  \n❌ 错误  \n- 需<span style=\"color:var(--c-sky)\">白细胞粘附</span>（如ICAM-1/VLA-4）  \n- 涉及<span style=\"color:var(--c-pink)\">弹性蛋白酶/活性氧</span>释放  \n- 属于<span style=\"color:var(--c-cyan)\">迟发性反应</span>（4-6小时后）  \n\n**D. 增强穿胞作用**  \n❌ 错误  \n- 特征：<span style=\"color:var(--c-purple)\">囊泡运输系统激活</span>  \n- 典型介质：<span style=\"color:var(--c-green)\">VEGF</span>  \n- 运输方式：<span style=\"color:var(--c-red)\">跨细胞通道</span>而非细胞间隙  \n\n**E. 新生毛细血管通透性**  \n❌ 错误  \n- 结构特点：<span style=\"color:var(--c-blue)\">基底膜不完整</span>  \n- 发生阶段：<span style=\"color:var(--c-orange)\">慢性炎症/肿瘤</span>  \n- 持续时间：<span style=\"color:var(--c-brown)\">数天至数周</span>  \n\n---\n\n### 💡 记忆技巧  \n**\"H1收缩小静脉\"口诀**  \n- H → <span style=\"color:var(--c-red)\">H1受体</span>  \n- 1 → <span style=\"color:var(--c-blue)\">1型反应（速发型）</span>  \n- 收缩 → <span style=\"color:var(--c-green)\">细胞骨架收缩</span>  \n- 小静脉 → <span style=\"color:var(--c-purple)\">主要作用部位</span>  \n\n---\n\n### ⚠️ 鉴别要点  \n| 特征        | 组胺作用            | 白细胞介导损伤      |\n|-------------|---------------------|---------------------|\n| **时间**    | 15-30分钟           | 4-6小时后           |\n| **机制**    | 受体介导收缩        | 酶/自由基破坏       |\n| **部位**    | 小静脉              | 毛细血管后微静脉    |\n| **病理**    | 急性炎症早期        | 慢性炎症/化脓性感染 |"
         },
         {
           "id": 75,
@@ -977,7 +1040,8 @@
             "D、病变累及脊髓前角神经细胞",
             "E、病变组织中有中性粒细胞浸润"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚乙型脑炎病理核心知识点</span>\n\n---\n\n### ⭐ 正确答案分析\n**C. 神经细胞变性坏死为主要病变**  \n乙型脑炎属于病毒性脑炎，病毒直接破坏神经元，导致神经细胞<span style=\"color:var(--c-red)\">尼氏小体溶解</span>、核固缩，最终液化性坏死。\n\n---\n\n### 🔍 各选项解析\n1. **A. 病变以小脑最严重 ❌**  \n   ✅ 实际病变严重程度：<span style=\"color:var(--t-accent)\">大脑皮质、基底核、丘脑 > 小脑</span>  \n   ⚠️ 记忆点：乙脑病毒偏好侵犯<span style=\"color:var(--c-purple)\">灰质</span>，尤其是运动相关区域\n\n2. **B. 大脑皮层最轻微 ❌**  \n   ✅ 事实：<span style=\"color:var(--c-red)\">大脑皮层是主要受累区</span>，出现大量软化灶\n\n3. **D. 累及脊髓前角 ❌**  \n   💡 混淆点：脊髓前角损伤是<span style=\"color:var(--c-orange)\">脊髓灰质炎</span>特征，乙脑主要侵犯脑部\n\n4. **E. 中性粒细胞浸润 ❌**  \n   ✅ 炎症细胞类型：以<span style=\"color:var(--c-blue)\">淋巴细胞围管浸润</span>（血管套）为主，中性粒见于细菌感染\n\n---\n\n### 📌 病理特征总结\n| 特征            | 具体表现                                                                 |\n|-----------------|--------------------------------------------------------------------------|\n| **软化灶**      | 神经组织液化坏死形成的筛网状病灶                                         |\n| **胶质结节**    | 小胶质细胞增生形成                                                       |\n| **血管套**      | 血管周围<span style=\"color:var(--c-cyan)\">淋巴细胞</span>环绕（特征性改变）|\n| **噬神经现象**  | 小胶质细胞吞噬坏死神经元                                                 |\n\n---\n\n### 🧠 记忆技巧\n**口诀**：\"乙脑三件套，坏死胶质血管套\"  \n**对比记忆**：  \n- 乙脑 vs 流脑：乙脑是<span style=\"color:var(--c-pink)\">淋巴细胞</span>浸润，流脑是<span style=\"color:var(--c-yellow)\">中性粒细胞</span>浸润  \n- 乙脑 vs 脊灰：乙脑主要伤<span style=\"color:var(--c-green)\">脑</span>，脊灰伤<span style=\"color:var(--c-orange)\">脊髓前角</span>\n\n---\n\n<span style=\"color:var(--c-purple);background-color:var(--bg-purple)\">💡 考点提示：注意病毒性脑炎与细菌性脑膜炎的病理特征对比！</span>"
         },
         {
           "id": 76,
@@ -990,7 +1054,8 @@
             "D、去神经性萎缩",
             "E、失用性萎缩"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<h3 style=\"color:var(--c-pink);border-bottom:2px solid var(--c-pink)\">📚 下肢骨折后萎缩类型解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:15px;border-radius:8px\">\n⭐ <strong>核心概念：</strong><br/>\n<mark>失用性萎缩</mark>是由于器官/组织<span style=\"color:var(--c-red)\">长期不活动</span>导致的体积缩小，本例中石膏固定限制肢体活动是典型诱因\n</div>\n\n---\n\n<h4 style=\"color:var(--c-purple)\">🔍 各选项对比分析</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:20px 0\">\n<thead style=\"background-color:var(--bg-sky)\">\n<tr>\n<th>类型</th>\n<th>机制</th>\n<th>典型场景</th>\n<th>关键词</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span style=\"color:var(--c-red)\">E. 失用性</span></td>\n<td>运动减少→代谢需求↓→细胞体积↓</td>\n<td>骨折固定、卧床患者</td>\n<td>🚫 不能动</td>\n</tr>\n<tr>\n<td>A. 压迫性</td>\n<td>物理压迫→血供/营养障碍</td>\n<td>肿瘤压迫、石膏过紧</td>\n<td>🩸 受压迫</td>\n</tr>\n<tr>\n<td>B. 内分泌性</td>\n<td>激素水平异常→代谢紊乱</td>\n<td>垂体功能减退→靶器官萎缩</td>\n<td>⚖️ 激素失调</td>\n</tr>\n<tr>\n<td>C. 营养不良性</td>\n<td>蛋白质摄入不足/消耗过多</td>\n<td>饥饿、恶性肿瘤</td>\n<td>🍔 营养缺乏</td>\n</tr>\n<tr>\n<td>D. 去神经性</td>\n<td>神经损伤→神经营养作用丧失</td>\n<td>脊髓损伤、神经离断</td>\n<td>⚡ 神经损伤</td>\n</tr>\n</tbody>\n</table>\n\n---\n\n<h4 style=\"color:var(--c-orange)\">💡 记忆技巧</h4>\n<ol>\n<li><strong>场景联想：</strong>想象骨折患者打着石膏坐在轮椅上→无法活动→肌肉\"用进废退\"</li>\n<li><strong>关键词对应：</strong>\n<ul>\n<li>\"石膏固定\"→🚫活动受限→E选项</li>\n<li>\"长期不活动\"→代谢降低→失用性</li>\n</ul>\n</li>\n<li><strong>排除法：</strong>其他选项均需特定条件（压迫物/激素异常/营养缺乏/神经损伤）</li>\n</ol>\n\n---\n\n<h4 style=\"color:var(--c-cyan)\">⚠️ 常见混淆点</h4>\n<div style=\"background-color:var(--bg-yellow);padding:10px;border-radius:6px\">\n❗ <strong>注意区分：</strong><br/>\n失用性萎缩 VS 去神经性萎缩<br/>\n→ 前者<span style=\"color:var(--c-red)\">运动神经完整</span>（只是不用）<br/>\n→ 后者伴有<span style=\"color:var(--c-red)\">感觉/运动功能障碍</span>\n</div>"
         },
         {
           "id": 77,
@@ -1003,7 +1068,8 @@
             "D、间叶细胞",
             "E、纤维母细胞"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 结核结节中的Langhans巨细胞来源解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;\">\n<strong>⭐核心答案：</strong><span style=\"color:var(--c-red)\">B、上皮样细胞</span>\n</div>\n\n---\n\n<h4 style=\"color:var(--c-purple)\">🔍 病理机制图解</h4>\n<ol>\n<li><span style=\"color:var(--t-accent)\">巨噬细胞</span>吞噬结核杆菌 → 激活转化为<span style=\"color:var(--c-red)\">上皮样细胞</span></li>\n<li>多个上皮样细胞融合 → 形成<span style=\"color:var(--c-red)\">Langhans巨细胞</span></li>\n<li>周围聚集淋巴细胞 + 成纤维细胞 → 包裹形成<span style=\"color:var(--c-green)\">结核结节</span></li>\n</ol>\n\n---\n\n<h4 style=\"color:var(--c-purple)\">💡 选项逐个击破</h4>\n<table style=\"border-collapse:collapse; width:100%\">\n<tr style=\"background-color:var(--bg-gray)\">\n  <th style=\"padding:8px;border:1px solid #ccc\">选项</th>\n  <th style=\"padding:8px;border:1px solid #ccc\">解析</th>\n</tr>\n<tr>\n  <td style=\"padding:8px;border:1px solid #ccc\">A.支气管上皮细胞</td>\n  <td style=\"padding:8px;border:1px solid #ccc\">❌ 呼吸道表面细胞，参与黏液分泌</td>\n</tr>\n<tr style=\"background-color:var(--bg-green)\">\n  <td style=\"padding:8px;border:1px solid #ccc\">B.上皮样细胞</td>\n  <td style=\"padding:8px;border:1px solid #ccc\">✅ 正确来源！由巨噬细胞转化并融合</td>\n</tr>\n<tr>\n  <td style=\"padding:8px;border:1px solid #ccc\">C.肺泡上皮细胞</td>\n  <td style=\"padding:8px;border:1px solid #ccc\">❌ 构成肺泡结构的Ⅰ/Ⅱ型细胞</td>\n</tr>\n<tr>\n  <td style=\"padding:8px;border:1px solid #ccc\">D.间叶细胞</td>\n  <td style=\"padding:8px;border:1px solid #ccc\">❌ 胚胎期未分化细胞，分化为结缔组织</td>\n</tr>\n<tr>\n  <td style=\"padding:8px;border:1px solid #ccc\">E.纤维母细胞</td>\n  <td style=\"padding:8px;border:1px solid #ccc\">❌ 产生胶原纤维，参与瘢痕修复</td>\n</tr>\n</table>\n\n---\n\n<h4 style=\"color:var(--c-purple)\">🎯 记忆魔法</h4>\n<ul>\n<li><strong>谐音梗：</strong>\"<span style=\"color:var(--c-red)\">Langhans</span>\" → \"<span style=\"color:var(--c-red)\">懒汉多</span>\"（多个懒汉黏在一起→细胞融合）</li>\n<li><strong>结构速记：</strong>「<span style=\"color:var(--c-green)\">干酪</span>包<span style=\"color:var(--c-red)\">上皮</span>，<span style=\"color:var(--c-purple)\">巨细胞</span>看戏，<span style=\"color:var(--c-blue)\">淋巴纤维</span>在外围」</li>\n<li><strong>对比记忆：</strong>异物巨细胞核<span style=\"color:var(--c-red)\">无序散布</span>，结核巨细胞核<span style=\"color:var(--c-green)\">马蹄状排列</span></li>\n</ul>\n\n---\n\n<h4 style=\"color:var(--c-purple)\">⚠️ 高频考点延伸</h4>\n<ol>\n<li><strong>诊断金标准：</strong>找到<span style=\"color:var(--c-red)\">干酪样坏死</span>+<span style=\"color:var(--c-green)\">Langhans细胞</span></li>\n<li><strong>免疫应答：</strong>属于<span style=\"color:var(--c-blue)\">IV型超敏反应</span>（T细胞介导）</li>\n<li><strong>特殊染色：</strong>抗酸染色查见红色杆菌（Ziehl-Neelsen染色）</li>\n</ol>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1rem;color:var(--t-medium)\">\n🌸 爱莉小贴士：下次看到病理切片中\"马鞍形排列\"的细胞核，要马上联想到这是结核的战场标志哦~\n</blockquote>"
         },
         {
           "id": 78,
@@ -1029,7 +1095,8 @@
             "D、肝、脾、心",
             "E、胃、肝、脾"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐正确答案：C（心、肝、肾）</span>\n\n---\n\n### 病理机制解析\n1. **肝脏**  \n   - 高热→代谢亢进→<span style=\"color:var(--c-red)\">肝细胞线粒体损伤</span>  \n   - ATP生成↓→<span style=\"color:var(--t-accent)\">脂肪变性</span>（如病毒性肝炎伴高热）  \n   - 毒性产物堆积→<span style=\"color:var(--c-red)\">中央静脉周围坏死</span>  \n\n2. **心脏**  \n   - 高热→心肌耗氧量↑→<span style=\"color:var(--t-accent)\">缺氧性损伤</span>  \n   - 钠钾泵功能障碍→<span style=\"color:var(--c-red)\">心肌细胞水肿、溶解</span>  \n   - 典型表现：<span style=\"color:var(--c-pink)\">中毒性心肌炎</span>  \n\n3. **肾脏**  \n   - 高热→脱水→<span style=\"color:var(--t-accent)\">肾血流量↓</span>→肾小管缺血坏死  \n   - 肌红蛋白/血红素沉积→<span style=\"color:var(--c-red)\">急性肾小管坏死</span>  \n\n---\n\n### 鉴别要点\n| 错误选项 | 排除理由 |\n|---------|---------|\n| A（心、肝、胃） | 胃：仅应激性溃疡（<span style=\"color:var(--c-gray)\">非变性坏死</span>） |\n| B（心、脾、胃） | 脾：<span style=\"color:var(--c-gray)\">充血性肿大为主</span>，坏死少见 |\n| D（肝、脾、心） | 同上 |\n| E（胃、肝、脾） | 胃脾非核心靶器官 |\n\n---\n\n### 记忆技巧\n**口诀**：<span style=\"color:var(--c-purple)\">高热三火炉，心肝肾受苦</span>  \n**联想**：  \n- 💔心→耗氧量最大  \n- 🧠肝（代谢中枢）→解毒负担重  \n- 🫘肾→血流敏感+毒素过滤  \n\n---\n\n### 高频关联考点\n1. **中毒性休克**：微循环障碍加重器官损伤  \n2. **横纹肌溶解**→<span style=\"color:var(--c-red)\">肌红蛋白尿性肾衰竭</span>  \n3. **热射病**：核心体温＞40℃→多器官衰竭  \n\n<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">⚠️注意：高热患者需监测肝肾功能及心肌酶谱！</span>"
         },
         {
           "id": 80,
@@ -1042,7 +1109,8 @@
             "D、甲状旁腺功能亢进",
             "E、血吸虫病时的虫卵结节"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "✨<span style=\"color:var(--c-green);background-color:var(--bg-green)\">转移性钙化学习笔记</span>✨\n\n---\n\n### ⭐核心概念\n**钙化类型对比表**\n| 类型 | 发生机制 | 钙盐沉积位置 | 常见疾病 |\n|------|----------|--------------|----------|\n| <span style=\"color:var(--c-red)\">**转移性钙化**</span> | **全身性高钙血症** | **正常组织** | 甲状旁腺功能亢进、肾衰竭、维生素D中毒 |\n| <span style=\"color:var(--c-blue)\">**营养不良性钙化**</span> | **局部组织损伤/坏死** | **病变组织** | 结核坏死、脂肪坏死、血栓钙化 |\n\n---\n\n### 🔍选项逐析\n1. **A. 结核病干酪样坏死**  \n   ⚠️属于<span style=\"color:var(--c-blue)\">营养不良性钙化</span>  \n   ➤ 坏死组织释放磷酸酯酶 → 局部磷酸↑ → 钙盐沉积\n\n2. **B. 胰腺炎脂肪坏死**  \n   ⚠️属于<span style=\"color:var(--c-blue)\">营养不良性钙化</span>  \n   ➤ 脂肪分解产生脂肪酸 + 钙 → 皂化斑形成\n\n3. **C. 结缔组织透明变性**  \n   ⚠️局部<span style=\"color:var(--c-blue)\">变性后继发钙化</span>  \n   ➤ 胶原纤维玻璃样变 → 钙盐沉积（如动脉粥样硬化斑块）\n\n4. **D. 甲状旁腺功能亢进** ✅  \n   💡典型的<span style=\"color:var(--c-red)\">转移性钙化</span>  \n   ➤ PTH↑→ 血钙↑ → 钙盐沉积于胃、肺、肾等正常组织\n\n5. **E. 血吸虫虫卵结节**  \n   ⚠️属于<span style=\"color:var(--c-blue)\">营养不良性钙化</span>  \n   ➤ 虫卵死亡 → 异物反应 → 钙盐沉积\n\n---\n\n### 🧠记忆技巧\n**口诀**：  \n<span style=\"color:var(--c-purple)\">\"移钙全身血钙高，甲旁亢进要记牢；  \n营钙局部坏死灶，结核虫卵胰腺糟\"</span>\n\n**联想记忆**：  \n想象<span style=\"color:var(--c-red)\">钙离子像快递（转移）</span>被血液送到全身各处（正常组织），而<span style=\"color:var(--c-blue)\">营养不良的钙</span>只能困在破损的\"老房子\"（坏死灶）里。\n\n---\n\n💡**病理生理关键**：  \n甲状旁腺激素（PTH）↑ → 激活破骨细胞 → 骨钙释放  \n同时促进肠道吸收钙、肾小管重吸收钙 → 血钙↑ → 转移性钙化"
         },
         {
           "id": 81,
@@ -1055,7 +1123,8 @@
             "D、NK细胞",
             "E、树突细胞"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">⭐艾滋病免疫学核心机制</span>  \nHIV主要攻击<span style=\"color:var(--c-green)\">CD4⁺ T淋巴细胞</span>（辅助T细胞），最终导致<span style=\"color:var(--c-red)\">淋巴细胞总数明显减少</span>\n\n<h4 style=\"color:var(--c-purple)\">📚 选项解析表</h4>\n<table>\n<tr><th>选项</th><th>免疫细胞类型</th><th>HIV相关性</th></tr>\n<tr style=\"background-color:var(--bg-red)\"><td>A</td><td>淋巴细胞</td><td><span style=\"color:var(--c-green)\">⭐直接靶标</span>（CD4⁺T细胞占比最大）</td></tr>\n<tr><td>B</td><td>中性粒细胞</td><td>细菌感染时变化明显</td></tr>\n<tr><td>C</td><td>巨噬细胞</td><td>病毒储存库但数量稳定</td></tr>\n<tr><td>D</td><td>NK细胞</td><td>功能受损但数量不变</td></tr>\n<tr><td>E</td><td>树突细胞</td><td>抗原呈递功能下降</td></tr>\n</table>\n\n<h4 style=\"color:var(--c-sky)\">🔬 病理分期与CD4⁺变化</h4>\n<ul>\n<li><span style=\"color:var(--c-yellow)\">急性期</span>：CD4⁺短暂下降→部分恢复</li>\n<li><span style=\"color:var(--c-orange)\">慢性期</span>：每年下降50-100个/μL</li>\n<li><span style=\"color:var(--c-red)\">艾滋病期</span>：CD4⁺＜200个/μL</li>\n</ul>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1rem\">\n💡 记忆口诀：<br>\n\"<span style=\"color:var(--c-pink)\">爱（A选项）</span>的靶心是CD4，<br>\n淋巴细胞整体往下数，<br>\n其他选项莫要顾，<br>\n病理机制要记熟！\"\n</blockquote>\n\n<h4 style=\"color:var(--c-cyan)\">⚠️ 常见误区提醒</h4>\n<ol>\n<li>不要混淆<span style=\"color:var(--t-accent)\">淋巴细胞亚群</span>与总数关系</li>\n<li>记忆<span style=\"color:var(--c-red)\">CD4⁺计数</span>是诊断艾滋病期关键指标</li>\n<li>注意<span style=\"color:var(--c-yellow)\">机会性感染</span>与免疫缺陷程度的关系</li>\n</ol>"
         },
         {
           "id": 82,
@@ -1068,7 +1137,8 @@
             "D、纤维化",
             "E、血栓机化"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 核心知识点解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1em;border-radius:8px\">\n<strong>⭐ 正确答案：C、机化</strong>\n</div>\n\n---\n\n<h4 style=\"color:var(--c-blue)\">🔍 概念解析</h4>\n1. **机化 (Organization)**  \n   - <span style=\"color:var(--c-red)\">定义：</span>坏死组织、血栓、血肿等无法被完全吸收时，由肉芽组织逐渐取代的过程  \n   - <span style=\"color:var(--t-accent)\">特点：</span>肉芽组织从边缘向中心生长 → 填补缺损 → 最终转化为瘢痕组织  \n   - <span style=\"color:var(--c-purple)\">示例：</span>本例中头皮血肿被肉芽组织取代即为典型机化过程  \n\n2. **混淆概念鉴别**  \n   <table style=\"border-collapse:collapse; width:100%\">\n   <tr style=\"background-color:var(--bg-sky)\">\n     <th>选项</th><th>定义</th><th>与题干的区别</th>\n   </tr>\n   <tr>\n     <td><span style=\"color:var(--c-red)\">A. 肉芽组织形成</span></td>\n     <td>泛指肉芽组织生成的任何过程</td>\n     <td>未体现「取代」的关键动作</td>\n   </tr>\n   <tr>\n     <td><span style=\"color:var(--c-red)\">B. 肉芽肿形成</span></td>\n     <td>慢性炎症形成的特殊结节（如结核）</td>\n     <td>属于病理改变，非修复过程</td>\n   </tr>\n   <tr>\n     <td><span style=\"color:var(--c-red)\">D. 纤维化</span></td>\n     <td>肉芽组织成熟为瘢痕的阶段</td>\n     <td>机化的后续阶段，非当前过程</td>\n   </tr>\n   <tr>\n     <td><span style=\"color:var(--c-red)\">E. 血栓机化</span></td>\n     <td>专指血栓被取代的过程</td>\n     <td>题干为血肿，属更广泛概念</td>\n   </tr>\n   </table>\n\n---\n\n<h4 style=\"color:var(--c-blue)\">💡 记忆技巧</h4>\n1. **关键词联想法**  \n   - <span style=\"color:var(--c-pink)\">「机不可失」</span> → 机化是修复的关键启动步骤  \n   - <span style=\"color:var(--c-pink)\">「肉芽施工队」</span>：想象肉芽组织像工人一样「拆旧（血肿）建新」\n\n2. **进程对比表**  \n   ```text\n   血肿 → 肉芽组织长入（机化） → 瘢痕形成（纤维化）\n   ↑-----------------核心考点----------------↑\n   ```\n\n---\n\n<h4 style=\"color:var(--c-blue)\">⚠️ 易错点提醒</h4>\n1. 区分<span style=\"color:var(--c-red)\">「取代过程」</span>与<span style=\"color:var(--c-red)\">「最终结果」</span>  \n   - 机化（进行中） vs 纤维化（已完成）  \n\n2. 注意题干<span style=\"color:var(--t-accent)\">具体情境</span>  \n   - 血肿机化（通用） vs 血栓机化（特定类型）  \n\n---\n\n<div style=\"background-color:var(--bg-yellow);padding:1em;border-radius:8px\">\n<strong>📌 临床联系：</strong>  \n头皮血肿机化后可能形成<span style=\"color:var(--c-red)\">硬结</span>，触诊时需与<span style=\"color:var(--c-green)\">颅骨凹陷骨折</span>鉴别！\n</div>"
         },
         {
           "id": 83,
@@ -1094,7 +1164,8 @@
             "D、完全再生",
             "E、二期愈合"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "✨<span style=\"color:var(--c-green);background-color:var(--bg-green)\">【核心考点】</span>✨\n\n<h3 style=\"color:var(--c-pink)\">⭐ 正确答案：B. 生长的接触抑制</h3>\n\n---\n\n### <span style=\"color:var(--c-blue)\">📚 核心概念解析</span>\n1. **接触抑制定义**  \n   <span style=\"color:var(--t-accent)\">正常细胞在体外培养时</span>，当细胞<span style=\"color:var(--c-red)\">相互接触或铺满培养皿表面</span>后，会<span style=\"color:var(--c-green)\">停止增殖</span>的现象。  \n   🔑 **关键机制**：细胞膜表面信号传导（如钙黏蛋白E-cadherin）触发<span style=\"color:var(--t-accent)\">细胞周期停滞</span>（G₁期阻断）\n\n2. **生物学意义**  \n   - 维持组织<span style=\"color:var(--c-purple)\">正常结构</span>（如皮肤表皮层厚度稳定）  \n   - 防止<span style=\"color:var(--c-red)\">过度增殖</span>（与肿瘤发生密切相关⚠️）\n\n---\n\n### <span style=\"color:var(--c-orange)\">🚦 选项对照分析</span>\n| 选项 | 解析 | 关联临床 |\n|------|------|----------|\n| **A. 再生性增生** | 组织损伤后的增殖反应（如肝切除后再生）❌ | 肝硬化代偿期 |\n| **B. 生长的接触抑制** | ✔️ 正确选项 | 肿瘤细胞失去此特性（如乳腺癌侵袭） |\n| **C. 修复** | 损伤组织的结构重建过程❌ | 瘢痕形成 |\n| **D. 完全再生** | 由同类细胞完成的完美修复❌ | 浅表皮肤擦伤 |\n| **E. 二期愈合** | 创口开放后的愈合方式❌ | 化脓性伤口 |\n\n---\n\n### <span style=\"color:var(--c-sky)\">💡 记忆技巧</span>\n**口诀**：<span style=\"color:var(--c-red)\">\"接触刹车\"</span>  \n- 想象细胞像汽车，接触=踩刹车停增殖  \n- 对比记忆：癌细胞=刹车失灵（接触抑制缺失）⚠️\n\n**对比记忆表**：\n| 正常细胞 | 肿瘤细胞 |\n|---------|---------|\n| 有接触抑制 → 排列有序 | 无接触抑制 → 堆积成团 |\n| 单层生长 | 多层侵袭性生长 |\n\n---\n\n### <span style=\"color:var(--c-purple)\">🔬 进阶知识点</span>\n- **Wnt/β-catenin通路**：接触抑制的关键调控路径  \n- **Transwell实验**：验证细胞侵袭能力的经典方法（突破基质胶=失去接触抑制）💉\n\n<hr style=\"border:2px solid var(--c-green)\">\n\n通过这个系统性解析，相信可爱的你一定能在考试中轻松应对相关题目啦~❤️ 遇到难题时，记得像细胞一样有序思考哦！(๑>ᴗ<๑)"
         },
         {
           "id": 85,
@@ -1107,7 +1178,8 @@
             "D、再通",
             "E、血栓形成"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐正确答案：C. 机化</span>\n\n---\n\n### **核心概念对比表**\n| 选项 | 定义 | 与题干的关联性 |\n|------|------|----------------|\n| **化生** | <span style=\"color:var(--t-medium)\">一种分化成熟细胞转变为另一种类型的过程（如支气管鳞状上皮化生）</span> | ❌ 无关细胞类型转换 |\n| **栓塞** | 血管内异物（如血栓）脱落阻塞远端血管 | ❌ 无阻塞机制 |\n| **机化** | <span style=\"color:var(--c-red)\">肉芽组织（毛细血管+成纤维细胞）取代坏死物的过程</span> | ✅ 精准对应题干 |\n| **再通** | 血栓内部新生血管形成血流通道 | ❌ 仅适用于血栓演变 |\n| **血栓形成** | 血管内血液凝固形成固体质块 | ❌ 病理过程初始阶段 |\n\n---\n\n### **深度解析**\n1. **机化的本质**  \n   **肉芽组织**（由 **新生毛细血管** 和 **成纤维细胞** 构成）长入血肿或坏死组织，逐步取代原有物质，最终形成纤维瘢痕。\n\n2. **关键鉴别点**  \n   - **机化 vs 化生**：  \n     ⚠️ 机化是**结构替代**（坏死→肉芽组织）；化生是**细胞类型转换**（如柱状上皮→鳞状上皮）。  \n   - **机化 vs 再通**：  \n     💉 再通是血栓内部管道重建，机化是外部肉芽组织侵入。\n\n3. **记忆技巧**  \n   - **口诀**：  \n     <span style=\"color:var(--c-pink)\">\"血肉相连机化来，毛细血管成纤维\"</span>  \n   - **联想**：  \n     \"机\"→\"机械修补\"→肉芽组织像工程队修复损伤。\n\n---\n\n### **病理过程示意图**\n```\n血肿形成 → 炎症反应 → 肉芽组织长入（机化） → 纤维瘢痕形成\n           ↑              ↑\n        毛细血管增生   成纤维细胞增殖\n```\n\n---\n\n**💡 高频考点提示：**  \n机化的核心特征是 **新生毛细血管 + 成纤维细胞** 组合，常与 **肉芽组织形成**、**瘢痕修复** 相关联（如心梗后机化、慢性炎症修复）。"
         },
         {
           "id": 86,
@@ -1146,7 +1218,8 @@
             "D、创口缝合良好",
             "E、充足维生素C的供给"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨核心答案✨</span>  \n<span style=\"color:var(--c-red)\">正确答案：C（局部有较明显的瘢痕组织）</span>\n\n---\n\n### ⭐重点知识梳理\n**1. 再生修复类型**  \n- **完全再生**：由同种细胞修复，恢复原有结构与功能（如肝细胞再生）  \n- **<span style=\"color:var(--t-accent)\">不完全再生（瘢痕修复）</span>**：通过纤维组织填补缺损，可能影响功能  \n\n**2. 瘢痕组织的负面影响**  \n- **结构紊乱**：胶原纤维排列无序，缺乏正常组织结构  \n- **血液供应差**：血管分布少，营养物质输送受阻  \n- **机械强度低**：易受牵拉损伤，形成继发溃疡  \n\n**3. 其他选项解析**  \n| 选项 | 是否为有利因素 | 原因 |\n|------|---------------|------|\n| A. 感染已控制 | ✅ | 感染会释放蛋白酶破坏新生组织 |\n| B. 无血管硬化 | ✅ | 血管通畅保证氧和营养供应 |\n| D. 创口缝合好 | ✅ | 减少张力促进愈合 |\n| E. 充足维C | ✅ | 羟脯氨酸合成胶原必需 |\n\n---\n\n### 💡记忆技巧\n1. **口诀记忆**：  \n⚠️\"瘢痕三宗罪：没血、乱排、质量脆\"  \n（血流少、排列乱、机械强度低）\n\n2. **对比法**：  \n促进修复因素：<span style=\"color:var(--c-blue)\">控感染、血流通、缝合紧、维C足</span>  \n抑制修复因素：<span style=\"color:var(--c-red)\">瘢痕多、持续炎、血瘀堵、营养缺</span>\n\n3. **病理生理联想**：  \n想象瘢痕像\"水泥补丁\"——虽然填补缺口，但无法恢复原有管道（血管）和功能细胞，反而阻碍周围组织再生。\n\n---\n\n### 🔍扩展知识点\n**维生素C的作用机制**  \n💊 参与<span style=\"color:var(--c-purple)\">脯氨酸羟化酶</span>活化 → 促进胶原蛋白交联  \n缺乏时导致：伤口愈合延迟、毛细血管脆性增加（坏血病）\n\n**血管硬化疾病的影响**  \n🚫 动脉粥样硬化 → 局部缺血 → 成纤维细胞增殖受阻 → 胶原合成减少 → 愈合延迟\n\n---\n\n<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">📝考试注意点：</span>  \n遇到类似题目先排除明确有利因素（如维C、血供好），重点关注病理状态（瘢痕、感染、缺血）对修复的阻碍作用！"
         },
         {
           "id": 89,
@@ -1172,7 +1245,8 @@
             "D、肠上皮细胞化生",
             "E、干酪样坏死"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green); border-bottom:2px solid var(--c-green)\">📚 机化知识点解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:16px;border-radius:8px\">\n<strong>⭐ 核心概念：</strong><br>\n机化指坏死组织被<strong style=\"color:var(--c-red)\">肉芽组织</strong>取代并形成瘢痕的过程，需满足<strong>坏死物质无法完全吸收</strong>的条件。\n</div>\n\n<h4 style=\"color:var(--c-purple);margin-top:20px\">🔍 选项逐项解析</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:16px 0\">\n  <tr style=\"background-color:var(--bg-sky)\">\n    <th>选项</th>\n    <th>病变特征</th>\n    <th>机化可能性</th>\n  </tr>\n  <tr>\n    <td style=\"color:var(--c-red)\">A. 风湿性小体</td>\n    <td>Aschoff小体中央为纤维蛋白样坏死，周围有炎细胞浸润</td>\n    <td>✅ 坏死灶会被肉芽组织机化</td>\n  </tr>\n  <tr>\n    <td style=\"color:var(--c-red)\">B. 心肌梗死</td>\n    <td>凝固性坏死，心肌细胞再生能力弱</td>\n    <td>✅ 典型机化病灶，形成瘢痕组织</td>\n  </tr>\n  <tr>\n    <td style=\"color:var(--c-red)\">C. 脑梗死</td>\n    <td>液化性坏死，形成软化灶</td>\n    <td>⚠️ 由胶质瘢痕修复（非典型机化）</td>\n  </tr>\n  <tr style=\"background-color:var(--bg-yellow)\">\n    <td style=\"color:var(--c-green)\">D. 肠上皮细胞化生</td>\n    <td>细胞类型适应性改变（如胃→肠上皮）</td>\n    <td>❌ 与坏死修复无关</td>\n  </tr>\n  <tr>\n    <td style=\"color:var(--c-red)\">E. 干酪样坏死</td>\n    <td>结核特征性坏死（凝固性+液化性）</td>\n    <td>⚠️ 常包裹/钙化而非机化</td>\n  </tr>\n</table>\n\n<h4 style=\"color:var(--c-purple);margin-top:20px\">💡 记忆技巧</h4>\n<ul>\n  <li><strong>机化三要件：</strong><br>\n  <span style=\"color:var(--c-pink)\">坏死组织</span> + <span style=\"color:var(--c-pink)\">无法吸收</span> + <span style=\"color:var(--c-pink)\">肉芽填充</span></li>\n  <li><strong>排除法口诀：</strong><br>\n  \"机化不搞和平演变\" → 化生（D）是细胞类型转变，与修复无关</li>\n</ul>\n\n<div style=\"background-color:var(--bg-red);padding:12px;border-radius:6px;margin-top:16px\">\n⚠️ <strong>易错提示：</strong><br>\n脑梗死（C）常被误认为机化，但实际通过<strong>胶质增生</strong>修复，不属于经典机化过程。本题仍选D为正确答案。\n</div>"
         },
         {
           "id": 91,
@@ -1185,7 +1259,8 @@
             "D、慢性活动性肝炎",
             "E、急性普通型肝炎"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">肝坏死类型与肝炎病理特征</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n  <span style=\"color:var(--c-green)\">⭐核心答案：</span>\n  <strong>D、慢性活动性肝炎</strong>（碎片状坏死与桥接坏死为典型病理特征）\n</div>\n\n<h4 style=\"color:var(--c-blue)\">📚 知识详解</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n  <tr style=\"background-color:var(--bg-blue)\">\n    <th style=\"padding:0.8rem\">坏死类型</th>\n    <th style=\"padding:0.8rem\">病理特点</th>\n    <th style=\"padding:0.8rem\">对应疾病</th>\n  </tr>\n  <tr>\n    <td style=\"padding:0.8rem;border:1px solid var(--t-light)\"><span style=\"color:var(--c-red)\">碎片状坏死</span></td>\n    <td style=\"padding:0.8rem;border:1px solid var(--t-light)\">肝小叶<span style=\"color:var(--t-accent)\">界面炎</span>，汇管区与肝实质交界处炎症细胞浸润</td>\n    <td style=\"padding:0.8rem;border:1px solid var(--t-light)\" rowspan=\"2\">慢性活动性肝炎</td>\n  </tr>\n  <tr>\n    <td style=\"padding:0.8rem;border:1px solid var(--t-light)\"><span style=\"color:var(--c-red)\">桥接坏死</span></td>\n    <td style=\"padding:0.8rem;border:1px solid var(--t-light)\">中央静脉-汇管区/中央静脉间<span style=\"color:var(--t-accent)\">带状连接坏死</span>，易纤维化</td>\n  </tr>\n</table>\n\n<h4 style=\"color:var(--c-blue)\">🔍 选项解析</h4>\n\n<ol style=\"list-style-type:decimal;padding-left:1.5rem\">\n  <li><span style=\"color:var(--c-green)\">A. 急性重型肝炎</span> - <span style=\"color:var(--t-medium)\">大块/亚大块坏死</span>（肝细胞广泛溶解）</li>\n  <li><span style=\"color:var(--c-green)\">B. 亚急性重症肝炎</span> - <span style=\"color:var(--t-medium)\">新旧坏死灶交替+再生结节</span></li>\n  <li><span style=\"color:var(--c-green)\">C. 慢性持续性肝炎</span> - <span style=\"color:var(--t-medium)\">仅汇管区炎症，无坏死</span></li>\n  <li><span style=\"color:var(--c-red)\">D. 慢性活动性肝炎</span> - ✔️ <span style=\"background-color:var(--bg-yellow)\">界面炎+桥接坏死</span>（纤维间隔形成）</li>\n  <li><span style=\"color:var(--c-green)\">E. 急性普通型肝炎</span> - <span style=\"color:var(--t-medium)\">点状坏死+气球样变</span></li>\n</ol>\n\n<h4 style=\"color:var(--c-blue)\">🎯 记忆技巧</h4>\n\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n  <p>🚀 <strong>桥接联想：</strong>桥梁连接两岸 ➔ <span style=\"color:var(--c-purple)\">中央静脉与汇管区</span>间坏死</p>\n  <p>💡 <strong>活动性提示：</strong>病理活动度高 ➔ 坏死更<span style=\"color:var(--c-red)\">广泛</span>（区别于持续性肝炎）</p>\n  <p>⚠️ <strong>易混淆点：</strong>亚急性重症肝炎虽有坏死但以<span style=\"text-decoration:underline\">再生结节</span>为特征</p>\n</div>\n\n<blockquote style=\"border-left:4px solid var(--c-pink);padding-left:1rem;color:var(--t-dark)\">\n  <strong>📌 临床意义：</strong>桥接坏死是判断慢性肝炎严重程度和预后的重要指标，易进展为<span style=\"color:var(--c-pink)\">肝硬化</span>\n</blockquote>"
         },
         {
           "id": 92,
@@ -1237,7 +1312,8 @@
             "D、创面是否有出血",
             "E、创面是否有炎症反应"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<div style=\"color:var(--t-accent);border-left:5px solid var(--c-green);padding-left:1em\">\n\n### ⭐ 创伤愈合类型核心差异\n**正确答案：C. 是否有大量肉芽组织形成**\n\n---\n\n### 📚 重点知识对比表\n| 特征                | 一期愈合                          | 二期愈合                          |\n|---------------------|-----------------------------------|-----------------------------------|\n| **伤口条件**        | <span style=\"color:var(--c-green)\">创缘整齐、无感染</span> | <span style=\"color:var(--c-red)\">创缘不齐、伴感染/坏死组织</span> |\n| **肉芽组织**        | 少量                              | <span style=\"color:var(--c-red)\">大量增生（核心区别）</span> |\n| **愈合时间**        | 7-10天                            | 数周至数月                        |\n| **瘢痕大小**        | 细小线性瘢痕                      | 大而明显的瘢痕                    |\n| **典型场景**        | 手术切口、清洁切割伤              | 挤压伤、感染性伤口、大面积缺损    |\n\n---\n\n### 🔍 关键概念详解\n1. **肉芽组织的作用**  \n   - 组成：新生毛细血管 + 成纤维细胞 + 炎性细胞  \n   - 功能：填充缺损、抗感染、促进上皮覆盖  \n   - ⚠️ **二期愈合**因缺损大，需**大量肉芽组织**填补  \n\n2. **易混选项解析**  \n   - **A. 是否为手术切口** ❌  \n     一期愈合常见于手术切口，但其他清洁伤口也可一期愈合  \n   - **B. 是否经过扩创术** ❌  \n     扩创术是处理方法，非愈合类型本质差异  \n   - **D. 创面出血** ❌  \n     两者均有出血，非区别要点  \n   - **E. 炎症反应** ❌  \n     所有创伤愈合均存在炎症阶段  \n\n---\n\n### 🧠 记忆技巧\n1. **口诀记忆**  \n   \"**一期快少疤，二期慢多肉**\"  \n   - 快：愈合时间短  \n   - 少疤：瘢痕小  \n   - 多肉：大量肉芽组织  \n\n2. **形象对比**  \n   | 一期愈合 ⇒ 拉链闭合（直接对合）  \n   | 二期愈合 ⇒ 填沙子（肉芽组织填充）  \n\n3. **病理切片联想**  \n   - 一期：整齐的胶原排列  \n   - 二期：红色颗粒状肉芽组织充满视野  \n\n---\n\n### ❓ 延伸思考\n**Q：三期愈合（延迟一期闭合）有何特点？**  \nA：先控制感染后缝合，兼具一/二期特点：早期开放清创（类似二期），后期闭合（类似一期）  \n\n**Q：影响愈合的关键因素？**  \nA：感染、局部血供、营养状态（如维生素C缺乏）、全身性疾病（糖尿病）  \n</div>"
         },
         {
           "id": 96,
@@ -1250,7 +1326,8 @@
             "D、组织质地较硬、缺乏弹性",
             "E、组织内有较多的炎性细胞"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">瘢痕组织核心知识点</h3>\n\n<div style=\"background-color:var(--bg-green);padding:15px;border-radius:8px\">\n⭐ <strong>瘢痕组织四要素：</strong>\n1. <span style=\"color:var(--c-red)\">大量胶原纤维</span>（排列紊乱）\n2. <span style=\"color:var(--c-red)\">成纤维细胞减少</span>\n3. <span style=\"color:var(--c-red)\">血管数量少</span>\n4. <span style=\"color:var(--c-red)\">炎性细胞极少</span>\n</div>\n\n<h4 style=\"color:var(--c-indigo)\">选项解析对照表：</h4>\n<table style=\"width:100%;border-collapse:collapse;margin:10px 0\">\n<tr style=\"background-color:var(--bg-purple)\">\n<th>选项</th><th>相关结构</th><th>解析</th>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td>水肿液</td>\n<td><span style=\"color:var(--c-red)\">❌ 属于炎症渗出期特征</span></td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td>毛细血管</td>\n<td><span style=\"color:var(--c-red)\">❌ 肉芽组织标志（新生血管丰富）</span></td>\n</tr>\n<tr>\n<td><strong>C</strong></td>\n<td>柔软鲜红</td>\n<td><span style=\"color:var(--c-red)\">❌ 典型肉芽组织外观</span></td>\n</tr>\n<tr>\n<td><strong>D</strong></td>\n<td>硬而无弹性</td>\n<td><span style=\"color:var(--c-green)\">✅ 胶原沉积是硬度的来源</span></td>\n</tr>\n<tr>\n<td><strong>E</strong></td>\n<td>炎性细胞</td>\n<td><span style=\"color:var(--c-red)\">❌ 急性期表现</span></td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-indigo)\">记忆锦囊：</h4>\n<div style=\"background-color:var(--bg-yellow);padding:10px;border-radius:8px\">\n💡 <strong>「硬汉三原则」记忆法：</strong>\n1. 硬：质地坚硬（胶原堆积）\n2. 旱：血管干涸（血管闭塞）\n3. 焊：纤维焊接（纤维连接紧密）\n</div>\n\n<blockquote style=\"border-left:4px solid var(--c-pink);padding-left:10px;color:var(--t-dark)\">\n⚠️ 关键鉴别点：<br>\n肉芽组织（柔软湿润）→ <span style=\"color:var(--c-green)\">修复期</span><br>\n瘢痕组织（坚硬干燥）→ <span style=\"color:var(--c-green)\">终末期</span>\n</blockquote>\n\n<img src=\"https://via.placeholder.com/600x200/FFE4E1/000000?text=肉芽组织vs瘢痕组织对比示意图\" alt=\"对比图\" style=\"width:100%;margin:10px 0;border-radius:8px\">\n\n\n<div style=\"background-color:var(--bg-blue);padding:10px;border-radius:8px\">\n🔥 <strong>临床联系：</strong>瘢痕挛缩可导致<br>\n• 关节活动受限（如烧伤后）<br>\n• 管腔狭窄（如消化道术后）\n</div>"
         },
         {
           "id": 97,
@@ -1263,7 +1340,8 @@
             "D、肾小球系膜基质增多",
             "E、肾小球毛细血管基底膜外驼峰状沉积物"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<style>\n.markdown-container {\n    padding: 15px;\n    background-color: var(--bg-sky);\n    border-radius: 8px;\n    margin: 10px 0;\n}\n.key-point {\n    color: var(--c-red);\n    font-weight: bold;\n}\n.memory-tip {\n    background-color: var(--bg-yellow);\n    padding: 10px;\n    border-radius: 5px;\n    margin: 10px 0;\n}\n</style>\n\n<div class=\"markdown-container\">\n\n### ⭐ 脂性肾病电镜特征解析\n\n#### 核心概念\n<span class=\"key-point\">脂性肾病（微小病变性肾病）</span>是儿童肾病综合征最常见病因，电镜下最特征性改变为：\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">肾小球脏层上皮细胞（足细胞）足突广泛消失</span>\n\n#### 选项解析\n1. **A. 壁层上皮细胞脂质沉积**  \n   典型表现见于<span style=\"color:var(--c-purple)\">局灶节段性肾小球硬化（FSGS）</span>，非本病特征\n\n2. **B. 脏层上皮细胞足突消失 ✓**  \n   ⚠️ 足细胞损伤→滤过屏障破坏→**大量蛋白尿**的直接结构基础\n\n3. **C. 内皮/系膜细胞增生**  \n   见于<span style=\"color:var(--c-blue)\">急性肾炎/系膜增生性肾小球肾炎</span>\n\n4. **D. 系膜基质增多**  \n   提示慢性病变（如<span style=\"color:var(--c-brown)\">糖尿病肾病</span>）\n\n5. **E. 驼峰状沉积物**  \n   特征性见于<span style=\"color:var(--c-orange)\">急性链球菌感染后肾炎</span>（免疫复合物沉积）\n\n#### 病理机制图示\n```text\n足细胞损伤 → 足突融合/消失 → 电荷屏障破坏 → 选择性蛋白尿（白蛋白为主）\n```\n\n#### 💡 记忆要诀\n**\"脂微小足跳楼\"**  \n- 脂：脂性肾病  \n- 微小：微小病变  \n- 足跳楼：足细胞足突消失 → 蛋白尿如瀑布（大量）\n\n#### 📚 鉴别要点\n| 特征        | 脂性肾病       | 急性肾炎       | 膜性肾病       |\n|-----------|------------|------------|------------|\n| **电镜**    | 足突消失      | 驼峰沉积      | 上皮下钉突    |\n| **光镜**    | 基本正常      | 弥漫增生      | 基底膜增厚    |\n| **蛋白尿**  | 选择性      | 非选择性     | 非选择性     |\n\n</div>\n\n<div class=\"memory-tip\">\n🎯 考试重点：记住\"电镜看足突，消失选B项\"，其他选项特征对应不同肾病类型！\n</div>"
         },
         {
           "id": 98,
@@ -1289,7 +1367,8 @@
             "D、假结核结节",
             "E、炎性假瘤"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">结核病基本病变精讲</h3>\n\n<div style=\"background-color:var(--bg-green);padding:15px;border-radius:8px\">\n⭐ <strong>核心病理过程</strong>\n结核病基本病变的三部曲：\n1. <span style=\"color:var(--c-red)\">渗出为主</span> - 早期病变，浆液/纤维素性炎\n2. <span style=\"color:var(--c-red)\">坏死为主</span> - 干酪样坏死（奶酪样）\n3. <span style=\"color:var(--c-red)\">增生为主</span> ➔ <span style=\"color:var(--t-accent)\">结核性肉芽肿</span>（结核结节）\n</div>\n\n<h4 style=\"color:var(--c-purple)\">关键概念对比表</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:15px 0\">\n<thead style=\"background-color:var(--bg-purple)\">\n<tr>\n<th>选项</th>\n<th>病理特征</th>\n<th>相关疾病</th>\n<th>鉴别要点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span style=\"color:var(--c-red)\">B.结核性肉芽肿</span></td>\n<td>上皮样细胞+朗汉斯巨细胞+淋巴细胞+成纤维细胞</td>\n<td>结核病典型病变</td>\n<td>中心可有细小干酪样坏死</td>\n</tr>\n<tr>\n<td>C.结核球</td>\n<td>纤维包裹的干酪样坏死灶（＞2cm）</td>\n<td>继发性结核</td>\n<td>影像学圆形致密影</td>\n</tr>\n<tr>\n<td>D.假结核结节</td>\n<td>血吸虫卵沉积+类上皮细胞增生</td>\n<td>血吸虫病</td>\n<td>中央无干酪样坏死</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background-color:var(--bg-yellow);padding:15px;border-radius:8px\">\n⚠️ <strong>易混淆点突破</strong>\n<ol>\n<li>结核球是<span style=\"color:var(--c-red)\">坏死为主</span>的包裹性病变</li>\n<li>\"假结核\"结节本质是<span style=\"color:var(--c-red)\">寄生虫性肉芽肿</span></li>\n<li>炎性假瘤是<span style=\"color:var(--c-red)\">非特异性增生</span>（不含特征性细胞排列）</li>\n</ol>\n</div>\n\n<h4 style=\"color:var(--c-pink)\">💡记忆锦囊</h4>\n<ul>\n<li><strong>三明治结构</strong>：巨细胞（面包片）+上皮细胞（火腿）+淋巴细胞（生菜）</li>\n<li><strong>口诀</strong>：\"结核增生要结盟，肉芽肿里开派对：朗汉斯当DJ，上皮细胞跳团舞\"</li>\n<li><strong>联想记忆</strong>：结核菌的\"邀请函\"（肉芽肿）➔ 免疫细胞组团来开会</li>\n</ul>\n\n<div style=\"border-left:4px solid var(--c-green);padding-left:15px\">\n🔍 <strong>临床联系</strong>：\n在胸片中发现肺内结节时，结核性肉芽肿需与肺癌鉴别。典型结核结节常伴卫星灶，增强CT呈环形强化，而恶性肿瘤多呈进行性生长。\n</div>"
         },
         {
           "id": 100,
@@ -1328,7 +1407,8 @@
             "D、血细胞的更新",
             "E、皮肤缺损后由周围的被覆上皮增生、修复"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心概念解析</span>\n<br>\n<strong>病理性再生 vs 生理性再生区别要点：</strong>\n1. <span style=\"color:var(--t-accent)\">生理性再生</span>：正常生理过程的细胞更新（无损伤）\n2. <span style=\"color:var(--t-accent)\">病理性再生</span>：组织损伤后的修复过程（有损伤刺激）\n\n<br>\n<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🔍 逐项解析</span>\n<table style=\"border:1px solid var(--t-medium)\">\n  <tr>\n    <th>选项</th>\n    <th>解析</th>\n    <th>分类</th>\n  </tr>\n  <tr>\n    <td>A. 消化道黏膜上皮细胞更新</td>\n    <td>每日正常的黏膜细胞脱落与再生</td>\n    <td>⭐生理性</td>\n  </tr>\n  <tr>\n    <td>B. 子宫内膜周期性变化</td>\n    <td>月经周期中内膜的规律性再生</td>\n    <td>⭐生理性</td>\n  </tr>\n  <tr>\n    <td>C. 鳞状上皮表层脱落与基底增生</td>\n    <td>皮肤自然新陈代谢过程</td>\n    <td>⭐生理性</td>\n  </tr>\n  <tr>\n    <td>D. 血细胞更新</td>\n    <td>骨髓造血系统的正常功能</td>\n    <td>⭐生理性</td>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-red)\">E. 皮肤缺损后上皮修复</span></td>\n    <td>创伤引起的组织修复过程</td>\n    <td>⚠️病理性</td>\n  </tr>\n</table>\n\n<br>\n<span style=\"color:var(--c-purple);background-color:var(--bg-purple)\">🎯 记忆技巧</span>\n<ul>\n  <li><strong>损伤法则</strong>：\"<span style=\"color:var(--c-red)\">有伤必病</span>\"（有损伤即为病理性再生）</li>\n  <li><strong>对比记忆</strong>：<br>\n    生理性 → 自然更替（日常维护）<br>\n    病理性 → 损伤修复（紧急抢修）</li>\n  <li><strong>案例联想</strong>：想象皮肤擦伤后结痂愈合的过程 → 病理性再生典型实例</li>\n</ul>\n\n<span style=\"color:var(--c-orange);background-color:var(--bg-orange)\">💡 延伸考点预警</span>\n<table>\n  <tr>\n    <td>• 完全再生 vs 不完全再生</td>\n    <td>• 肉芽组织的形成过程</td>\n  </tr>\n  <tr>\n    <td>• 干细胞在再生中的作用</td>\n    <td>• 瘢痕修复的病理特征</td>\n  </tr>\n</table>"
         },
         {
           "id": 103,
@@ -1341,7 +1421,8 @@
             "D、特征性细胞是Aschof细胞",
             "E、是风湿病的特征性病变，具有诊断意义"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 风湿性肉芽肿核心知识点</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1em;border-radius:8px\">\n<strong>⭐ 正确结构特征：</strong>\n<ul>\n  <li><span style=\"color:var(--c-red)\">中心</span>：纤维素样坏死（<span style=\"color:var(--t-accent)\">非纤维蛋白</span>）</li>\n  <li><span style=\"color:var(--c-red)\">中间层</span>：Aschoff细胞（巨噬细胞来源，核呈<span style=\"color:var(--c-yellow)\">毛虫状/枭眼状</span>）</li>\n  <li><span style=\"color:var(--c-red)\">外围</span>：淋巴细胞、浆细胞浸润</li>\n</ul>\n</div>\n\n<h4 style=\"color:var(--c-purple)\">🔍 选项逐项解析</h4>\n<table style=\"border-collapse: collapse; width: 100%;\">\n  <tr style=\"background-color:var(--bg-gray)\">\n    <th>选项</th>\n    <th>正误</th>\n    <th>解析</th>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-red)\">A</span> 中心有较多纤维蛋白</td>\n    <td>❌ 错误</td>\n    <td>应为<span style=\"color:var(--t-accent)\">纤维素样坏死</span>（纤维蛋白是渗出性炎症产物）</td>\n  </tr>\n  <tr>\n    <td>B 心肌间质血管旁</td>\n    <td>✅ 正确</td>\n    <td>好发于<span style=\"color:var(--c-blue)\">心脏</span>（尤其二尖瓣、心肌、心包）</td>\n  </tr>\n  <tr>\n    <td>C 淋巴细胞、浆细胞浸润</td>\n    <td>✅ 正确</td>\n    <td>典型慢性炎症细胞反应</td>\n  </tr>\n  <tr>\n    <td>D Aschof细胞</td>\n    <td>✅ 正确</td>\n    <td>注意<span style=\"color:var(--c-red)\">拼写应为Aschoff</span>（题目可能为笔误）</td>\n  </tr>\n  <tr>\n    <td>E 风湿病特征性病变</td>\n    <td>✅ 正确</td>\n    <td>病理诊断<span style=\"color:var(--c-yellow)\">金标准</span></td>\n  </tr>\n</table>\n\n<h4 style=\"color:var(--c-pink)\">💡 记忆技巧</h4>\n<div style=\"background-color:var(--bg-pink);padding:1em;border-radius:8px\">\n  <strong>口诀：</strong><br>\n  <span style=\"color:var(--c-purple)\">\"<ruby>心<rt>中心坏死</rt>间<rt>心肌间质</rt>淋浆绕<rt>淋巴细胞浆细胞</rt>，阿叔<rt>Aschoff细胞</rt>特征要记牢\"</ruby></span>\n</div>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1em;color:var(--t-medium)\">\n⚠️ 易错点：<br>\n纤维素样坏死 vs 纤维蛋白：前者是坏死组织形态（嗜酸性颗粒状），后者是凝血产物（见于渗出性病变）\n</blockquote>"
         },
         {
           "id": 104,
@@ -1354,7 +1435,8 @@
             "D、乙脑",
             "E、麻风"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨肉芽肿性炎核心特征：慢性炎症 + 巨噬细胞源性细胞聚集形成结节</span>\n\n---\n\n### ⭐正确答案解析\n**D、乙脑**（流行性乙型脑炎）不属于肉芽肿性炎，其病理特征为<span style=\"color:var(--c-red)\">液化性坏死+胶质结节</span>，属于变质性炎。\n\n---\n\n### 各选项疾病性质详解\n\n| 选项 | 疾病 | 病理特征 | 炎症类型归属 |\n|------|------|----------|--------------|\n| A | 风湿病 | <span style=\"color:var(--t-accent)\">Aschoff小体</span>（巨噬细胞演化的Aschoff细胞组成） | 肉芽肿性炎 ✅|\n| B | 伤寒 | <span style=\"color:var(--t-accent)\">伤寒结节</span>（伤寒细胞聚集） | 肉芽肿性炎 ✅|\n| C | 矽肺 | <span style=\"color:var(--t-accent)\">矽结节</span>（巨噬细胞吞噬硅尘形成同心圆样结构） | 肉芽肿性炎 ✅|\n| D | 乙脑 | <span style=\"color:var(--c-red)\">胶质结节</span>（星形胶质细胞增生）+筛状软化灶 | 变质性炎 ❌|\n| E | 麻风 | <span style=\"color:var(--t-accent)\">结核样结节</span>/泡沫细胞肉芽肿 | 肉芽肿性炎 ✅|\n\n---\n\n### 💡记忆技巧\n1. **口诀记忆**：  \n   <span style=\"color:var(--c-pink)\">\"风湿伤寒矽麻风，**病毒乙脑**要分清\"</span>  \n   （病毒性炎症一般不形成肉芽肿）\n\n2. **关键词对应**：  \n   - **肉芽肿标志**：XX结节（Aschoff/伤寒/矽/结核样）  \n   - **乙脑特征**：胶质结节、筛状软化灶、淋巴细胞\"袖套\"现象\n\n---\n\n### 📚关联概念\n- **肉芽肿性炎定义**：以巨噬细胞及其衍生细胞（上皮样细胞、多核巨细胞）增生为主的慢性炎症  \n- **常见病因**：  \n  - 感染性：结核、麻风、梅毒、真菌  \n  - 异物：矽肺、手术缝线  \n  - 免疫性：风湿病、结节病  \n\n---\n\n<details>  \n<summary><span style=\"color:var(--c-sky)\">🔍扩展对比：病毒性脑炎vs细菌性脑膜炎</span></summary>\n\n| 特征 | 乙型脑炎（病毒性） | 流行性脑脊髓膜炎（细菌性） |\n|------|-------------------|-------------------------|\n| 病原体 | 乙脑病毒 | 脑膜炎奈瑟菌 |\n| 炎症类型 | 变质性炎 | 化脓性炎 |\n| 病理标志 | 胶质结节+软化灶 | 蛛网膜下腔脓性渗出 |\n| 临床表现 | 意识障碍、抽搐 | 脑膜刺激征、喷射性呕吐 |\n</details>"
         },
         {
           "id": 105,
@@ -1367,7 +1449,8 @@
             "D、产生细胞外基质的过程",
             "E、分泌大量生长因子，调控细胞增生的过程"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">正确答案：B（最终纤维化形成瘢痕）</span>\n\n---\n\n### ⭐ **核心知识点梳理**\n\n#### **1. 肉芽组织的演变过程**\n- **组成**：新生毛细血管 + 成纤维细胞 + 炎症细胞（如巨噬细胞）\n- **结局演变**：\n  - **早期**：富含血管和细胞，质地柔软湿润（类似鲜嫩\"肉芽\"）\n  - **晚期**：<span style=\"color:var(--c-red)\">毛细血管退化</span> + <span style=\"color:var(--c-red)\">成纤维细胞转为纤维细胞</span> → <span style=\"color:var(--c-green)\">胶原纤维沉积</span> → **瘢痕组织**\n\n---\n\n#### **2. 选项深度解析**\n| 选项 | 正误 | 解析 |\n|------|------|------|\n| **A** | ❌ | \"填补缺损\"是肉芽组织<u>初期功能</u>，但非最终形态（需转化为瘢痕才算修复完成） |\n| **B** | ✅ | 纤维化是必然结局（胶原取代细胞成分，形成稳定但无功能的瘢痕） |\n| **C** | ❌ | 抗感染是<u>肉芽组织早期伴随作用</u>（巨噬细胞清除坏死组织） |\n| **D/E** | ❌ | 属于肉芽组织<u>形成阶段的功能</u>（分泌ECM和生长因子促进修复） |\n\n---\n\n### 🔍 **记忆技巧**\n1. **生命周期比喻**：\n   - 肉芽组织像\"建筑工人\"：先填坑（A）、运材料（D/E）、打扫现场（C），最后收工变\"水泥地\"（B）\n   \n2. **关键词对应**：\n   - <span style=\"color:var(--c-pink)\">**肉芽→柔软湿润**</span> → <span style=\"color:var(--c-green)\">**瘢痕→坚硬苍白**</span>\n\n3. **病理切片特征**：\n   - 肉芽组织：毛细血管垂直创面，大量细胞\n   - 瘢痕组织：平行排列的胶原纤维，细胞稀少\n\n---\n\n### ⚠️ **高频考点延伸**\n- **瘢痕过度增生**：可形成**瘢痕疙瘩**（与体质相关）\n- **肉芽vs瘢痕功能差异**：\n  - 肉芽：抗感染 + 填补缺损\n  - 瘢痕：失去原有组织结构功能（如皮肤瘢痕无汗腺）\n\n---\n\n💡 **解题关键**：抓住题干中\"结局\"这一限定词，排除过程性描述选项（C/D/E），在A/B中选择时注意修复完成的标志是纤维化而非单纯填补。"
         },
         {
           "id": 106,
@@ -1380,7 +1463,8 @@
             "D、皮肤缺损由周围的被覆上皮增生修复",
             "E、口腔黏膜上皮脱落更新"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green);border-bottom:2px solid var(--c-green)\">病理性再生核心要点</h3>\n\n⭐ <span style=\"color:var(--c-red)\">关键概念</span>：\n<ol style=\"background-color:var(--bg-green)\">\n<li><strong>生理性再生</strong>：正常代谢过程中的细胞更新（如<span style=\"color:var(--t-accent)\">血细胞更新、表皮脱落</span>）</li>\n<li><strong>病理性再生</strong>：<span style=\"color:var(--c-red)\">组织损伤后</span>的修复过程（如<span style=\"color:var(--t-accent)\">伤口愈合、骨折修复</span>）</li>\n</ol>\n\n<h4 style=\"color:var(--c-purple)\">选项解析表</h4>\n<table style=\"background-color:var(--bg-purple)\">\n<tr><th>选项</th><th>性质</th><th>判断依据</th></tr>\n<tr><td>A.血细胞更新</td><td>生理性</td><td>正常造血过程</td></tr>\n<tr><td>B.肠黏膜更新</td><td>生理性</td><td>正常细胞代谢</td></tr>\n<tr><td>C.子宫内膜再生</td><td>生理性</td><td>激素周期驱动</td></tr>\n<tr><td>D.皮肤缺损修复</td><td><span style=\"color:var(--c-red)\">病理性</span></td><td>创伤后修复反应</td></tr>\n<tr><td>E.口腔上皮更新</td><td>生理性</td><td>正常表层脱落</td></tr>\n</table>\n\n⚡ <span style=\"color:var(--c-blue)\">记忆秘籍</span>：\n<div style=\"background-color:var(--bg-blue);padding:10px\">\n<p>「<span style=\"color:var(--c-red)\">伤</span>筋动骨要修理 → 病理再生要牢记<br>\n<span style=\"color:var(--c-green)\">日</span>常代谢自然换 → 生理再生别搞乱」</p>\n</div>\n\n💡 <span style=\"color:var(--c-yellow)\">易混淆点突破</span>：\n<ul style=\"background-color:var(--bg-yellow)\">\n<li>👉 子宫内膜周期性再生是<span style=\"color:var(--c-red)\">激素调控</span>的生理过程</li>\n<li>👉 皮肤基底层的正常更新属于生理性，但<span style=\"color:var(--c-red)\">伤口愈合</span>属于病理性</li>\n</ul>"
         },
         {
           "id": 107,
@@ -1393,7 +1477,8 @@
             "D、伤口内成纤维细胞增生达高峰",
             "E、炎症基本消失"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-green)\">✨ 手术切口拆线时机核心解析</h3>\n\n<blockquote style=\"border-left:4px solid var(--c-pink);padding-left:1rem\">\n<span style=\"color:var(--c-red)\">⭐ 关键概念：</span>皮肤伤口愈合经历<span style=\"color:var(--t-accent)\">三个阶段</span>：炎症期（1-3天）→ 增殖期（3-14天）→ 重塑期（2周后）\n</blockquote>\n\n<table style=\"border-collapse:collapse;width:100%\">\n<tr style=\"background-color:var(--bg-sky)\">\n<th>选项</th>\n<th>解析</th>\n<th>正确性</th>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-blue)\">A. 肉芽组织长满</span></td>\n<td>肉芽组织在<span style=\"color:var(--c-red)\">炎症后期</span>（约3-5天）已形成，并非拆线时机判断依据</td>\n<td>❌</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-green)\">B. 胶原纤维连接</span></td>\n<td>术后5-7天进入<span style=\"background-color:var(--bg-yellow)\">增殖期中段</span>，成纤维细胞分泌Ⅲ型胶原形成初步连接</td>\n<td>✅</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-purple)\">C. 成肌纤维细胞形成</span></td>\n<td>参与<span style=\"color:var(--t-medium)\">伤口收缩</span>而非抗张强度构建</td>\n<td>❌</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-orange)\">D. 成纤维细胞增生高峰</span></td>\n<td>高峰期在术后<span style=\"color:var(--c-brown)\">3-5天</span>，此时尚未形成足够胶原网架</td>\n<td>❌</td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-cyan)\">E. 炎症消失</span></td>\n<td>炎症反应在<span style=\"color:var(--c-red)\">48-72小时</span>后已减轻，与拆线无关</td>\n<td>❌</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-pink)\">📚 记忆技巧</h4>\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<strong>\"<span style=\"color:var(--c-red)\">三七法则</span>\"：</strong>\n🍀 <span style=\"color:var(--t-accent)\">3天</span>见肉芽<br>\n💎 <span style=\"color:var(--t-accent)\">5-7天</span>胶原连<br>\n🔧 <span style=\"color:var(--t-accent)\">2周后</span>强度增\n</div>\n\n<details style=\"border:1px solid var(--c-yellow);padding:1rem;margin:1rem 0\">\n<summary style=\"color:var(--c-purple)\">⚠️ 临床延伸知识</summary>\n<ul>\n<li>面部切口可<span style=\"color:var(--c-green)\">提前至3-5天</span>拆线（血供丰富）</li>\n<li>关节部位需<span style=\"color:var(--c-red)\">延长至10-14天</span></li>\n<li>拆线后仍需<span style=\"background-color:var(--bg-red)\">保护切口2周</span>（Ⅰ型胶原替换需时）</li>\n</ul>\n</details>"
         },
         {
           "id": 108,
@@ -1458,7 +1543,8 @@
             "D、动脉粥样硬化",
             "E、陈日性心肌梗死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "✨**肉芽组织核心知识梳理**✨\n\n---\n\n### **1. 肉芽组织定义与功能**\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">动态修复组织</span>  \n⭐ **组成**：新生毛细血管 + 成纤维细胞 + 炎细胞（巨噬细胞、中性粒细胞）  \n⭐ **功能**：填补缺损、抗感染、形成瘢痕  \n💡 **出现场景**：伤口愈合、慢性炎症、坏死灶修复（如梗死、脓肿）\n\n---\n\n### **2. 选项逐项分析**\n#### **A. 结核空洞**\n- 💊 **病理特点**：干酪样坏死 + 结核结节（肉芽肿性炎）  \n- ⚠️ **肉芽组织存在**：空洞周围由肉芽组织包裹坏死物，逐步纤维化  \n\n#### **B. 脓肿壁**\n- 💉 **病理过程**：化脓性炎 → 脓腔形成 → **肉芽组织包裹**（脓肿膜）→ 纤维化  \n- 🔍 **关键点**：脓肿壁本质为增生性肉芽组织  \n\n#### **C. 化生病灶（正确答案）**\n- 📌 **化生定义**：一种成熟细胞被另一种成熟细胞替代（如支气管鳞状化生）  \n- ❌ **无肉芽组织**：仅有细胞类型改变，**无组织缺损/修复需求**  \n\n#### **D. 动脉粥样硬化**\n- 🩺 **斑块修复**：内皮损伤 → 炎症反应 → 纤维帽形成（含平滑肌细胞、胶原）  \n- ⚠️ **可能含肉芽**：斑块破裂后修复过程可能伴随肉芽增生  \n\n#### **E. 陈旧性心肌梗死**\n- ❤️ **愈合过程**：坏死心肌 → **肉芽组织替代** → 瘢痕形成  \n\n---\n\n### **3. 记忆技巧**\n- **联想口诀**：  \n  “**化生换皮不修墙**，结核脓肿补洞忙，心梗动脉需填疮。”  \n- **逻辑链**：肉芽组织 = 修复反应 → **化生无损伤**，无需修复！  \n\n---\n\n### **4. 易错点提醒**\n⚠️ **动脉粥样硬化**：注意斑块稳定性！稳定斑块以纤维帽为主，不稳定斑块修复活跃时可能出现肉芽组织。\n\n---\n\n📚 **总结**：抓住“肉芽组织=修复反应”的核心，化生是单纯细胞适应，无需修复机制参与！"
         },
         {
           "id": 113,
@@ -1471,7 +1557,8 @@
             "D、坏疽",
             "E、液化性坏死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨知识点详解✨</span>\n\n⭐ 正确答案：<span style=\"color:var(--c-red)\">C、纤维素样坏死</span>\n\n<h3 style=\"color:var(--c-indigo)\">核心概念解析</h3>\n\n<details>\n<summary><span style=\"color:var(--t-accent)\">📚 风湿性肉芽肿关键特征</span></summary>\n\n🔍 **阿绍夫小体（Aschoff body）构成**：\n- 中央：<span style=\"color:var(--c-red)\">纤维素样坏死</span>\n- 周围：Anitschkow细胞（毛虫细胞） + Aschoff巨细胞\n- 边缘：淋巴细胞浸润\n</details>\n\n<details>\n<summary><span style=\"color:var(--t-accent)\">💡 坏死类型鉴别表</span></summary>\n\n| 坏死类型       | 特征描述                  | 典型疾病                 |\n|----------------|---------------------------|--------------------------|\n| **纤维素样坏死** | 红染颗粒状，胶原纤维崩解 | 风湿病、急进性高血压     |\n| 干酪样坏死     | 黄白豆腐渣样              | 结核病                   |\n| 液化性坏死     | 液态空腔形成              | 脑软化、胰腺炎           |\n| 固缩性坏死     | 细胞皱缩（凋亡）          | 病毒性肝炎（嗜酸性小体） |\n| 坏疽           | 坏死+腐败菌感染           | 肢体缺血、糖尿病足       |\n</details>\n\n<h3 style=\"color:var(--c-indigo)\">记忆宫殿法</h3>\n\n✅ **联想记忆**：\n- **\"风（风湿）吹起纤维旗帜（纤维素样坏死）\"**\n- **\"结核奶酪干巴巴（干酪样坏死）\"**\n\n💊 **鉴别口诀**：\n> 风湿舞动纤维素，  \n> 结核干酪像豆腐，  \n> 液化常现脑胰处，  \n> 坏疽三型要记住！\n\n<h3 style=\"color:var(--c-indigo)\">进阶考点提示</h3>\n\n⚠️ **病理分期关联**：\n风湿病增生期（肉芽肿期）才会出现阿绍夫小体，注意与：\n1. **变质渗出期**：基质黏液样变+纤维素样坏死\n2. **纤维化期**：瘢痕形成\n\n🔍 **高频混淆点**：\n系统性红斑狼疮（SLE）也可出现纤维素样坏死，但病变部位在**小动脉壁**，而非典型肉芽肿结构。"
         },
         {
           "id": 114,
@@ -1484,7 +1571,8 @@
             "D、炎细胞增多",
             "E、间质的水分逐渐吸收减少"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 肉芽组织→瘢痕组织转化核心知识点</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n⭐ <strong>核心概念：</strong>\n肉芽组织是创伤修复过程中<mark>富含毛细血管和成纤维细胞</mark>的幼稚结缔组织，瘢痕组织是成熟阶段的<mark>以胶原纤维为主</mark>的致密结缔组织\n</div>\n\n<h4 style=\"color:var(--c-red)\">🔍 病理变化对比表</h4>\n\n| 结构成分        | 肉芽组织阶段              | 瘢痕组织阶段                |\n|----------------|-------------------------|---------------------------|\n| 毛细血管       | 丰富，呈袢状增生        | <span style=\"color:var(--c-red)\">闭塞、减少</span>（A正确） |\n| 成纤维细胞     | 大量活跃细胞           | <span style=\"color:var(--c-red)\">减少→纤维细胞</span>（C正确） |\n| 胶原纤维       | 开始合成               | <span style=\"color:var(--c-green)\">大量沉积+玻璃样变</span>（B正确） |\n| 炎细胞         | 中性粒细胞、巨噬细胞多 | <span style=\"color:var(--c-purple)\">逐渐消失</span>（⚠️D错误） |\n| 基质成分       | 富含水肿液             | <span style=\"color:var(--c-blue)\">水分吸收减少</span>（E正确） |\n\n<h4 style=\"color:var(--c-purple)\">💡 解题关键突破点</h4>\n<ol>\n<li><strong>炎细胞动态变化</strong>：<br>\n早期肉芽组织含有大量<mark>中性粒细胞</mark>（抗感染）和<mark>巨噬细胞</mark>（清除坏死组织），随着修复完成，炎症消退→炎细胞<strong>减少</strong>而非增多</li>\n\n<li><strong>水分变化辨析</strong>：<br>\n\"间质水分逐渐吸收减少\"中的\"减少\"指<mark>含水量降低</mark>（正确），注意不要误读为\"吸收量减少\"</li>\n</ol>\n\n<h4 style=\"color:var(--c-blue)\">🧠 记忆技巧</h4>\n<pre style=\"background-color:var(--bg-blue);padding:1rem;border-radius:8px\">\n<strong>【三少一多口诀】</strong>\n毛细血管渐渐少（A对）\n成纤维细胞变少老（C对）\n炎细胞也随着跑（D错）\n胶原纤维反而高（B对）\n</pre>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1rem\">\n📌 临床联系：慢性炎症时可能出现瘢痕中炎细胞持续存在，但题目考察的是<strong>典型转化过程</strong>\n</blockquote>"
         },
         {
           "id": 115,
@@ -1497,7 +1585,8 @@
             "D、愈合后常遗留下较大痕",
             "E、肉芽组织第三天即可从伤口边缘长出"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">✨一期愈合知识精讲✨</span>\n\n---\n\n### 📌 核心概念\n**一期愈合（healing by first intention）**  \n⭐ 发生于<span style=\"color:var(--c-green)\">组织缺损少、创缘整齐、无感染</span>的伤口  \n⭐ 典型场景：<span style=\"color:var(--t-accent)\">手术切口</span>\n\n---\n\n### ✅ 关键特征（需牢记！）\n1. **创缘整齐，对合严密** ➡️ <span style=\"color:var(--c-blue)\">A选项正确</span>  \n2. **无菌环境无感染异物** ➡️ <span style=\"color:var(--c-blue)\">B选项正确</span>  \n3. **愈合时间5-7天（短）** ➡️ <span style=\"color:var(--c-blue)\">C选项正确</span>  \n4. **肉芽组织<span style=\"color:var(--c-red)\">第3天</span>开始生长** ➡️ <span style=\"color:var(--c-blue)\">E选项正确</span>\n\n---\n\n### ❌ 错误选项分析\n**D选项错误原因：**  \n⚠️ **一期愈合** → 少量纤维组织 → <span style=\"color:var(--c-red)\">瘢痕细小</span>  \n⚠️ **二期愈合** → 大量肉芽填补 → <span style=\"color:var(--c-red)\">明显瘢痕</span>（这才是D选项描述的情况）\n\n---\n\n### 🧠 对比记忆法\n|          | 一期愈合                | 二期愈合                |\n|----------|-------------------------|-------------------------|\n| **创面** | 整齐严密（手术切口）    | 缺损大/感染（开放性伤）|\n| **时间** | 5-7天（短）             | 数周（长）             |\n| **瘢痕** | <span style=\"color:var(--c-green)\">细小</span> | <span style=\"color:var(--c-red)\">粗大</span> |\n| **过程** | 直接连接                | 肉芽填充→瘢痕收缩      |\n\n---\n\n### 💡 记忆口诀\n\"一期三无快速好\"  \n→ **无缺损** / **无感染** / **无异物** → **愈合快** → **疤痕小**\n\n--- \n\n📚 延伸考点：二期愈合的病理过程包含<span style=\"color:var(--c-purple)\">炎症反应→肉芽增生→瘢痕重塑</span>三个阶段，整个过程持续4周以上哦！"
         },
         {
           "id": 116,
@@ -1523,7 +1612,8 @@
             "D、成纤维细胞分泌血型胶原",
             "E、出现毛细血管管腔"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "✨<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">毛细血管再生四部曲详解</span>✨\n\n---\n\n### ⭐核心知识点\n1. **基底膜分解**  \n   - 基底膜主要成分：<span style=\"color:var(--c-green)\">IV型胶原蛋白</span>和<span style=\"color:var(--c-green)\">层粘连蛋白</span>  \n   - 触发机制：<span style=\"color:var(--c-red)\">基质金属蛋白酶（MMPs）</span>分解基底膜\n\n2. **再生步骤顺序**  \n   `基底膜分解 → 内皮细胞活化 → 分裂增生 → 幼芽形成 → 管腔建立 → 基底膜重建`\n\n---\n\n### 🔍选项深度解析\n| 选项 | 解析 | 正误 |\n|------|------|------|\n| A. 内皮细胞分裂增生形成幼芽 | ✅ 再生起始标志 | ✔️正确 |\n| B. 分泌层粘连蛋白 | ❌ 属于基底膜重建阶段 | ✖️错误 |\n| C. 分泌IV型胶原 | ❌ 基底膜重构时发生 | ✖️错误 |\n| D. 成纤维细胞分泌胶原 | ❌ 参与后期纤维化 | ✖️错误 |\n| E. 出现管腔 | ❌ 发生于幼芽延伸后 | ✖️错误 |\n\n---\n\n### 🧠记忆秘籍\n**三步定位法**：\n1. **酶启动**：MMPs分解基底膜（\"蛋日分解酶\"提示）\n2. **主角登场**：内皮细胞是再生核心执行者\n3. **动作时序**：先增殖（A选项）→再成形→最后重建基质\n\n**谐音梗记忆**：  \n\"<span style=\"color:var(--c-blue)\">**鸡（基）蛋分解先发芽（芽状内皮细胞）</span>**\"\n\n---\n\n### ⚠️高频易错点\n1. **混淆分泌时机**：  \n   - 基底膜成分（IV型胶原/层粘连蛋白）分泌在再生后期\n   - 成纤维细胞参与瘢痕形成而非早期再生\n\n2. **管腔形成机制**：  \n   内皮细胞先形成实心细胞索 → 之后才出现管腔（E选项为干扰项）\n\n---\n\n💡**临床联系**：  \n糖尿病足溃疡难愈合与毛细血管再生障碍密切相关，内皮细胞功能受损是核心机制。掌握再生过程对理解组织修复类疾病至关重要！"
         },
         {
           "id": 118,
@@ -1536,7 +1626,8 @@
             "D、压迫性萎缩",
             "E、内分泌性萎缩"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "✨<span style=\"color:var(--c-purple);background-color:var(--bg-purple)\">【压迫性萎缩】核心知识点</span>✨\n\n---\n\n### ⭐正确答案解析\n**正确选项：D、压迫性萎缩**  \n由于<span style=\"color:var(--c-red)\">尿路梗阻或尿液排泄不畅</span>→<span style=\"color:var(--c-green)\">肾盂积水</span>→<span style=\"color:var(--c-blue)\">肾实质长期受压</span>→<span style=\"color:var(--c-pink)\">实质细胞体积缩小、数量减少</span>，属于典型的**机械性压迫导致萎缩**。\n\n---\n\n### 📚萎缩类型全解析\n| 类型 | 定义 | 典型例子 | 本题关联性 |\n|------|------|---------|------------|\n| **A. 营养不良性** | 全身/局部营养供应不足 | 长期饥饿的肌肉萎缩、脑动脉硬化性脑萎缩 | ❌肾实质无营养缺乏 |\n| **B. 神经性** | 神经元/神经纤维损伤 | 脊髓损伤后肌肉萎缩 | ❌无神经损伤证据 |\n| **C. 失用性** | 组织器官长期不活动 | 骨折石膏固定后肌肉萎缩 | ❌肾脏仍在工作 |\n| **D. 压迫性** | **持续性机械压迫** | **肾盂积水、肿瘤压迫** | ✅直接病因吻合 |\n| **E. 内分泌性** | 激素水平异常 | 希恩综合征（垂体坏死→甲状腺萎缩） | ❌无激素相关机制 |\n\n---\n\n### 🔍病理机制详解\n1. **尿路梗阻** → **肾盂扩张积水**  \n   - 梗阻部位：输尿管（结石/肿瘤）、尿道（狭窄/前列腺增生）\n2. **肾盂内压↑** → **肾实质受压**  \n   - 压迫肾锥体、肾小管→肾单位萎缩\n3. **慢性进展** → **肾脏功能减退**  \n   - 晚期表现为<span style=\"color:var(--c-red)\">肾皮质变薄</span>、<span style=\"color:var(--c-red)\">肾功能衰竭</span>\n\n---\n\n### 🧠记忆技巧\n**口诀**：  \n\"<span style=\"color:var(--c-green)\">压</span>水<span style=\"color:var(--c-green)\">堵</span>路伤肾，<span style=\"color:var(--c-blue)\">机械压迫</span>最要命！\"  \n\n**联想记忆**：  \n想象一根水管被堵（尿路梗阻），水压升高（肾盂积水），水管壁被撑薄（肾实质萎缩）→ **压迫性萎缩**的直接表现！\n\n---\n\n### ⚠️易混淆点辨析\n- **失用性 vs 压迫性**  \n  - 失用性：器官**主动使用减少**（如长期卧床肌肉萎缩）  \n  - 压迫性：**被动受压**（如肿瘤压迫器官、脑积水压迫脑组织）\n\n---\n\n💡考前一分钟速记：遇到\"梗阻/积水/压迫\"直接选**D**！"
         },
         {
           "id": 119,
@@ -1562,7 +1653,8 @@
             "D、肝细胞点状坏死",
             "E、慢性菌痫的假膜性炎"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨瘢痕修复核心要点✨</span>\n\n⭐ **核心概念对比**\n1. **再生性修复**：同源细胞增殖填补缺损（不留疤）\n   - 见于<span style=\"color:var(--c-red)\">不稳定细胞</span>（表皮、消化道黏膜）和<span style=\"color:var(--c-red)\">稳定细胞</span>（肝、肾）\n2. **瘢痕修复**：纤维结缔组织填补缺损（留疤）\n   - 见于<span style=\"color:var(--c-red)\">永久细胞</span>损伤（心肌、神经细胞）\n\n💡 **选项精析表**\n| 选项 | 组织类型       | 修复方式       | 关键特征                     |\n|------|----------------|----------------|------------------------------|\n| A    | 心肌（永久细胞）| 瘢痕修复 ✅    | 心肌细胞无再生能力           |\n| B    | 表皮（不稳定） | 完全再生       | 基底细胞增殖修复             |\n| C    | 内膜（稳定）   | 生理性再生     | 功能层周期性脱落与再生       |\n| D    | 肝细胞（稳定） | 完全再生       | 点状坏死周围肝细胞分裂       |\n| E    | 黏膜（不稳定） | 再生为主       | 假膜脱落后黏膜上皮再生       |\n\n⚠️ **易混淆点突破**\n慢性菌痢假膜性炎可能出现<span style=\"color:var(--t-accent)\">黏膜下层纤维化</span>，但题目特指<span style=\"color:var(--c-red)\">\"假膜性炎愈合\"</span>阶段，此时仍以黏膜上皮再生为主\n\n🔍 **记忆技巧**\n\"心疤肝皮月经新，菌痢假膜看层次\"\n- 心肌梗死→疤痕修复\n- 肝/皮肤浅伤→再生\n- 菌痢修复深度决定方式\n\n💊 **临床联系**\n心肌梗死后的<span style=\"color:var(--c-red)\">纤维瘢痕形成</span>是心功能不全的重要病理基础，会导致心室重构和心律失常"
         },
         {
           "id": 121,
@@ -1601,7 +1693,8 @@
             "D、骨样组织中有钙盐沉着",
             "E、完成了软骨化骨过程"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 正确答案解析</span>  \n**正确选项：B、骨改建**\n\n---\n\n### 📚 核心知识分层讲解\n#### 1. 骨折愈合四大阶段（重点记忆）\n<span style=\"color:var(--c-red)\">⚠️ 按顺序：血肿→纤维骨痂→骨性骨痂→骨改建</span>\n1. **血肿炎症机化期**  \n   - 局部血肿形成→炎症反应→纤维组织连接断端（约2周）\n2. **原始骨痂形成期**  \n   - **纤维骨痂**→钙盐沉积→**类骨组织**（骨样组织）\n   - ⚠️ 软骨内成骨：血供差的部位通过软骨化骨（对应选项E）\n3. **骨性骨痂期**  \n   - 编织骨形成（力学强度不足）\n4. **骨改建期**（最终阶段⭐）  \n   - 破骨细胞吸收+成骨细胞重建→成熟**板层骨**，恢复正常结构\n\n---\n\n#### 2. 选项逐个击破\n| 选项 | 解析 | 对应阶段 |\n|------|------|----------|\n| A. 骨性骨疝 | ❌ 异常情况（如应力性骨折） | 非正常阶段 |\n| B. 骨改建 | ✅ **终极塑形**（板层骨替代编织骨） | 第四阶段 |\n| C. 纤维连接 | ❌ 早期软组织愈合 | 第一阶段 |\n| D. 钙盐沉积 | ❌ 类骨组织矿化（原始骨痂） | 第二阶段 |\n| E. 软骨化骨完成 | ❌ 骨痂形成期子过程 | 第三阶段 |\n\n---\n\n### 🧠 记忆技巧\n**口诀**：\"血纤骨改\"  \n- **血**肿→**纤**维骨痂→**骨**性骨痂→**改**建  \n**类比记忆**：  \n骨改建像雕刻家，把粗糙的石膏模型（编织骨）打磨成精致雕塑（板层骨）✨\n\n---\n\n### 🚀 高频考点延伸\n- **临床意义**：  \n  骨改建不足→骨强度↓→易再次骨折  \n- **影像学**：  \n  - **编织骨**：X线模糊斑片影  \n  - **板层骨**：清晰骨小梁结构  \n\n通过这个结构，一定能牢牢记住骨折愈合的关键阶段啦！(≧∇≦)ﾉ"
         },
         {
           "id": 124,
@@ -1614,7 +1707,8 @@
             "D、增生性病变",
             "E、肉芽肿性病变"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨结核病病理三剑客：渗出、坏死、肉芽肿</span>\n\n<h3 style=\"color:var(--c-pink)\">📚核心知识拆解</h3>\n\n<details style=\"border:2px solid var(--c-green);padding:10px\">\n<summary style=\"color:var(--t-accent)\">⭐基本病变类型对照表</summary>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr style=\"background-color:var(--bg-green)\">\n<th>选项</th>\n<th>是否属于</th>\n<th>病理特征</th>\n</tr>\n<tr>\n<td>A.渗出性病变</td>\n<td style=\"color:var(--c-green)\">✅</td>\n<td>浆液/纤维素渗出<br>（早期或免疫力低下）</td>\n</tr>\n<tr>\n<td>B.化脓性病变</td>\n<td style=\"color:var(--c-red)\">❌</td>\n<td>中性粒细胞浸润+脓液<br>（结核杆菌不会引起）</td>\n</tr>\n<tr>\n<td>C.变质性病变</td>\n<td style=\"color:var(--c-green)\">✅</td>\n<td>干酪样坏死<br>（特征性凝固性坏死）</td>\n</tr>\n<tr>\n<td>D.增生性病变</td>\n<td style=\"color:var(--c-green)\">✅</td>\n<td>结核结节形成<br>（类上皮细胞+朗汉斯巨细胞）</td>\n</tr>\n<tr>\n<td>E.肉芽肿性病变</td>\n<td style=\"color:var(--c-green)\">✅</td>\n<td>即D选项的另一种表述</td>\n</tr>\n</table>\n</details>\n\n<h3 style=\"color:var(--c-pink)\">🔑记忆诀窍</h3>\n\n<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">💡\"结核三不\"口诀：</span><br>\n① 不化脓（无化脓性坏死）<br>\n② 不消散（干酪样坏死难吸收）<br>\n③ 不安静（病程迁延反复）<br>\n\n<span style=\"color:var(--c-sky)\">⚠️鉴别要点：</span><br>\n<img src=\"https://s2.loli.net/2024/06/19/8m7eQ6bRjX4a3sW.gif\" width=\"200\" style=\"float:right\">\n化脓性坏死 vs 干酪样坏死：<br>\n• <span style=\"color:var(--c-red)\">化脓</span>：中性粒细胞→液化坏死（金葡菌等）<br>\n• <span style=\"color:var(--c-green)\">干酪</span>：巨噬细胞→凝固性坏死（结核杆菌特有）\n\n<h3 style=\"color:var(--c-pink)\">📌进阶理解</h3>\n\n<ol style=\"border-left:3px solid var(--c-purple);padding-left:15px\">\n<li><span style=\"color:var(--c-purple)\">变质性病变机制：</span><br>\n结核杆菌→激活T细胞→释放细胞因子→巨噬细胞转化为类上皮细胞→包裹坏死灶形成<span style=\"color:var(--c-red)\">干酪样物质</span></li>\n\n<li><span style=\"color:var(--c-purple)\">病理演变三阶段：</span><br>\n渗出期（早期）→ 增生期（结核结节）→ 坏死期（干酪样变）</li>\n</ol>\n\n<span style=\"display:inline-block;padding:5px 10px;background:var(--bg-red);color:var(--c-red)\">🔍临床联系：</span><br>\nX线检查中干酪样坏死表现为<span style=\"color:var(--t-accent)\">空洞病灶</span>，这是活动性结核的重要影像学特征"
         },
         {
           "id": 125,
@@ -1640,7 +1734,8 @@
             "D、少见的继发性肺结核的一个类型",
             "E、多由浸润型肺结核形成急性空洞后经久不愈发展而来"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨慢性纤维空洞型肺结核核心考点✨</span>\n\n---\n\n### 🌟正确答案解析\n**E. 多由浸润型肺结核形成急性空洞后经久不愈发展而来**  \n浸润型肺结核急性空洞若未及时治愈，洞壁<span style=\"color:var(--c-red)\">纤维组织增生</span>形成厚壁空洞，最终发展为慢性纤维空洞型肺结核。\n\n---\n\n### ⚠️错误选项排除\n1. **A. 结核空洞多位于肺下叶**  \n   ❌ 典型病灶位于<span style=\"color:var(--t-accent)\">肺尖/上叶尖后段</span>（高氧环境利于结核杆菌繁殖）  \n   \n2. **B. 病变局限，组织破坏不明显**  \n   ❌ 病理特征为<span style=\"color:var(--c-red)\">新旧病灶并存</span>，纤维化与空洞形成导致显著破坏  \n\n3. **C. 无肺功能受损害**  \n   ❌ 可引发<span style=\"color:var(--c-purple)\">肺纤维化、肺气肿、肺心病</span>，严重影响肺功能  \n\n4. **D. 少见的继发性肺结核类型**  \n   ❌ 实为<span style=\"color:var(--c-green)\">继发性肺结核晚期常见类型</span>\n\n---\n\n### 📚核心知识框架\n| 特征                | 内容                                                                 |\n|---------------------|----------------------------------------------------------------------|\n| **病理特点**        | 厚壁空洞（内层干酪样坏死，中层结核肉芽，外层纤维组织）             |\n| **影像学表现**      | ⚡胸片见<span style=\"color:var(--c-blue)\">蜂窝状透亮区</span>伴索条状纤维化阴影 |\n| **临床表现**        | 长期咳嗽、咳血、消瘦，易合并<span style=\"color:var(--c-red)\">曲菌球感染</span> |\n| **并发症**          | 大咯血、支气管扩张、肺心病                                           |\n| **治疗要点**        | 抗结核药物+必要时手术切除                                            |\n\n---\n\n### 🧠记忆技巧\n1. **病程联想**：  \n   💢浸润型肺结核 → 💥急性空洞 → 🕰️经久不愈 → 🧵纤维包裹 → 慢性纤维空洞  \n\n2. **解剖定位口诀**：  \n   \"上叶尖后空洞藏，纤维增生像蛛网\"  \n\n3. **三壁结构速记**：  \n   \"内干酪、中肉芽、外纤维\"（CT显示<span style=\"color:var(--c-blue)\">三层结构</span>有诊断价值）\n\n---\n\n> 📌 **考试注意**：遇到\"肺下叶空洞\"优先考虑<span style=\"color:var(--c-orange)\">**肺脓肿**</span>或<span style=\"color:var(--c-orange)\">**支气管扩张**</span>，而非肺结核！"
         },
         {
           "id": 127,
@@ -1653,7 +1748,8 @@
             "D、包裹坏死、炎性渗出物及其他异物",
             "E、能抗牵拉"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 肉芽组织核心知识点</span>\n\n⭐ <span style=\"color:var(--c-pink)\">【肉芽组织构成】</span>  \n由新生毛细血管（内皮细胞芽）、成纤维细胞、炎性细胞（巨噬细胞、中性粒细胞）组成，呈鲜红色颗粒状\n\n⚡ <span style=\"color:var(--t-accent)\">核心功能对比表</span>  \n| 肉芽组织功能 ✅ | 瘢痕组织功能 ✅ | 不是肉芽组织功能 ❌ |\n|----------------|----------------|------------------|\n| 抗感染保护创面 | 抗牵拉 <span style=\"color:var(--c-red)\">（本题答案E）</span> | 抗牵拉 |\n| 填补缺损       | 维持组织连续性 |                  |\n| 机化血栓/坏死 | 保持器官结构   |                  |\n| 包裹异物       |                |                  |\n\n🔍 <span style=\"color:var(--c-purple)\">选项解析</span>  \n**A. 抗感染**  \n✔️ 大量炎性细胞（如中性粒细胞）吞噬病原微生物  \n\n**B. 填补缺损**  \n✔️ 通过成纤维细胞增殖填补组织空缺  \n\n**C. 机化血栓**  \n✔️ 肉芽组织取代血栓的过程（血栓→肉芽→瘢痕）  \n\n**D. 包裹异物**  \n✔️ 形成纤维包裹将异物与健康组织隔离  \n\n**E. 抗牵拉**  \n❌ 胶原纤维排列致密的瘢痕组织才具有抗拉力特性  \n\n💡 <span style=\"color:var(--c-orange)\">记忆技巧</span>  \n**「三机一包抗感染」**  \n- 三机：机化血栓、机化坏死、机化渗出  \n- 一包：包裹异物  \n- 抗感染：炎细胞作用  \n\n⚠️ <span style=\"color:var(--c-red)\">易错提示</span>  \n肉芽组织是修复过程的<span style=\"color:var(--c-blue)\">动态阶段</span>，瘢痕组织是<span style=\"color:var(--c-blue)\">最终形态</span>，功能属性要严格区分！"
         },
         {
           "id": 128,
