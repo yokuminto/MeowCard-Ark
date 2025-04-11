@@ -279,7 +279,8 @@
             "D、肝细胞再生",
             "E、结缔组织增生"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "⭐<span style=\"color:var(--c-green);background-color:var(--bg-green)\">急性普通型肝炎病理特点重点解析</span>\n\n<h3 style=\"color:var(--t-accent)\">📌 核心病理改变（正确选项特征）</h3>\n<ol style=\"color:var(--t-dark)\">\n<li>🔍 <strong>气球样变（A选项）</strong><br>\n肝细胞肿胀如气球，胞质疏松呈网状（水样变性）</li>\n\n<li>⚠️ <strong>嗜酸性变（B选项）</strong><br>\n细胞脱水→胞质浓缩红染→可形成<em>\"嗜酸性小体\"</em></li>\n\n<li>💉 <strong>溶解坏死（C选项）</strong><br>\n点状/灶状坏死，肝细胞溶解消失（<span style=\"color:var(--c-red)\">病毒性肝炎特征性病变</span>）</li>\n\n<li>💊 <strong>肝细胞再生（D选项）</strong><br>\n坏死区周围出现双核/大核肝细胞（修复表现）</li>\n</ol>\n\n<h3 style=\"color:var(--c-red)\">❌ 错误选项解析（E选项）</h3>\n<blockquote style=\"background-color:var(--bg-red);padding:10px\">\n<strong>结缔组织增生</strong>是<span style=\"color:var(--c-purple)\">慢性肝炎/肝硬化</span>的特征，表现为：\n<ul>\n<li>纤维间隔形成</li>\n<li>假小叶结构</li>\n<li>门管区纤维化</li>\n</ul>\n<strong>急性期无持续性损伤→不会触发纤维修复</strong>\n</blockquote>\n\n<h3>📝 记忆技巧</h3>\n<div style=\"background-color:var(--bg-yellow);padding:10px\">\n💡 口诀：<br>\n<strong>\"气球吹破酸变死，再生修复不结缔\"</strong><br>\n（气球样变→嗜酸变→坏死→再生→无纤维化）\n</div>\n\n<h3>🔬 鉴别要点</h3>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<thead style=\"background-color:var(--bg-sky)\">\n<tr>\n<th style=\"border:1px solid #ddd;padding:8px;\">类型</th>\n<th style=\"border:1px solid #ddd;padding:8px;\">坏死类型</th>\n<th style=\"border:1px solid #ddd;padding:8px;\">纤维化</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border:1px solid #ddd;padding:8px;\">急性普通型</td>\n<td style=\"border:1px solid #ddd;padding:8px;color:var(--c-green)\">点状坏死</td>\n<td style=\"border:1px solid #ddd;padding:8px;color:var(--c-red)\">无</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd;padding:8px;\">慢性活动型</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">桥接坏死</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">++</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd;padding:8px;\">肝硬化</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">广泛坏死</td>\n<td style=\"border:1px solid #ddd;padding:8px;\">+++</td>\n</tr>\n</tbody>\n</table>\n\n<hr style=\"border-color:var(--t-light)\">\n\n⭐<strong>考试注意点：</strong>遇到\"纤维化/假小叶/结节形成\"等关键词→首先排除急性病变！"
         },
         {
           "id": 21,
@@ -292,7 +293,8 @@
             "D、假小叶大小相仿",
             "E、碎片状坏死"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 坏死后性肝硬变核心知识点</span>\n\n⭐ <span style=\"color:var(--t-accent)\">病变特点对比表</span>\n| 特征            | 坏死后性肝硬变                | 门脉性肝硬变          |\n|-----------------|------------------------------|---------------------|\n| 病因            | 亚急性肝坏死/重症肝炎         | 慢性酒精中毒/营养不良|\n| 假小叶形态      | <span style=\"color:var(--c-red)\">大小悬殊</span>（A正确） | 大小较均一（D错误） |\n| 纤维间隔        | <span style=\"color:var(--c-red)\">宽大</span>（B正确） | 纤细均匀          |\n| 炎症反应        | <span style=\"color:var(--c-red)\">明显</span>（C正确） | 较轻              |\n| 坏死类型        | <span style=\"color:var(--c-red)\">碎片状坏死</span>（E正确） | 桥接坏死          |\n\n🔍 <span style=\"color:var(--t-accent)\">选项解析</span>\n- D选项错误原因：<span style=\"color:var(--c-red)\">假小叶大小相仿是门脉性肝硬变的特征</span>\n- 其他选项均为坏死后性肝硬变的典型表现：\n  - A：<span style=\"color:var(--c-blue)\">假小叶大小不等</span>（因大片肝坏死导致再生结节大小差异大）\n  - B：<span style=\"color:var(--c-blue)\">宽大纤维间隔</span>（坏死区被宽大瘢痕组织分割）\n  - C：<span style=\"color:var(--c-blue)\">明显炎细胞浸润</span>（活动性炎症反应）\n  - E：<span style=\"color:var(--c-blue)\">碎片状坏死</span>（界板肝细胞坏死崩解）\n\n💡 <span style=\"color:var(--t-accent)\">记忆技巧</span>\n1. 口诀：<span style=\"color:var(--c-pink)\">\"大宽炎碎\"</span>\n   - 大：假小叶大小不等\n   - 宽：纤维间隔宽大\n   - 炎：炎细胞浸润明显\n   - 碎：碎片状坏死\n\n2. 对比记忆：\n   - 门脉性→<span style=\"color:var(--c-purple)\">\"小均轻\"</span>（假小叶小、均一，炎症轻）\n   - 坏死后性→<span style=\"color:var(--c-purple)\">\"大宽重\"</span>（假小叶大、宽间隔，病变重）\n\n⚠️ <span style=\"color:var(--t-accent)\">易错点提醒</span>\n- 注意区分<span style=\"color:var(--c-red)\">碎片状坏死（界板破坏）</span>与<span style=\"color:var(--c-blue)\">桥接坏死（中央静脉-门管区连接）</span>\n- 坏死后性肝硬变常由<span style=\"color:var(--c-green)\">亚急性重型肝炎</span>发展而来，病程进展快\n\n<details>\n<summary style=\"color:var(--c-sky)\">📌 扩展知识（点击展开）</summary>\n<p>\n\n🌐 <span style=\"color:var(--t-accent)\">病理生理联系</span>\n- 假小叶形成机制：<span style=\"color:var(--c-brown)\">肝细胞广泛坏死→网状支架塌陷→纤维组织增生→分割肝小叶</span>\n- 临床表现：<span style=\"color:var(--c-brown)\">门脉高压出现较晚但程度重，肝功能衰竭更早发生</span>\n\n🔬 <span style=\"color:var(--t-accent)\">镜下特征</span>\n- 可见<span style=\"color:var(--c-red)\">\"地图状\"坏死灶</span>\n- 肝细胞<span style=\"color:var(--c-red)\">结节状再生</span>与<span style=\"color:var(--c-blue)\">纤维瘢痕</span>交替分布\n</p>\n</details>"
         },
         {
           "id": 22,
@@ -305,7 +307,8 @@
             "D、慢性胸膜炎",
             "E、心肌梗死"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-pink);border-bottom:2px solid var(--c-pink)\">病理学重点解析：结缔组织玻璃样变鉴别</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<span style=\"color:var(--c-green)\">⭐ 核心概念：</span><br>\n结缔组织玻璃样变是<b>胶原纤维变性</b>，表现为均质红染物质沉积。常见于：\n<ul>\n<li>瘢痕组织</li>\n<li>动脉粥样硬化斑块</li>\n<li>慢性炎症纤维化区域（如尘肺、慢性胸膜炎）</li>\n</ul>\n</div>\n\n<h4 style=\"color:var(--c-blue)\">选项逐项解析：</h4>\n\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<tr style=\"background-color:var(--bg-sky)\">\n<th>选项</th>\n<th>病理机制</th>\n<th>与玻璃样变关系</th>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">A. 结核病干酪样坏死</span></td>\n<td>凝固性坏死伴周围纤维包裹</td>\n<td><span style=\"color:var(--c-green)\">纤维包膜可发生玻璃样变</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red);background-color:var(--bg-yellow)\">B. 纤维型星形胶质细胞瘤 ✅</span></td>\n<td>肿瘤细胞产生<b>GFAP阳性胶质纤维</b></td>\n<td><span style=\"color:var(--c-red)\">胶质纤维≠胶原纤维</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">C. 肺硅沉着病</span></td>\n<td>硅结节胶原纤维增生</td>\n<td><span style=\"color:var(--c-green)\">典型玻璃样变区域</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">D. 慢性胸膜炎</span></td>\n<td>胸膜纤维组织增生</td>\n<td><span style=\"color:var(--c-green)\">长期纤维化易玻璃样变</span></td>\n</tr>\n<tr>\n<td><span style=\"color:var(--c-red)\">E. 心肌梗死</span></td>\n<td>瘢痕组织修复</td>\n<td><span style=\"color:var(--c-green)\">陈旧瘢痕常见玻璃样变</span></td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-purple)\">💡 记忆技巧：</h4>\n<div style=\"background-color:var(--bg-purple);padding:1rem;border-radius:8px\">\n<ol>\n<li><b>\"胶质别搞错\"</b>：星形胶质细胞瘤→胶质纤维（GFAP）≠胶原纤维</li>\n<li><b>\"三纤维要分清\"</b>：\n<ul>\n<li>胶原纤维→结缔组织玻璃样变</li>\n<li>胶质纤维→神经系统病变</li>\n<li>网状纤维→网状组织增生</li>\n</ul>\n</li>\n</ol>\n</div>\n\n<h4 style=\"color:var(--c-orange)\">⚠️ 易错点提醒：</h4>\n<p>不要混淆<b>干酪样坏死</b>（凝固性坏死）与周围<b>纤维包膜玻璃样变</b>是两个不同过程！结核病灶周围纤维化区域仍可能发生玻璃样变。</p>"
         },
         {
           "id": 23,
@@ -318,7 +321,8 @@
             "D、是否存在淤血",
             "E、动脉阻塞程度不同"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">📚 坏死 vs 坏疽核心区别</span>\n\n⭐ <span style=\"color:var(--c-green)\">关键概念对比</span>\n1. <span style=\"color:var(--t-accent)\">坏死(Necrosis)</span>：活体内局部组织细胞的病理性死亡\n   - 可发生于任何缺氧组织\n   - 典型表现：核固缩/碎裂/溶解 + 胞质嗜酸性增强\n   - 常见类型：凝固性/液化性/脂肪性/纤维素样坏死\n\n2. <span style=\"color:var(--t-accent)\">坏疽(Gangrene)</span>：坏死组织继发腐败菌感染 ➡️ 特殊类型坏死\n   - 特征性改变：硫铁化合物形成 → 黑色外观 + 恶臭\n   - 分型：\n     ▫️干性：四肢末端（动脉阻塞+静脉通畅）\n     ▫️湿性：内脏器官（动静脉同时阻塞）\n     ▫️气性：产气荚膜杆菌感染 → 蜂窝状外观\n\n💡 <span style=\"color:var(--c-yellow)\">选项解析技巧</span>\n| 错误选项 | 排除理由 |\n|---------|----------|\n| A.部位不同 | 坏死可发生于任何部位，坏疽也有多种发生部位 |\n| B.原因不同 | 根本区别在于是否感染，而非原发原因 |\n| D.存在淤血 | 淤血是坏死的促进因素，非鉴别关键 |\n| E.动脉阻塞 | 是坏疽的诱因，但并非定义性区别 |\n\n🔍 <span style=\"color:var(--c-sky)\">快速记忆法</span>\n\"<span style=\"color:var(--c-red)\">菌</span>定乾坤\"口诀：  \n疽字带<span style=\"color:var(--c-red)\">疒</span>（病字头）→ 提示必有<span style=\"color:var(--c-red)\">细菌感染</span>  \n坏死无此特征 → 单纯细胞死亡\n\n⚡ <span style=\"color:var(--c-purple)\">考试注意点</span>\n当题干出现以下关键词时优先选C选项：\n- \"黑色/恶臭\" → 腐败菌感染征象  \n- \"气性坏疽\" → 专指产气荚膜杆菌感染病例  \n- \"继发感染\" → 坏死发展为坏疽的关键步骤"
         },
         {
           "id": 24,
@@ -331,7 +335,8 @@
             "D、肝细胞水肿",
             "E、肝细胞玻璃样变性"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 正确答案解析：B选项正确！</span>\n\n---\n\n### 🌸 核心知识点整理\n#### 1. 病变特征对比表\n| 选项 | 病理特征 | 相关疾病 | 诊断意义 |\n|------|----------|----------|----------|\n| **B** | **胞质疏松化+气球样变**<br>（细胞肿胀如气球，胞质网状疏松） | **急性病毒性肝炎** | **诊断金标准** ⭐ |\n| A | 肝细胞脂肪变性<br>（脂滴蓄积） | 酒精肝/脂肪肝 | ✖️非特异性 |\n| C | 嗜酸性坏死<br>（Councilman小体） | 各型肝炎可见 | ✔️伴随病变 |\n| D | 肝细胞水肿<br>（早期细胞肿胀） | 多种肝损伤 | ✖️基础改变 |\n| E | 玻璃样变性<br>（均质红染物质） | 酒精肝/慢性肝炎 | ✖️特异性低 |\n\n---\n\n#### 2. 病变演进过程\n**水样变性 → 胞质疏松化 → 气球样变**  \n（病毒直接损伤→细胞骨架破坏→细胞极度肿胀）\n\n---\n\n#### 3. 鉴别诊断关键\n- 💊 **酒精性肝病**：Mallory小体（E选项混淆点）  \n- ⚠️ **急性重型肝炎**：大块坏死而非气球样变  \n- 🔍 **脂肪肝**：油红O染色阳性（A选项干扰项）\n\n---\n\n### 🌸 记忆秘籍\n**\"病毒吹气球\"**  \n→ 病毒攻击使肝细胞像气球一样膨胀（气球样变）  \n**\"疏松网格要记牢\"**  \n→ 胞质疏松化呈现网状结构是特征性改变\n\n---\n\n<details style=\"border:2px solid var(--c-pink);padding:10px;border-radius:5px;\">\n<summary><span style=\"color:var(--c-pink)\">💡 爱莉的病理小剧场</span></summary>\n\n想象肝细胞像可爱的粉色团子🍡，病毒入侵后：  \n1. **水浸润**：团子吸水变大（水肿）  \n2. **撑破外衣**：表面出现裂纹（胞质疏松化）  \n3. **变成气球**：完全膨胀成透明气球🎈（气球样变）  \n这时候病理医生在显微镜下大喊：\"抓住这个膨胀的粉气球，就是病毒性肝炎！\"\n</details>"
         },
         {
           "id": 25,
@@ -344,7 +349,8 @@
             "D、液化性坏死",
             "E、气性坏疽"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<h3 style=\"color:var(--c-green); border-bottom:2px solid var(--c-green)\">腹股沟疝嵌顿后坏疽类型解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:15px;border-radius:8px\">\n<span style=\"color:var(--c-green)\">⭐核心知识点：</span><br>\n<b>正确答案：B、湿性坏疽</b>\n</div>\n\n<h4 style=\"color:var(--c-purple)\">📚 病理机制详解</h4>\n<ol>\n<li><span style=\"color:var(--c-red)\">嵌顿疝特点</span>：疝内容物（多为小肠）被疝环卡压，<strong>静脉回流最先受阻</strong> → 肠壁充血水肿 → 后续<strong>动脉供血中断</strong></li>\n<li><span style=\"color:var(--c-red)\">坏死发展</span>：\n  <ul>\n    <li>缺血缺氧导致肠壁细胞死亡</li>\n    <li>肠道内<strong>大肠杆菌等腐败菌侵入</strong></li>\n    <li>坏死组织<strong>含大量液体</strong>（肠道内容物+炎性渗出）</li>\n  </ul>\n</li>\n</ol>\n\n<h4 style=\"color:var(--c-purple)\">🩺 坏疽类型对比表</h4>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr style=\"background-color:var(--bg-sky)\">\n  <th>类型</th><th>发生部位</th><th>特征</th><th>常见原因</th>\n</tr>\n<tr>\n  <td><span style=\"color:var(--c-red)\">湿性坏疽</span></td>\n  <td>肠管、胆囊、子宫</td>\n  <td>湿润肿胀、恶臭、蓝绿色改变</td>\n  <td>动静脉同时阻塞+腐败菌感染</td>\n</tr>\n<tr>\n  <td>干性坏疽</td>\n  <td>四肢末端</td>\n  <td>干燥皱缩、黑色分界线</td>\n  <td>动脉阻塞而静脉通畅</td>\n</tr>\n<tr>\n  <td>气性坏疽</td>\n  <td>深部肌肉创伤</td>\n  <td>蜂窝状、捻发音、进展极快</td>\n  <td>产气荚膜杆菌感染</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-purple)\">💡 记忆技巧</h4>\n<ul>\n<li><strong>口诀</strong>：\"<span style=\"color:var(--c-pink)\">湿肠干肢气创伤</span>\" → 湿性坏疽在肠道，干性在肢体，气性在创伤部位</li>\n<li><strong>联想</strong>：嵌顿就像用橡皮筋勒住手指，先静脉淤血（发紫），后动脉缺血（坏死）→ 符合湿性坏疽发展过程</li>\n</ul>\n\n<h4 style=\"color:var(--c-purple)\">⚠️ 易错点提醒</h4>\n<ul>\n<li>不要混淆<strong>凝固性坏死</strong>（心、肾、脾梗死）和<strong>液化性坏死</strong>（脑组织、脓肿）</li>\n<li>气性坏疽必须存在<strong>深部开放性创伤</strong>+<strong>产气菌感染</strong>，疝嵌顿无此条件</li>\n</ul>\n\n<blockquote style=\"border-left:3px solid var(--c-green);padding-left:10px;color:var(--t-medium)\">\n<strong>临床联系：</strong>嵌顿疝超过3-6小时未解除可能发生肠坏死，需急诊手术！术中可见疝囊内肠管呈暗红色、有恶臭渗出物，即为湿性坏疽典型表现。\n</blockquote>"
         },
         {
           "id": 26,
@@ -357,7 +363,8 @@
             "D、慢性增殖性炎的扁桃体",
             "E、垂体腺瘤患者的肾上腺"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "✨<span style=\"color:var(--c-green);background-color:var(--bg-green)\">生理性肥大核心考点</span>✨\n\n---\n\n### 🌟正确选项分析\n**B、运动员的有关肌肉肥大**  \n<span style=\"color:var(--t-accent)\">生理性肥大</span>指细胞体积增大（非数量增加），由正常生理需求引起，如<span style=\"color:var(--c-yellow)\">运动训练</span>使肌纤维增粗。  \n⚠️ **关键点**：无疾病参与，代偿性适应。\n\n---\n\n### 🚩错误选项解析\n1. **A. 功能亢进的甲状腺**  \n   ⚠️ 甲状腺素过量分泌（如甲亢）→ <span style=\"color:var(--c-red)\">病理性增生+肥大</span>，因激素异常刺激导致。\n\n2. **C. 高血压患者的心脏**  \n   ⚠️ 左心室<span style=\"color:var(--c-red)\">向心性肥厚</span> → 长期压力超负荷（病理代偿）。\n\n3. **D. 慢性增殖性炎的扁桃体**  \n   ⚠️ 炎症反复刺激 → <span style=\"color:var(--c-red)\">淋巴细胞增生+纤维化</span>，属病理性。\n\n4. **E. 垂体腺瘤患者的肾上腺**  \n   ⚠️ ACTH过度分泌 → <span style=\"color:var(--c-red)\">肾上腺皮质增生</span>（如库欣病），肿瘤引发内分泌紊乱。\n\n---\n\n### 📚概念对比表\n| **类型**       | 生理性肥大                | 病理性肥大                    |\n|----------------|---------------------------|-------------------------------|\n| **诱因**       | 正常需求（如运动）        | 疾病（高血压、肿瘤、炎症）    |\n| **细胞变化**   | 体积增大                  | 体积增大 ± 数量增加           |\n| **可逆性**     | 可逆（停止刺激后恢复）    | 不可逆（除非病因消除）        |\n| **举例**       | 运动员骨骼肌、妊娠子宫    | 甲亢甲状腺、肝硬化肝细胞      |\n\n---\n\n### 🧠记忆口诀\n**\"健康练肌别有病，甲亢高压肿瘤炎\"**  \n✅ **健康练肌**：运动员肌肉（生理性）  \n❗ **有病四类**：  \n- 甲亢（A选项）  \n- 高血压心脏（C选项）  \n- 肿瘤（E选项垂体瘤）  \n- 炎症（D选项扁桃体炎）  \n\n---\n\n### 🔍拓展考点\n1. **肥大 vs 增生**  \n   - 肥大：细胞体积↑（心肌、骨骼肌）  \n   - 增生：细胞数量↑（子宫内膜、肝再生）  \n   - 两者常共存（如前列腺增生肥大）  \n\n2. **代偿性肥大**  \n   - 一肾切除后对侧肾肥大 → <span style=\"color:var(--c-blue)\">生理性代偿</span>  \n   - 肝硬化后肝细胞结节再生 → <span style=\"color:var(--c-red)\">病理性代偿</span>  \n\n--- \n\n⭐掌握核心区别：**是否存在疾病背景**！"
         },
         {
           "id": 27,
@@ -370,7 +377,8 @@
             "D、坏死灶及周围有炎细胞浸润",
             "E、肝细胞再生结节形成"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "✨**急性重型肝炎病理特点解析**✨\n\n---\n\n### **正确答案分析**\n<span style=\"color:var(--c-red)\">错误选项：E（肝细胞再生结节形成）</span>  \n<span style=\"color:var(--c-green)\">正确机制：</span>  \n急性重型肝炎病程短（2周内），**肝细胞再生时间不足**，无法形成再生结节。再生结节是**亚急性重型肝炎/慢性肝病（如肝硬化）**的典型表现！\n\n---\n\n### **各选项详解**\n| 选项 | 解析 | 病理关联 |\n|------|------|----------|\n| **A** 肝细胞大片坏死 | ⭐**核心特征**<br>广泛肝细胞溶解坏死（尤其中央静脉周围→桥接坏死） | 肉眼观：肝脏缩小、质软（“急性黄色肝萎缩”） |\n| **B** 肝窦扩张充血 | ⚠️坏死区周围血管反应性充血 | 镜下可见肝窦内红细胞淤积 |\n| **C** 网状支架塌陷 | 💉肝细胞坏死→支架失去支撑→塌陷（银染可见） | 标志不可逆损伤 |\n| **D** 炎细胞浸润 | 🔍**以淋巴细胞为主**，少量中性粒细胞 | 免疫系统清除坏死组织 |\n| **E** 再生结节形成 | ❌错误！<br>再生需时间，**仅见于亚急性/慢性阶段** | 亚急性期：坏死+再生+纤维化 |\n\n---\n\n### **记忆技巧**\n1️⃣ **“急性三无”口诀**：  \n无再生（结节）、无纤维化、无假小叶  \n（区别于慢性肝炎/肝硬化）  \n\n2️⃣ **病程对比**：  \n• **急性**：<span style=\"color:var(--c-red)\">快速坏死</span>（周级）  \n• **亚急性**：坏死+再生（月级→结节形成）  \n• **慢性**：纤维化+假小叶（年级）\n\n---\n\n### **病理影像联想**\nCT/MRI表现：  \n<span style=\"background-color:var(--bg-yellow)\">肝脏体积缩小</span> + <span style=\"background-color:var(--bg-red)\">密度不均（坏死区低密度）</span>  \n（注意与肝硬化再生结节的高密度/信号区分）\n\n---\n\n📌**考试陷阱提示**：再生结节是亚急性重型肝炎的考点，急性病例若出现再生描述→必错！"
         },
         {
           "id": 28,
@@ -383,7 +391,8 @@
             "D、心、肺、脾、视网膜等处的细动脉",
             "E、肾、脑、脾、视网膜等处的细动脉"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐细动脉透明变性核心知识点</span>\n\n---\n\n### **基本概念**\n⚡又称**玻璃样变性**，是血管壁结构破坏后血浆蛋白渗入内膜沉积的过程  \n⚡特征：<span style=\"color:var(--c-red)\">血管壁增厚、均质红染</span>，管腔狭窄→组织缺血  \n⚡高危因素：<span style=\"color:var(--t-accent)\">高血压</span>（最常见）、糖尿病、老龄化\n\n---\n\n### **靶器官分布**\n⚠️<span style=\"color:var(--c-green)\">正确答案：A（肾、心、脾、视网膜)</span>\n\n**典型受累部位解析**：  \n| 器官 | 病理特征 | 临床意义 |\n|------|---------|---------|\n| 肾   | 入球小动脉硬化 → 肾小球缺血 | 高血压肾病 |\n| 心   | 冠状动脉细小分支病变 → 心肌纤维化 | 心力衰竭 |\n| 脾   | 脾中央动脉硬化 → 脾实质萎缩 | 脾功能减退 |\n| 视网膜 | 眼底出血/渗出 → 视力损害 | 高血压视网膜病变 |\n\n**错误选项鉴别**：  \n- B选项错误点：<span style=\"color:var(--c-red)\">肺、胰、肠系膜</span>动脉极少发生透明变性  \n- C/D/E错误点：<span style=\"color:var(--c-red)\">肝、脑</span>主要病变类型不同（如脑出血为纤维素样坏死）\n\n---\n\n### **记忆技巧**\n🔍口诀：<span style=\"color:var(--c-pink)\">\"看心眼脾肾\"</span>（谐音：心眼脾肾→心、视网膜、脾、肾）  \n🔍联想：高血压四大靶器官 → \"心、脑、肾、眼\" → 其中<span style=\"color:var(--c-green)\">脾</span>替代脑（脑更常见纤维素样坏死）\n\n---\n\n### **病理机制图示**\n```text\n高血压 → 血管内皮损伤 → 血浆蛋白渗入内膜 → 平滑肌细胞萎缩  \n→ 胶原沉积 → 管壁玻璃样变 → 管腔狭窄 → 器官缺血\n```\n\n---\n\n💡**考试重点提示**：  \n1. 与<span style=\"color:var(--c-red)\">恶性高血压</span>的纤维素样坏死区分（后者累及肾、脑）  \n2. 糖尿病微血管病变特征（基底膜增厚）与此不同  \n3. 脾脏中央动脉病变是<span style=\"color:var(--t-accent)\">良性高血压</span>特征性改变"
         },
         {
           "id": 29,
@@ -396,7 +405,8 @@
             "D、以汇管区渗出为主的炎症",
             "E、以汇管区增生为主的炎症"
           ],
-          "answer": "B"
+          "answer": "B",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 知识点详解</span>\n\n<h3 style=\"color:var(--t-accent)\">⭐ 核心概念</h3>\n急性重型肝炎又称暴发性肝炎，主要特征是<span style=\"color:var(--c-red)\">肝细胞大面积坏死</span>（大块或亚大块坏死），导致肝小叶结构破坏，肝脏体积缩小（<span style=\"color:var(--c-yellow)\">急性黄色/红色肝萎缩</span>）。\n\n<h3 style=\"color:var(--t-accent)\">🔍 病变性质对比表</h3>\n\n| 类型           | 主要病变             | 病理特征                    |\n|----------------|----------------------|---------------------------|\n| 急性普通型肝炎 | 肝细胞变性（气球样变） | 点状坏死，嗜酸性小体        |\n| **急性重型肝炎** | **肝细胞坏死**       | 大块坏死，网状支架塌陷      |\n| 慢性肝炎       | 坏死+纤维化          | 碎片状坏死，桥接坏死        |\n\n<h3 style=\"color:var(--t-accent)\">⚠️ 鉴别要点</h3>\n - **选项B正确**：肝细胞坏死是核心病变（<span style=\"color:var(--c-red)\">坏死面积>2/3肝实质</span>）\n - **排除其他选项**：\n - A：变性为主见于普通型\n - C/D/E：增生/渗出多出现在慢性肝炎或胆道疾病\n\n<h3 style=\"color:var(--t-accent)\">💡 记忆口诀</h3>\n<blockquote style=\"background-color:var(--bg-yellow);padding:10px\">\n\"<span style=\"color:var(--c-brown)\">重型坏死快准狠，肝萎支架全塌沉；</span><br>\n<span style=\"color:var(--c-brown)\">普通气球点状变，慢性碎桥纤维深。</span>\"\n</blockquote>\n\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📌 临床联系</span>\n患者可出现：<span style=\"color:var(--c-purple)\">肝性脑病</span>、<span style=\"color:var(--c-purple)\">凝血障碍</span>（凝血酶原时间延长）、<span style=\"color:var(--c-purple)\">肝肾综合征</span>，死亡率高达60-90%。"
         },
         {
           "id": 30,
@@ -422,7 +432,8 @@
             "D、浆液腺发生黏液化而分泌大量黏液",
             "E、支气管黏膜上皮中的杯状细胞分泌黏液"
           ],
-          "answer": "A"
+          "answer": "A",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心概念</span>  \n**黏液变性**是指<span style=\"color:var(--t-accent)\">组织间质内出现大量类黏液</span>，属于间质性变性。类黏液由黏多糖（如透明质酸）与蛋白质组成，常见于动脉粥样硬化、间叶组织肿瘤等病理状态。\n\n---\n\n### <span style=\"color:var(--c-pink)\">📚 选项解析</span>\n| 选项 | 正误 | 解析 |\n|------|------|------|\n| **A** | ✅ 正确 | 间质内类黏液积聚，本质为<span style=\"color:var(--c-red)\">间质变性</span> |\n| B | ❌ 错误 | 黏液腺分泌过多（如支气管炎）属于<span style=\"color:var(--t-medium)\">分泌功能亢进</span>，非变性 |\n| C | ❌ 错误 | 印戒细胞癌的黏液位于<span style=\"color:var(--t-medium)\">细胞内</span>，属于细胞变性（黏液样变） |\n| D | ❌ 错误 | 浆液腺转黏液腺为<span style=\"color:var(--t-medium)\">化生</span>（类型转换） |\n| E | ❌ 错误 | 杯状细胞分泌黏液是<span style=\"color:var(--t-medium)\">正常生理功能</span> |\n\n---\n\n### <span style=\"color:var(--c-purple)\">🔍 鉴别要点</span>\n1. **黏液变性 vs 黏液水肿**  \n   🔹 黏液变性：类黏液在间质沉积（如纤维组织、脂肪组织）  \n   🔹 黏液水肿：甲状腺功能减退导致<span style=\"color:var(--t-accent)\">真皮内黏多糖沉积</span>\n\n2. **细胞内 vs 细胞外黏液**  \n   🔸 细胞内黏液：印戒细胞癌、黏液腺癌（选项C）  \n   🔸 细胞外黏液：黏液变性（选项A）\n\n---\n\n### <span style=\"color:var(--c-yellow)\">🧠 记忆技巧</span>\n**口诀**：<span style=\"color:var(--c-green)\">\"间质堆黏液，变性不化生\"</span>  \n**联想**：想象<span style=\"color:var(--c-blue)\">细胞外的黏液像果冻一样填满组织间隙</span>（间质），而非腺体分泌或细胞内的变化。"
         },
         {
           "id": 32,
