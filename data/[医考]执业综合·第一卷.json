@@ -5332,7 +5332,8 @@
             "D 心肌细胞空泡变性",
             "E 心肌组织凝固性坏死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<h3 style=\"color:var(--c-green)\">心肌脂肪变性病理改变解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<strong>⭐ 核心知识点：</strong>\n心肌脂肪变性是<span style=\"color:var(--c-red)\">中性脂肪异常蓄积在心肌细胞内</span>，常见于严重贫血/缺氧/中毒等情况。肉眼观特征为<span style=\"color:var(--t-accent)\">红黄相间条纹（虎斑心）</span>，镜下可见心肌细胞质内脂滴空泡。\n</div>\n\n<h4 style=\"color:var(--c-purple)\">选项逐项解析：</h4>\n<table>\n  <tr style=\"background-color:var(--bg-gray)\">\n    <th>选项</th>\n    <th>病理特征</th>\n    <th>关联疾病/机制</th>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-red)\">A</span></td>\n    <td>间质淋巴细胞浸润</td>\n    <td>⚠️ 心肌炎（如病毒性）</td>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-red)\">B</span></td>\n    <td>脂肪组织浸润</td>\n    <td>❌ 脂肪细胞侵入间质（非细胞内）</td>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-green)\">C</span></td>\n    <td>红黄相间条纹</td>\n    <td>✅ 虎斑心典型表现</td>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-red)\">D</span></td>\n    <td>空泡变性</td>\n    <td>💧 可能为水肿/其他变性</td>\n  </tr>\n  <tr>\n    <td><span style=\"color:var(--c-red)\">E</span></td>\n    <td>凝固性坏死</td>\n    <td>🫀 心肌梗死特征</td>\n  </tr>\n</table>\n\n<h4 style=\"color:var(--c-blue)\">记忆技巧：</h4>\n<div style=\"background-color:var(--bg-yellow);padding:1rem\">\n🔍 <strong>虎斑联想记忆法：</strong><br>\n想象心肌表面像<span style=\"color:var(--c-red)\">老虎皮毛</span>的斑纹，红色（正常心肌）与黄色（脂肪沉积）交替分布 → 对应选项C<br>\n⚠️ 注意区分：<br>\n• 脂肪变性（<span style=\"color:var(--c-green)\">细胞内</span>脂滴） vs 脂肪浸润（<span style=\"color:var(--c-red)\">间质</span>脂肪堆积）\n</div>"
         },
         {
           "id": 1400,
