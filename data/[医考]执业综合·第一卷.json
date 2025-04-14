@@ -25671,7 +25671,8 @@
             "D 细胞间质的变化",
             "E 细胞质的改变"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 核心知识点</span>  \n⭐ <span style=\"color:var(--t-accent)\">细胞坏死形态学标志：细胞核变化</span>  \n⚠️ 三个阶段特征：  \n1. <span style=\"color:var(--c-red)\">核浓缩（pyknosis）</span>：核体积缩小，染色质浓缩成深染团块  \n2. <span style=\"color:var(--c-red)\">核碎裂（karyorrhexis）</span>：核膜破裂，染色质裂解成碎片  \n3. <span style=\"color:var(--c-red)\">核溶解（karyolysis）</span>：DNA酶分解染色质，核完全消失  \n\n<hr style=\"border-color:var(--c-gray)\">\n\n🔍 <span style=\"color:var(--c-blue)\">选项解析</span>  \n<span style=\"color:var(--c-green)\">✓ C正确</span>：核变化是判定细胞不可逆损伤的<span style=\"color:var(--t-accent)\">金标准</span>  \n<span style=\"color:var(--c-red)\">✕ A/B/D/E错误</span>：  \n- 极性消失（A）→ 细胞骨架破坏的继发表现  \n- 颗粒物质（B）→ 细胞质崩解的产物（无特异性）  \n- 间质改变（D）→ 胶原纤维肿胀、液化  \n- 胞质改变（E）→ 早期即可出现（如嗜酸性增强）  \n\n<hr style=\"border-color:var(--c-gray)\">\n\n💡 <span style=\"color:var(--c-purple)\">记忆技巧</span>  \n1. 口诀：<span style=\"color:var(--c-yellow)\">\"浓缩碎裂溶解光，核变三步判死亡\"</span>  \n2. 图像联想：想象<span style=\"color:var(--c-pink)\">核像冰块融化</span>（浓缩→碎裂→溶解）的过程  \n3. 对比记忆：<span style=\"color:var(--c-cyan)\">凋亡核改变</span>是染色质边缘化形成新月体，膜完整  \n\n<hr style=\"border-color:var(--c-gray)\">  \n\n⚠️ <span style=\"color:var(--c-orange)\">考试注意</span>  \n• 注意题干中的<span style=\"color:var(--t-accent)\">\"主要\"</span>限定词，其他选项可能属于次要改变  \n• MRI影像学中，坏死灶T1WI低信号，T2WI高信号（结合影像学特征题可能联动考察）"
         },
         {
           "id": 400,
@@ -27003,7 +27004,8 @@
             "D 肺泡活性物质合成和分泌减少",
             "E 小动脉壁纤维蛋白样坏死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": ""
         },
         {
           "id": 500,
@@ -28335,7 +28337,8 @@
             "D 心、肝、肾",
             "E 脑、肠、肺"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐ 核心答案：D 心、肝、肾</span>\n\n---\n\n### 📚 重点知识解析\n1. **细胞肿胀定义**  \n   <span style=\"color:var(--t-accent)\">可逆性损伤</span>，因缺氧/中毒/感染导致<span style=\"color:var(--c-red)\">线粒体损伤→ATP↓→钠泵功能障碍</span>，细胞内钠水潴留。\n\n2. **好发器官机制**  \n   - **心**：高耗氧，线粒体丰富，缺氧时ATP骤降  \n   - **肝**：代谢活跃，解毒过程易受毒素损伤线粒体  \n   - **肾**：近曲小管重吸收依赖钠泵，ATP不足时肿胀显著  \n\n3. **病理特征**  \n   - 器官体积增大、包膜紧张、切面隆起  \n   - 光镜：细胞质内红染颗粒（肿胀线粒体/内质网）\n\n---\n\n### ❌ 错误选项排除\n| 选项 | 错误点 |\n|------|--------|\n| A 心、肺、肾 | 肺以<span style=\"color:var(--c-purple)\">肺泡壁损伤</span>为主，非典型细胞肿胀 |\n| B 心、脑、肾 | 脑水肿多为<span style=\"color:var(--c-purple)\">血管源性/细胞毒性</span>，机制不同 |\n| C 胰、脾、肾 | 胰以<span style=\"color:var(--c-purple)\">酶原颗粒激活</span>导致自溶为主 |\n| E 脑、肠、肺 | 肠黏膜上皮更易发生<span style=\"color:var(--c-purple)\">坏死</span>而非单纯肿胀 |\n\n---\n\n### 🧠 记忆技巧\n1. **联想法**：  \n   \"<span style=\"color:var(--c-pink)\">心肝宝贝肾重要</span>\" → 心、肝、肾需大量ATP，易受损肿胀  \n   \n2. **对比记忆**：  \n   | 器官 | 关键功能 | 损伤敏感点 |  \n   |------|----------|------------|  \n   | 心   | 持续收缩 | 缺氧敏感   |  \n   | 肝   | 解毒代谢 | 毒素攻击   |  \n   | 肾   | 重吸收   | 钠泵依赖   |  \n\n---\n\n### 💡 关联考点\n- **可逆性损伤**：脂肪变、玻璃样变  \n- **不可逆损伤**：坏死类型（凝固性/液化性/纤维素样）  \n- **脑水肿**：血管源性（血脑屏障破坏） vs 细胞毒性（ATP耗竭）"
         },
         {
           "id": 600,
