@@ -29671,7 +29671,7 @@
             "E 葡萄球菌感染"
           ],
           "answer": "B",
-          "notes": ""
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚 核心知识点：嗜酸性粒细胞增多机制 ⭐</span>\n\n---\n\n<h3 style=\"color:var(--c-pink)\">🔍 选项解析</h3>\n<ol>\n<li><span style=\"color:var(--c-red)\">A 伤寒杆菌感染</span>：<br>\n伤寒特征为<span style=\"color:var(--t-accent)\">白细胞减少</span>（尤其中性粒细胞），与嗜酸无关</li>\n\n<li><span style=\"color:var(--c-green)\">✅ B 变态反应或寄生虫感染</span>：<br>\n<strong>变态反应</strong>：IgE激活肥大细胞→释放<span style=\"color:var(--t-accent)\">嗜酸趋化因子</span><br>\n<strong>寄生虫感染</strong>：嗜酸颗粒含<span style=\"color:var(--t-accent)\">主要碱性蛋白</span>，直接杀伤寄生虫</li>\n\n<li><span style=\"color:var(--c-red)\">C 乙脑病毒感染</span>：<br>\n病毒性疾病→<span style=\"color:var(--t-accent)\">淋巴细胞↑</span>为主</li>\n\n<li><span style=\"color:var(--c-red)\">D/E 细菌感染</span>：<br>\n链球菌/葡萄球菌→典型<span style=\"color:var(--t-accent)\">中性粒细胞↑</span></li>\n</ol>\n\n---\n\n<h3 style=\"color:var(--c-purple)\">💡 记忆技巧</h3>\n<div style=\"background-color:var(--bg-yellow);padding:10px\">\n<p>🎯 <strong>口诀记忆法</strong>：<br>\n<span style=\"color:var(--c-green)\">\"酸酸过敏虫\"</span><br>\n→ 嗜酸（酸酸）对应过敏反应（过敏）和寄生虫（虫）</p>\n\n<p>🔗 <strong>对比记忆</strong>：<br>\n细菌感染→中性粒冲锋（中性粒↑）<br>\n病毒感染→淋巴细胞值守（淋巴↑）<br>\n伤寒特殊→全军撤退（白细胞↓）</p>\n</div>\n\n---\n\n<h3 style=\"color:var(--c-sky)\">⚠️ 易混淆点突破</h3>\n<table>\n<tr><th>疾病类型</th><th>关键细胞变化</th><th>机制</th></tr>\n<tr><td>过敏/寄生虫</td><td>嗜酸性粒细胞↑↑</td><td>趋化因子吸引+直接杀伤</td></tr>\n<tr><td>化脓菌感染</td><td>中性粒细胞↑↑</td><td>吞噬作用为主</td></tr>\n<tr><td>病毒感染</td><td>淋巴细胞↑</td><td>特异性免疫激活</td></tr>\n<tr><td>伤寒</td><td>白细胞↓↓</td><td>骨髓抑制+细胞破坏</td></tr>\n</table>\n\n---\n\n<span style=\"color:var(--c-orange)\">✨ 临床联系：</span>  \n寄生虫病诊断时，除血涂片查虫卵外，<span style=\"color:var(--t-accent)\">外周血嗜酸计数</span>是重要筛查指标！"
         },
         {
           "id": 700,
@@ -31004,7 +31004,7 @@
             "E 肾髓质区"
           ],
           "answer": "B",
-          "notes": ""
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⭐碎片状坏死核心知识点</span>\n\n<h3 style=\"color:var(--c-red)\">1. 定义与病理特征</h3>\n碎片状坏死（Piecemeal necrosis）是<span style=\"color:var(--t-accent)\">慢性活动性肝炎</span>的特征性病变，表现为：\n- 肝小叶<span style=\"color:var(--c-pink)\">周边界板区</span>肝细胞坏死\n- 淋巴细胞/浆细胞浸润\n- 界板结构破坏呈\"虫蚀样\"改变\n\n<h3 style=\"color:var(--c-red)\">2. 肝小叶解剖定位</h3>\n<table>\n<tr><th>区域</th><th>结构特征</th><th>相关病变</th></tr>\n<tr><td>中央静脉（A）</td><td>肝小叶中心</td><td>中央性坏死（如心衰时）</td></tr>\n<tr><td>界板区（B）</td><td>门管区周围</td><td>碎片状坏死⭐</td></tr>\n<tr><td>中间区（C）</td><td>中央与门管区之间</td><td>桥接坏死</td></tr>\n</table>\n\n<h3 style=\"color:var(--c-red)\">3. 鉴别诊断要点</h3>\n- <span style=\"color:var(--c-yellow)\">⚠️桥接坏死</span>：连接中央静脉与门管区的大片坏死\n- <span style=\"color:var(--c-yellow)\">⚠️点状坏死</span>：单个/小簇肝细胞坏死（急性肝炎）\n\n<h3 style=\"color:var(--c-red)\">4. 记忆技巧</h3>\n<pre style=\"background-color:var(--bg-purple);padding:10px\">\n💡口诀：<span style=\"color:var(--c-cyan)\">\"碎片边缘拼，界板慢性炎\"</span>\n解析：\n1. \"边缘\" → 肝小叶周边界板区\n2. \"慢性炎\" → 慢性活动性肝炎\n3. \"拼\" → 坏死区如拼图碎片状分布\n</pre>\n\n<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🔍临床联系：</span>发现碎片状坏死提示疾病进展风险，需警惕肝硬化发展！"
         },
         {
           "id": 800,
