@@ -24338,7 +24338,8 @@
             "D 免疫反应所致的纤维蛋白样坏死",
             "E 结核病所致的干酪样坏死"
           ],
-          "answer": "E"
+          "answer": "E",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨重点知识✨</span>\n\n1. **干酪样坏死特征**  \n   - **肉眼观**：<span style=\"color:var(--c-red)\">黄白色/微黄色</span>，<span style=\"color:var(--c-red)\">细腻松软</span>（奶酪样）  \n   - **镜下观**：<span style=\"color:var(--c-red)\">无结构颗粒状红染物</span>  \n   - **关联疾病**：<span style=\"color:var(--t-accent)\">结核病</span>（特征性病理改变）⭐  \n\n2. **其他坏死类型对比**  \n   | 坏死类型          | 颜色/质地                | 典型疾病/机制          |  \n   |-------------------|--------------------------|------------------------|  \n   | 脂肪坏死（A）     | 白色斑块，质硬，钙化     | 胰腺炎（胰酶外溢）💊   |  \n   | 液化性坏死（B）   | 黄色脓液，液态           | 脓肿（化脓菌感染）💉    |  \n   | 凝固性坏死（C）   | 灰白干燥，保持结构       | 心/肾/脾梗死（缺血）⚠️ |  \n   | 纤维蛋白样坏死（D）| 红染颗粒状，血管壁沉积   | 风湿病/恶性高血压🔍    |  \n\n---\n\n<span style=\"color:var(--c-pink);background-color:var(--bg-pink)\">💡记忆技巧💡</span>  \n**口诀**：  \n\"<span style=\"color:var(--c-purple)\">干酪黄白像奶酪，结核病灶跑不了</span>\"  \n→ 通过颜色（黄白）和质地（细腻如奶酪）直接关联结核病的干酪样坏死。\n\n---\n\n<span style=\"color:var(--c-sky);background-color:var(--bg-sky)\">📚鉴别诊断要点📚</span>  \n- **干酪样坏死 vs 脂肪坏死**：  \n  - 干酪样坏死：无钙化，松软易碎  \n  - 脂肪坏死：钙化常见，质硬斑块  \n- **干酪样坏死 vs 纤维蛋白样坏死**：  \n  - 干酪样坏死：黄白色，无血管壁沉积  \n  - 纤维蛋白样坏死：红染，累及血管壁  \n\n---\n\n<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">✅答题关键✅</span>  \n题目中<span style=\"color:var(--t-accent)\">\"白色/微黄色+细腻\"</span>是干酪样坏死的典型特征，直接对应<span style=\"color:var(--c-red)\">结核病（E选项）</span>。其他选项的质地或颜色均不匹配。"
         },
         {
           "id": 300,
