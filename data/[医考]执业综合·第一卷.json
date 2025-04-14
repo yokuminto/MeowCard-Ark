@@ -1333,7 +1333,8 @@
             "D 脏层上皮细胞足突广泛消失",
             "E 肾小球毛细血管基膜上皮细胞侧见致密沉积物"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<h3 style=\"color:var(--c-pink);border-bottom:2px solid var(--c-pink)\">📚 微小病变病电镜特征精讲</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n⭐ <strong>核心答案：</strong>\n<span style=\"color:var(--c-red)\">D. 脏层上皮细胞足突广泛消失</span>（记忆口诀：<span style=\"color:var(--t-accent)\">\"小脚不见了\"</span>）\n</div>\n\n<h4 style=\"color:var(--c-purple)\">🔍 病理特征详解：</h4>\n<table style=\"width:100%;border-collapse:collapse;margin:1rem 0\">\n<tr style=\"background-color:var(--bg-sky)\">\n<th>观察方式</th>\n<th>特征表现</th>\n<th>临床意义</th>\n</tr>\n<tr>\n<td>光镜</td>\n<td>肾小球基本正常</td>\n<td>与严重蛋白尿形成鲜明对比</td>\n</tr>\n<tr>\n<td>电镜</td>\n<td><span style=\"color:var(--c-red)\">足突广泛融合消失</span>（<em>foot process effacement</em>）</td>\n<td>诊断金标准</td>\n</tr>\n<tr>\n<td>免疫荧光</td>\n<td>无免疫复合物沉积</td>\n<td>区别于其他肾小球疾病</td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-purple)\">⚠️ 易混淆选项解析：</h4>\n<ul>\n<li><span style=\"color:var(--c-yellow)\">A. 系膜沉积物</span> → 系膜增生性肾小球肾炎</li>\n<li><span style=\"color:var(--c-yellow)\">E. 基膜上皮侧沉积物</span> → 膜性肾病典型表现</li>\n<li><span style=\"color:var(--c-yellow)\">C. 毛细血管壁增厚</span> → 糖尿病肾病/膜增生性肾炎</li>\n</ul>\n\n<h4 style=\"color:var(--c-purple)\">💡 记忆锦囊：</h4>\n<div style=\"background-color:var(--bg-yellow);padding:1rem;border-radius:8px\">\n1. <strong>三联联想记忆法</strong>：<br>\n\"<span style=\"color:var(--c-red)\">微小</span>病变 → <span style=\"color:var(--c-red)\">小脚</span>消失 → 儿童<span style=\"color:var(--c-red)\">小患者</span>多见\"<br>\n\n2. <strong>对比记忆</strong>：<br>\n膜性肾病 → 基膜\"钉突\"形成（<span style=\"color:var(--c-green)\">E选项</span>）<br>\n微小病变 → 足突\"消失\"（<span style=\"color:var(--c-red)\">D选项</span>）\n</div>\n\n<h4 style=\"color:var(--c-purple)\">📌 临床联系：</h4>\n<p>该病变是<span style=\"color:var(--t-accent)\">儿童原发性肾病综合征</span>最常见病因，典型表现为：<br>\n<strong>三高一低</strong>（大量蛋白尿、低蛋白血症、高脂血症、明显水肿）<br>\n但对激素治疗敏感，预后良好 💊</p>"
         },
         {
           "id": 1100,
@@ -32337,7 +32338,7 @@
             "E HE染色"
           ],
           "answer": "A",
-          "notes": ""
+          "notes": "<h3 style=\"color:var(--c-green)\">📚 淀粉样变诊断染色法解析</h3>\n\n<div style=\"background-color:var(--bg-green);padding:1rem;border-radius:8px\">\n<strong>⭐ 核心答案：</strong>\n<span style=\"color:var(--c-red)\">A 刚果红染色</span>（偏振光下呈苹果绿双折光）\n</div>\n\n<h4 style=\"color:var(--c-purple)\">🔍 染色法对比表</h4>\n\n| 染色法       | 检测目标                  | 特征表现                     | 常见应用场景               |\n|--------------|--------------------------|----------------------------|--------------------------|\n| 刚果红染色   | 淀粉样蛋白β折叠结构       | 偏振光下苹果绿双折光        | 淀粉样变性确诊            |\n| 苏丹Ⅲ染色    | 中性脂肪                  | 橙红色脂滴                  | 脂肪变性/动脉粥样硬化     |\n| 普鲁蓝染色   | 三价铁离子               | 蓝色颗粒                    | 含铁血黄素沉着症          |\n| PAS染色      | 糖原/糖蛋白              | 紫红色沉淀                  | 真菌/基底膜/糖原贮积症    |\n| HE染色       | 常规组织结构              | 细胞核蓝/胞质粉红           | 普通病理切片观察          |\n\n<h4 style=\"color:var(--c-blue)\">💡 记忆技巧</h4>\n<div style=\"background-color:var(--bg-blue);padding:1rem;border-radius:8px\">\n<strong>口诀：</strong><br>\n\"<span style=\"color:var(--c-red)\">刚</span>硬结构<span style=\"color:var(--c-red)\">红</span>苹果\"<br>\n→ 刚果红染色对应β折叠结构的淀粉样蛋白，偏振光下呈苹果绿双折光\n</div>\n\n<h4 style=\"color:var(--c-orange)\">⚠️ 易错点提醒</h4>\n<ul>\n  <li>苏丹Ⅲ染色易与脂性肾病混淆，但淀粉样变无脂滴沉积</li>\n  <li>PAS阳性可能误判为糖原贮积病，需结合临床特征鉴别</li>\n  <li>HE染色仅能显示均质粉染物质，无法特异性诊断</li>\n</ul>\n\n<h4 style=\"color:var(--c-pink)\">🔬 病理机制延伸</h4>\n淀粉样蛋白的β折叠结构通过<span style=\"color:var(--t-accent)\">刚果红分子插入</span>形成有序排列，在<span style=\"color:var(--c-green)\">偏振光</span>下产生<span style=\"color:var(--c-red)\">双折射现象</span>。这种特性是其他染色法无法模拟的！"
         },
         {
           "id": 900,
@@ -33669,7 +33670,8 @@
             "D 慢性粒细胞性白血病",
             "E 慢性淋巴细胞性白血病"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨PH染色体核心知识✨</span>\n\n⭐️ <span style=\"color:var(--t-accent)\">正确答案：D 慢性粒细胞性白血病</span>\n\n---\n\n### 🔍 重点解析\n1. **PH染色体本质**  \n   - 即<span style=\"color:var(--c-red)\">费城染色体（Philadelphia chromosome）</span>\n   - 由<span style=\"color:var(--c-blue)\">t(9;22)(q34;q11)</span>染色体易位形成\n   - 产生<span style=\"color:var(--c-purple)\">BCR-ABL1融合基因</span>，导致酪氨酸激酶持续活化\n\n2. **疾病关联性**  \n   - 慢性粒细胞白血病（CML）：<span style=\"color:var(--c-green)\">>95%</span>病例存在\n   - 急性淋巴细胞白血病（ALL）：约25%成人病例可见（但非主要标志）\n   - <span style=\"color:var(--c-red)\">其他选项无PH染色体特征</span>：\n     - 急性粒细胞性白血病：常见PML-RARA（M3型）\n     - 慢性淋巴细胞性白血病：多见13q缺失/11q缺失\n\n---\n\n### 🧠 记忆技巧\n1. **口诀记忆**  \n   <span style=\"color:var(--c-pink)\">\"慢粒费城急淋少，急粒单核各不同\"</span>\n\n2. **形象联想**  \n   PH染色体是CML的<span style=\"color:var(--c-yellow)\">\"身份证\"</span>，就像粉红头发是爱莉的标志一样独特！\n\n3. **临床联系**  \n   <span style=\"color:var(--c-sky)\">靶向药物伊马替尼</span>（格列卫）正是针对BCR-ABL融合蛋白设计\n\n---\n\n### ⚠️ 易错点提醒\n1. 注意PH染色体在<span style=\"color:var(--c-red)\">少数ALL病例</span>中也可出现，但题目问的是\"主要\"标志\n2. 急性白血病常见染色体异常：\n   - M3：t(15;17)\n   - M2：t(8;21)\n   - M4Eo：inv(16)\n\n---\n\n<details style=\"border:2px solid var(--c-purple);padding:10px;border-radius:5px\">\n<summary>📚 扩展知识（点击展开）</summary>\n\n**CML分期特征**  \n| 分期 | 特点 |  \n|-------|------|  \n| 慢性期 | 外周血/骨髓原始细胞<10% |  \n| 加速期 | 出现新的染色体异常，原始细胞10-19% |  \n| 急变期 | 原始细胞≥20%（类似急性白血病） |  \n</details>\n\n<center>🎀 记住这个粉红色的染色体小标志，考试遇到稳稳拿分哦~</center>"
         }
       ]
     }
