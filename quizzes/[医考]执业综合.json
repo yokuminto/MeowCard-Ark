@@ -27004,7 +27004,8 @@
             "D 肺泡活性物质合成和分泌减少",
             "E 小动脉壁纤维蛋白样坏死"
           ],
-          "answer": "C"
+          "answer": "C",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">📚呼吸衰竭核心机制解析</span>\n\n⭐<span style=\"color:var(--t-accent)\">关键记忆点：</span>  \n呼吸膜损伤直接导致**氧气弥散障碍**，是I型呼吸衰竭的核心病理机制\n\n---\n\n### 🔍选项逐解\n**C. 呼吸膜损伤** ✅  \n- 呼吸膜=肺泡上皮+毛细血管内皮+基底膜  \n- 损伤后导致：  \n  💊 **弥散面积减少**（如肺实变）  \n  💉 **弥散距离增加**（如肺水肿）  \n  ⚠️ 典型见于ARDS、间质性肺炎\n\n**A. 血氧含量下降** ❌  \n- 是**临床表现**而非机制  \n- 氧分压↓→氧含量↓是结果\n\n**B. 微血管血栓** ❗  \n- 导致V/Q比例失调（死腔↑）  \n- 见于DIC、ARDS继发改变  \n- 非最直接机制\n\n**D. 肺泡活性物质减少** 🍼  \n- 导致肺泡萎陷（肺不张）  \n- 典型见于**新生儿呼吸窘迫综合征**  \n- 属于**通气障碍**类型\n\n**E. 小动脉纤维蛋白样坏死** 🩸  \n- 恶性高血压特征性改变  \n- 导致肺动脉高压→右心衰  \n- 与呼吸衰竭无直接关联\n\n---\n\n### 🧠记忆口诀  \n\"**膜破氧难进，水肿实变更**\"  \n（呼吸膜损伤→氧弥散障碍→I型呼衰）"
         },
         {
           "id": 500,
@@ -28336,7 +28337,8 @@
             "D 心、肝、肾",
             "E 脑、肠、肺"
           ],
-          "answer": "D"
+          "answer": "D",
+          "notes": "<span style=\"color:var(--c-red)\">⚠️ 注意！本题存在争议点</span>\n\n<h3 style=\"color:var(--c-green)\">📚 高血压靶器官损害核心知识点</h3>\n\n<blockquote style=\"border-left:4px solid var(--c-green);padding-left:1em\">\n⭐ 经典靶器官三联征：<br>\n<span style=\"color:var(--c-red)\">心</span>（左室肥厚、心衰） + <br>\n<span style=\"color:var(--c-blue)\">脑</span>（卒中、TIA） + <br>\n<span style=\"color:var(--c-purple)\">肾</span>（蛋白尿、肾衰）\n</blockquote>\n\n<table style=\"border-collapse:collapse; width:100%\">\n<tr style=\"background-color:var(--bg-yellow)\">\n  <th>选项分析</th>\n  <th>关键点</th>\n</tr>\n<tr>\n  <td>✅ D. 心、肝、肾</td>\n  <td>按题干答案要求选择<br><span style=\"color:var(--t-medium)\">（但需注意肝脏并非经典靶器官）</span></td>\n</tr>\n<tr>\n  <td>❌ B. 心、脑、肾</td>\n  <td>实际临床最常见组合<br><span style=\"color:var(--t-medium)\">（符合第9版《内科学》描述）</span></td>\n</tr>\n</table>\n\n<h4 style=\"color:var(--c-blue)\">💡 记忆锦囊</h4>\n<pre style=\"background-color:var(--bg-sky);padding:1em\">\n\"<span style=\"color:var(--c-red)\">心</span>里装着一颗<span style=\"color:var(--c-purple)\">肾</span>，<span style=\"color:var(--c-blue)\">脑</span>子却肝着急？\"\n👉 强调经典三联是心脑肾，肝不属常规靶器官\n</pre>\n\n<h4 style=\"color:var(--c-pink)\">📌 重要说明</h4>\n<ul>\n<li>肝脏损害更多见于<span style=\"color:var(--c-red)\">门脉高压</span>（肝硬化）或<span style=\"color:var(--c-red)\">药物性肝损</span></li>\n<li>高血压急症可能引起<span style=\"color:var(--c-red)\">肝包膜下出血</span>（但非常罕见）</li>\n</ul>"
         },
         {
           "id": 600,
